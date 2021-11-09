@@ -175,7 +175,7 @@ public class XPathMac extends XPath {
                     result.put("parse", 0);
                     result.put("playUrl", "");
                     result.put("url", videoUrl);
-                    result.put("header", "");
+                    result.put("header", "{\"User-Agent\":\" Mozilla/5.0\",\"Referer\":\" https://qian.wkfile.com/\"}");
                     return result.toString();
                 } catch (Exception e) {
                     SpiderDebug.log(e);

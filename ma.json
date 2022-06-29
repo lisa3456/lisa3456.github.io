@@ -7,7 +7,7 @@
       "type":3,
       "api":"csp_Kunyu77",
       "searchable":1,
-      "quickSearch":0,
+      "quickSearch":1,
       "filterable":1
     },
     {
@@ -16,7 +16,7 @@
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 1
     },
     {
@@ -25,7 +25,7 @@
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 1
     },
     {
@@ -34,7 +34,7 @@
       "type": 3,
       "api": "csp_N0ys",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 1
     },
     {
@@ -43,7 +43,7 @@
       "type": 3,
       "api": "csp_IKan",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 1
     },
     {
@@ -52,7 +52,7 @@
       "type":3, 
       "api":"csp_AppYsV2",
       "searchable":1,
-      "quickSearch":0,
+      "quickSearch":1,
       "filterable":1,
      "ext":"http://123.250idc.com/mogai_api.php/v1.vod"
     },
@@ -62,7 +62,7 @@
       "type":3, 
       "api":"csp_AppYsV2",
       "searchable":1,
-      "quickSearch":0,
+      "quickSearch":1,
       "filterable":1,
      "ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"
     },
@@ -72,7 +72,7 @@
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 0,
       "ext": "https://lisa3456.github.io/lz.json"
     },
@@ -82,7 +82,7 @@
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 0,
       "ext": "https://lisa3456.github.io/cz.json"
     },
@@ -92,7 +92,7 @@
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 0,
       "ext": "https://lisa3456.github.io/gc.json"
     },
@@ -102,7 +102,7 @@
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 0,
       "ext": "https://lisa3456.github.io/ww.json"
     },
@@ -111,56 +111,56 @@
       "name": "看猫资源J",
       "type": 1,
       "api": "http://124.222.83.15:88/api.php/provide/vod/",
-      "quickSearch":0
+      "quickSearch":1
     },
     {
       "key": "忆梦资源J",
       "name": "忆梦资源J",
       "type": 1,
       "api": "http://anltv.cn/api.php/provide/vod/",
-      "quickSearch":0
+      "quickSearch":1
     },
     {
       "key": "八九资源J",
       "name": "八九资源J",
       "type": 1,
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
-      "quickSearch":0
+      "quickSearch":1
     },
     {
       "key": "木子资源J",
       "name": "木子资源J",
       "type": 1,
       "api": "https://mzkj.maccms.cf/api.php/provide/vod/",
-      "quickSearch":0
+      "quickSearch":1
     },
     {
       "key": "猫咪资源J",
       "name": "猫咪资源J",
       "type": 1,
       "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
-      "quickSearch":0
+      "quickSearch":1
     },
     {
       "key": "阿远资源J",
       "name": "阿远资源J",
       "type": 1,
       "api": "https://www.cjzy.xyz:8888/api.php/provide/vod/",
-      "quickSearch":0
+      "quickSearch":1
     },
     {
       "key": "段友资源J",
       "name": "段友资源J",
       "type": 0,
       "api": "https://shangjihuoke.com/api.php/provide/vod/at/xml",
-      "quickSearch":0
+      "quickSearch":1
     },
     {
       "key": "江北资源J",
       "name": "江北资源J",
       "type": 0,
       "api": "https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml",
-      "quickSearch":0
+      "quickSearch":1
     },
     {
         "key": "天堂资源J",
@@ -168,35 +168,35 @@
         "type": 1,
         "api": "http://vipmv.cc/api.php/provide/vod/?ac=list",
         "playUrl": "",
-        "quickSearch":0
+        "quickSearch":1
     },
     {
       "key": "7788资源J",
       "name": "7788资源J",
       "type": 0,
       "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/",
-      "quickSearch":0
+      "quickSearch":1
     },
     {
       "key": "77电影J",
       "name": "77电影J",
       "type": 0,
       "api": "https://www.77diany.com/api.php/provide/vod/at/xml",
-      "quickSearch":0
+      "quickSearch":1
     },
     {
       "key": "千寻影视J",
       "name": "千寻影视J",
       "type": 1,
       "api": "http://wy.dqyhg.cn/api.php/provide/vod/?ac=list",
-      "quickSearch":0
+      "quickSearch":1
     },
     {
       "key": "私人资源J",
       "name": "私人资源J",
       "type": 0,
       "api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml",
-      "quickSearch":0
+      "quickSearch":1
     },
     {
       "key": "csp_GitCafe",

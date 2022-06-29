@@ -249,7 +249,7 @@
       "name": "扶风",
       "type": 1,
       "url": "https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url=",
-      "ext": {"flag": ["qq","mgtv"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}
+      "ext": {"flag": ["qq","mgtv"]}
     },
     {
       "name": "左岸",

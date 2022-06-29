@@ -246,12 +246,6 @@
       "url": "Demo"
     },
     {
-      "name": "扶风",
-      "type": 1,
-      "url": "https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url=",
-      "ext": {"flag": ["qq","mgtv"]}
-    },
-    {
       "name": "左岸",
       "type": 1,
       "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
@@ -267,13 +261,19 @@
       "name": "太空",
       "type": 1,
       "url": "http://124.222.68.182/jiexi/4kJX.php/?url=",
-      "ext": {"flag": ["qq","qiyi","youku"]}
+      "ext": {"flag": ["qq","qiyi","youku","mgtv"]}
     },
     {
       "name": "渔民",
       "type": 1,
       "url": "http://www.zruiry.com/json.php?url=",
-      "ext": {"flag": ["qq","qiyi","youku"]}
+      "ext": {"flag": ["qq","qiyi","youku","mgtv"]}
+    },
+    {
+      "name": "扶风",
+      "type": 1,
+      "url": "https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url=",
+      "ext": {"flag": ["mgtv"]}
     },
     {
       "name": "293",

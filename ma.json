@@ -16,7 +16,7 @@
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 1
     },
     {
@@ -204,7 +204,7 @@
       "type": 3,
       "api": "csp_GitCafe",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 0
     },
     {
@@ -213,7 +213,7 @@
       "type": 3,
       "api": "csp_AliPanSou",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "filterable": 0
     },
     {
@@ -246,12 +246,6 @@
       "url": "Demo"
     },
     {
-      "name": "293",
-      "type": 1,
-      "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
-      "ext": {"flag": ["qq","mgtv"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}
-    },
-    {
       "name": "扶风",
       "type": 1,
       "url": "https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url=",
@@ -261,7 +255,7 @@
       "name": "左岸",
       "type": 1,
       "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
-      "ext": {"flag": ["qq"]}
+      "ext": {"flag": ["qq","qiyi","youku"]}
     },
     {
       "name": "融兴",
@@ -270,28 +264,34 @@
       "ext": {"flag": ["qiyi","youku"]}
     },
     {
+      "name": "渔民",
+      "type": 1,
+      "url": "http://www.zruiry.com/json.php?url=",
+      "ext": {"flag": ["qq","qiyi","youku"]}
+    },
+    {
       "name": "太空",
       "type": 1,
       "url": "http://124.222.68.182/jiexi/4kJX.php/?url=",
-      "ext": {"flag": ["qiyi","youku"]}
+      "ext": {"flag": ["",""]}
     },
     {
       "name": "江湖",
       "type": 1,
       "url": "https://jhjx.kuanjv.com/newky/?url=",
-      "ext": {"flag": ["qiyi","youku","mgtv"]}
+      "ext": {"flag": ["",""]}
     },
     {
-      "name": "渔民",
+      "name": "293",
       "type": 1,
-      "url": "http://www.zruiry.com/json.php?url=",
-      "ext": {"flag": ["qiyi","youku"]}
+      "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
+      "ext": {"flag": ["",""],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}
     },
     {
       "name": "飞云",
       "type": 1,
       "url": "http://183.131.83.147:4433/json/?url=",
-      "ext": {"flag": ["qiyi","youku"]}
+      "ext": {"flag": ["",""]}
     }
   ],
   "flags": [

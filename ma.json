@@ -72,19 +72,12 @@
       "key": "多多资源J",
       "name": "多多资源J",
       "type": 1,
-      "api": "https://a.7dyu.cn/api.php/provide/vod/",
+      "api": "https://a.7dyu.cn/api.php/provide/vod/from/ddzy",
       "quickSearch":1
     },
     {
       "key": "多多资源2J",
       "name": "多多资源2J",
-      "type": 1,
-      "api": "https://www.peiqi.tv/api.php/provide/vod/from/ddzy",
-      "quickSearch":1
-    },
-    {
-      "key": "多多资源3J",
-      "name": "多多资源3J",
       "type": 1,
       "api": "http://ekvod.peizq.online/api.php/provide/vod/from/ddzy",
       "quickSearch":1

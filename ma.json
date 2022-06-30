@@ -76,6 +76,20 @@
       "quickSearch":1
     },
     {
+      "key": "多多资源2J",
+      "name": "多多资源2J",
+      "type": 1,
+      "api": "https://www.peiqi.tv/api.php/provide/vod/from/ddzy",
+      "quickSearch":1
+    },
+    {
+      "key": "多多资源3J",
+      "name": "多多资源3J",
+      "type": 1,
+      "api": "http://ekvod.peizq.online/api.php/provide/vod/from/ddzy",
+      "quickSearch":1
+    },
+    {
       "key": "看猫资源J",
       "name": "看猫资源J",
       "type": 1,

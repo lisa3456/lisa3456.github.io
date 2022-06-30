@@ -263,7 +263,7 @@
       "name": "多多",
       "type": 1,
       "url": "http://qiqi.520say.cn/json/dd.php?url=",
-      "ext": {"flag": [""]}
+      "ext": {"flag": ["ddzy"]}
     }
   ],
   "flags": [
@@ -276,7 +276,7 @@
     "tudou",
     "pptv",
     "mgtv",
-    "d"
+    "ddzy"
   ],
   "ijk": [
     {

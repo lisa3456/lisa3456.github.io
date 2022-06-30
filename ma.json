@@ -9,16 +9,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1
-    },
-    {
-      "key": "LiteApple",
-      "name": "苹果影视",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
+    }
     {
       "key": "Kuaikan",
       "name": "快看影视",
@@ -27,16 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "1090YS",
-      "name": "九零影视",
-      "type": 3,
-      "api": "csp_N0ys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    }
     {
       "key": "Ikan",
       "name": "爱看影视",
@@ -48,23 +30,13 @@
     },
     {
       "key":"csp_appysv2_kkys",
-      "name":"看看影视",
+      "name":"钟特影视",
       "type":3, 
       "api":"csp_AppYsV2",
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-     "ext":"http://123.250idc.com/mogai_api.php/v1.vod"
-    },
-    {
-      "key":"csp_appysv2_jyys",
-      "name":"九亿影视",
-      "type":3, 
-      "api":"csp_AppYsV2",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-     "ext":"http://vod.9e03.com/lvdou_api.php/v1.vod"
+     "ext":"https://app.zteys.com/api.php/v1.vod"
     },
     {
       "key": "csp_biubiu_lz",
@@ -105,6 +77,13 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://lisa3456.github.io/ww.json"
+    },
+    {
+      "key": "多多资源J",
+      "name": "多多资源J",
+      "type": 1,
+      "api": "https://a.7dyu.cn/api.php/provide/vod/",
+      "quickSearch":1
     },
     {
       "key": "看猫资源J",
@@ -261,7 +240,7 @@
       "name": "融兴",
       "type": 1,
       "url": "https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url=",
-      "ext": {"flag": ["qiyi","youku"]}
+      "ext": {"flag": ["qiyi","youku","rx"]}
     },
     {
       "name": "太空",
@@ -280,6 +259,12 @@
       "type": 1,
       "url": "https://vip.byteamone.cn/api/?key=Mnmhfm6GZha1dQz8HO&url=",
       "ext": {"flag": ["mgtv"]}
+    },
+    {
+      "name": "多多",
+      "type": 1,
+      "url": "http://qiqi.520say.cn/json/dd.php?url=",
+      "ext": {"flag": ["ddzy"]}
     }
   ],
   "flags": [

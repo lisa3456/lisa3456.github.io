@@ -29,16 +29,6 @@
       "filterable": 1
     },
     {
-      "key":"csp_appysv2_ztys",
-      "name":"钟特影视",
-      "type":3, 
-      "api":"csp_AppYsV2",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-     "ext":"https://app.zteys.com/api.php/v1.vod"
-    },
-    {
       "key": "csp_biubiu_lz",
       "name": "乐猪影视",
       "type": 3,
@@ -231,6 +221,12 @@
       "ext": {"flag": ["qq","qiyi","youku","mgtv"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}
     },
     {
+      "name": "2932",
+      "type": 1,
+      "url": "http://81.71.48.249:4456/jsonc/293shipin.php?url=",
+      "ext": {"flag": ["qq","qiyi","youku","mgtv"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}
+    },
+    {
       "name": "左岸",
       "type": 1,
       "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
@@ -240,7 +236,7 @@
       "name": "融兴",
       "type": 1,
       "url": "https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url=",
-      "ext": {"flag": ["qiyi","youku","rx"]}
+      "ext": {"flag": ["qiyi","youku"]}
     },
     {
       "name": "太空",
@@ -277,7 +273,6 @@
     "tudou",
     "pptv",
     "mgtv",
-    "rx",
     "ddzy"
   ],
   "ijk": [

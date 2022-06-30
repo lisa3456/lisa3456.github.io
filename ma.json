@@ -221,12 +221,6 @@
       "ext": {"flag": ["qq","qiyi","youku","mgtv"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}
     },
     {
-      "name": "2932",
-      "type": 1,
-      "url": "http://81.71.48.249:4456/jsonc/293shipin.php?url=",
-      "ext": {"flag": ["qq","qiyi","youku","mgtv"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}
-    },
-    {
       "name": "左岸",
       "type": 1,
       "url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",

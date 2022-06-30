@@ -258,12 +258,6 @@
       "type": 1,
       "url": "https://vip.byteamone.cn/api/?key=Mnmhfm6GZha1dQz8HO&url=",
       "ext": {"flag": ["mgtv"]}
-    },
-    {
-      "name": "多多",
-      "type": 1,
-      "url": "http://qiqi.520say.cn/json/dd.php?url=",
-      "ext": {"flag": ["ddzy"]}
     }
   ],
   "flags": [
@@ -275,8 +269,7 @@
     "sohu",
     "tudou",
     "pptv",
-    "mgtv",
-    "ddzy"
+    "mgtv"
   ],
   "ijk": [
     {

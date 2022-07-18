@@ -13,12 +13,12 @@
 "type_id": "人与自然"
 },
 {
-"type_name": "相声小品",
-"type_id": "相声小品"
+"type_name": "cctv",
+"type_id": "cctv"
 },
 {
-"type_name": "儿童",
-"type_id": "儿童"
+"type_name": "央视",
+"type_id": "央视"
 }
 ],
 "filter": {

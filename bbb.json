@@ -13,12 +13,12 @@
 "type_id": "人与自然"
 },
 {
-"type_name": "cctv",
-"type_id": "cctv"
+"type_name": "CCTV 纪录",
+"type_id": "CCTV 纪录"
 },
 {
-"type_name": "央视",
-"type_id": "央视"
+"type_name": "央视 纪录",
+"type_id": "央视 纪录"
 }
 ],
 "filter": {

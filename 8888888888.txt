@@ -9,8 +9,8 @@
 "type_id": "动物世界"
 },
 {
-"type_name": "假窗白噪音",
-"type_id": "窗 白噪音"
+"type_name": "人与自然",
+"type_id": "人与自然"
 },
 {
 "type_name": "相声小品",

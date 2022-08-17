@@ -53,8 +53,8 @@
   // Playlist ========================================================
   "dtFromNode": "//div[contains(@class, 'module-tab-items-box')]/div[contains(@class, 'module-tab-item')]/span",
     "dtFromName": "/text()",
-    "dtUrlNode": "//div[contains(@class, 'module-play-list')]",
-    "dtUrlSubNode": "/div/a",
+    "dtUrlNode": "//div[contains(@class, 'module-play-list-content')]",
+    "dtUrlSubNode": "/a",
     "dtUrlId": "/@href",
     "dtUrlIdR": "/p/(\\S+).html",
     "dtUrlName": "/span/text()",

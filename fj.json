@@ -38,10 +38,10 @@
     "dtNameR": "",
     "dtImg": "//div[@class='hl-dc-pic']/span/@data-original",
     "dtImgR": "\\S+(http\\S+)",
-    "dtCate": "//div[@class='hl-full-box clearfix']//li[@class='hl-col-xs-12 hl-col-sm-4']/em[contains(@class,'hl-text-muted') and contains(text(), '类型：')]/parent::text()",
+    "dtCate": "//div[@class='hl-full-box clearfix']//li[@class='hl-col-xs-12 hl-col-sm-4']/em[contains(@class,'hl-text-muted') and contains(text(), '类型：')]/following-sibling::a/text()",
     "dtYear": "//div[@class='hl-full-box clearfix']//li[@class='hl-col-xs-12 hl-col-sm-4']/em[contains(@class,'hl-text-muted') and contains(text(), '年份：')]/parent::text()",
     "dtArea": "//div[@class='hl-full-box clearfix']//li[@class='hl-col-xs-12 hl-col-sm-4']/em[contains(@class,'hl-text-muted') and contains(text(), '地区：')]/parent::text()",
-    "dtActor": "//div[@class='hl-full-box clearfix']//li[@class='hl-col-xs-12']/em[contains(@class,'hl-text-muted') and contains(text(), '主演：')]/parent::text()",
+    "dtActor": "//div[@class='hl-full-box clearfix']//li[@class='hl-col-xs-12']/em[contains(@class,'hl-text-muted') and contains(text(), '主演：')]/following-sibling::a/text()",
     "dtDirector": "//div[@class='hl-full-box clearfix']//li[@class='hl-col-xs-12']/em[contains(@class,'hl-text-muted') and contains(text(), '导演：')]/parent::text()",
     "dtDesc": "//div[@class='hl-full-box clearfix']//li[@class='hl-col-xs-12 blurb']/text()",
   

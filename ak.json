@@ -51,14 +51,14 @@
     "dtUrlNode": "//div[contains(@class, 'module-play-list-content')]",
     "dtUrlSubNode": "/a",
     "dtUrlId": "/@href",
-    "dtUrlIdR": "/play/(\\S+).html",
+    "dtUrlIdR": "/(\\S+).html",
     "dtUrlName": "/span/text()",
     "dtUrlNameR": "",
-    "playUrl": "http://www.ml1080.com/play/{playUrl}.html",
+    "playUrl": "http://www.ml1080.com/{playUrl}.html",
     "playUa": "",
   
   // Search Results ==================================================
-    "searchUrl": "https://www.zhanlangbu.com/ajax/suggest?mid=1&wd={wd}&limit=10",
+    "searchUrl": "https://www.zhanlangbu.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
     "scVodNode": "json:list",
     "scVodName": "name",
     "scVodId": "id",

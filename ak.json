@@ -54,7 +54,7 @@
     "dtUrlIdR": "/(\\S+).html",
     "dtUrlName": "/span/text()",
     "dtUrlNameR": "",
-    "playUrl": "http://www.ml1080.com/{playUrl}.html",
+    "playUrl": "https://www.zhanlangbu.com/{playUrl}.html",
     "playUa": "",
   
   // Search Results ==================================================

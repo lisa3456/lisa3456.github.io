@@ -78,7 +78,7 @@
 
     "dtImgR": "\\S+(http\\S+)",
 
-    "dtCate": "",
+    "dtCate": "//div[@class='video-info-aux scroll-content']/a[@class='tag-link'][1]/@title",
 
     "dtYear": "//div[@class='video-info-aux scroll-content']/a[@class='tag-link'][2]/text()",
 

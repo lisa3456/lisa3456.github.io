@@ -78,11 +78,11 @@
 
     "dtImgR": "\\S+(http\\S+)",
 
-    "dtCate": "/div[@class='module-info-main']/div[@class='module-info-heading']/div[@class='module-info-tag']/div[@class='module-info-tag-link'][3]/a",
+    "dtCate": "",
 
-    "dtYear": "//div[@class='video-info-aux scroll-content']/div[@class='tag-link']/a[@class='tag-link'][1]/text()",
+    "dtYear": "//div[@class='video-info-aux scroll-content']/a[@class='tag-link'][2]/text()",
 
-    "dtArea": "//div[@class='video-info-aux scroll-content']/div[@class='tag-link']/a[@class='tag-link'][2]/text()",
+    "dtArea": "//div[@class='video-info-aux scroll-content']/a[@class='tag-link'][3]/text()",
 
     "dtActor": "//div[@class='video-info-items']/span[@class='video-info-itemtitle' and contains(text(), '主演：')]/following-sibling::div/a/text()",
 

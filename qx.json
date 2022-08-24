@@ -74,7 +74,7 @@
 
     "dtNameR": "",
 
-    "dtImg": "//div[@class='module-item-pic']/a/img/@data-src",
+    "dtImg": "//div[@class='module-item-pic']/img/@data-src",
 
     "dtImgR": "\\S+(http\\S+)",
 

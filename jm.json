@@ -1,57 +1,101 @@
-{"name": "剧喵",
-"url": "http://zjmiao.com",
-"tihuan": "cnzz.com",
-"User": "空",
-"fenlei": "电视剧$/index.php/vod/show/id/2/page/",
-"houzhui": "/.html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "<div class=\"pack-ykpack \">",
-"jiequshuzuhou": "</div>",
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-  "sousuohou": "&limit=50",
-  "sousuohouzhui": "/index.php/vod/detail/id/",
-  "ssmoshi": "0",
-  "sousuoshifouercijiequ": "0",
-  "jspic": "pic",
-  "jsname": "name",
-  "jsid": "id",
-  "ssjiequqian": "空",
-  "ssjiequhou": "空",
-  "ssjiequshuzuqian": "空",
-  "ssjiequshuzuhou": "空",
-  "sstupianqian": "空",
-  "sstupianhou": "空",
-  "ssbiaotiqian": "空",
-  "ssbiaotihou": "空",
-  "sslianjieqian": "空",
-  "sslianjiehou": "空",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "<ul class=\"content_playlist cf\">",
-"bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "年代：</span> ",
-"zhuangtaihou": "</a>",
-"daoyanqian": ">导演：",
-"daoyanhou": "</p>",
-"zhuyanqian": ">演员：",
-"zhuyanhou": "</p>",
-"juqingqian": "<div class=\"desc_txt cf ec-palytcji cor3\">",
-"juqinghou": "</span>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<li>",
-"bfyjiequshuzuhou": "</li>",
-"bfbiaotiqian": "\">",
-"bfbiaotihou": "</a>",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\""}
+{
+
+    "author":"takagen随风起舞",
+
+    "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+
+    "homeUrl": "https://zjmiao.com/",
+
+    "dcVipFlag": "true",
+
+    "dcPlayUrl": "true",
+
+    "dcShow2Vip": {},
+
+    "pCfgJs": "https://zjmiao.com/static/js/playerconfig.js",
+
+    "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+
+    "cateManual": {
+
+      "电影": "1",
+
+      "连续剧": "13",
+
+      "动漫": "3",
+
+      "综艺": "39"
+
+    },
+
+
+
+  // Category Details ================================================
+
+    "dtUrl": "https://zjmiao.com/index.php/vod/detail/id/{vid}.html",
+
+    "dtNode": "//body",
+
+    "dtName": "//div[@class='s-top-right']/div[@class='s-top-info-title cf wow fadeInDownBig']/h1/text()",
+
+    "dtNameR": "",
+
+    "dtImg": "//div[@class='l wow fadeInLeft']/div[@class='s-cover box']/a/img/@src",
+
+    "dtImgR": "\\S+(http\\S+)",
+
+    "dtCate": "//div[@class='video-info-aux scroll-content']/a[@class='tag-link'][1]/@title",
+
+    "dtYear": "//div[@class='video-info-aux scroll-content']/a[@class='tag-link'][2]/text()",
+
+    "dtArea": "//div[@class='video-info-aux scroll-content']/a[@class='tag-link'][3]/text()",
+
+    "dtActor": "//div[@class='video-info-items']/span[@class='video-info-itemtitle' and contains(text(), '主演：')]/following-sibling::div/a/text()",
+
+    "dtDirector": "//div[@class='video-info-items']/span[@class='video-info-itemtitle' and contains(text(), '导演：')]/following-sibling::div/a/text()",
+
+    "dtDesc": "//div[@class='video-info-items']/span[@class='video-info-itemtitle' and contains(text(), '剧情：')]/following-sibling::div/text()",
+
+  
+
+  // Playlist ========================================================
+
+    "dtFromNode": "//div[@class='play_source_tab b-t swiper-container1']/div[@class='cf swiper-wrapper']/a",
+
+    "dtFromName": "/text()",
+
+    "dtUrlNode": "//div[@class='playlist_notfull']/ul",
+
+    "dtUrlSubNode": "/li/a",
+
+    "dtUrlId": "/@href",
+
+    "dtUrlIdR": "/(\\S+).html",
+
+    "dtUrlName": "/text()",
+
+    "dtUrlNameR": "",
+
+    "playUrl": "https://www.bcwzg.com/{playUrl}.html",
+
+    "playUa": "",
+
+  
+
+  // Search Results ==================================================
+
+    "searchUrl": "https://zjmiao.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+
+    "scVodNode": "json:list",
+
+    "scVodName": "name",
+
+    "scVodId": "id",
+
+    "scVodIdR": "",
+
+    "scVodImg": "pic",
+
+    "scVodMark": ""
+
+}

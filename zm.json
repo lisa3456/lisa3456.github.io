@@ -44,15 +44,15 @@
 
     "dtImgR": "\\S+(http\\S+)",
 
-    "dtCate": "//div[@class='s-top-info-detail cf fyy wow lightSpeedIn']/p[@class='item item-director')]/span[contains(text(), '类型：')]/following-sibling::a/text()",
+    "dtCate": "//div[@class='s-top-info-detail cf fyy wow lightSpeedIn']/p[@class='item item-director')]/span[contains(text(), '类型：')]/following-sibling::a",
 
-    "dtYear": "//div[@class='s-top-info-detail cf fyy wow lightSpeedIn']/p[@class='item item-actor')]/span[contains(text(), '年代：')]/following-sibling::a/text()",
+    "dtYear": "//div[@class='s-top-info-detail cf fyy wow lightSpeedIn']/p[@class='item item-actor')]/span[contains(text(), '年代：')]/following-sibling::a",
 
-    "dtArea": "//div[@class='s-top-info-detail cf fyy wow lightSpeedIn']/p[@class='item')]/span[contains(text(), '地区：')]/following-sibling::a/text()",
+    "dtArea": "//div[@class='s-top-info-detail cf fyy wow lightSpeedIn']/p[@class='item')]/span[contains(text(), '地区：')]/following-sibling::a",
 
-    "dtActor": "//div[@class='s-top-info-detail cf fyy wow lightSpeedIn']/p[@class='item-desc js-open-wrap hidden')][1]/a/text()",
+    "dtActor": "//div[@class='s-top-info-detail cf fyy wow lightSpeedIn']/p[@class='item-desc js-open-wrap hidden')][1]/a",
 
-    "dtDirector": "//div[@class='s-top-info-detail cf fyy wow lightSpeedIn']/p[@class='item-desc js-open-wrap hidden')][2]/a/text()",
+    "dtDirector": "//div[@class='s-top-info-detail cf fyy wow lightSpeedIn']/p[@class='item-desc js-open-wrap hidden')][2]/a",
 
     "dtDesc": "//div[@class='desc_txt cf ec-palytcji cor3']/span/text()",
 

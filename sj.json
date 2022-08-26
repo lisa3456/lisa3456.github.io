@@ -1,0 +1,52 @@
+{
+    "author":"",
+    "ua": "",
+    "homeUrl": "https://www.shijueyy.com/",
+    "dcVipFlag": "true",
+    "dcPlayUrl": "true",
+    "dcShow2Vip": {},
+    "pCfgJs": "https://www.shijueyy.com/static/js/playerconfig.js",
+    "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+    "cateManual": {
+      "电影": "1",
+      "连续剧": "13",
+      "动漫": "3",
+      "综艺": "39"
+    },
+  
+  
+  // Category Details ================================================
+    "dtUrl": "https://www.shijueyy.com/v_detail/{vid}.html",
+    "dtNode": "//div[@class='hl-detail-content hl-marg-right50 clearfix']",
+    "dtName": "//div[@class='hl-dc-content']/div[@class='hl-dc-headwrap']/h2/text()",
+    "dtNameR": "",
+    "dtImg": "//div[@class='hl-dc-pic']/span/@data-original",
+    "dtImgR": "\\S+(http\\S+)",
+    "dtCate": "//div[@class='hl-full-box clearfix']//li[@class='hl-col-xs-12 hl-col-sm-4']/em[contains(@class,'hl-text-muted') and contains(text(), '类型：')]/following-sibling::a/text()",
+    "dtYear": "//div[@class='hl-full-box clearfix']//li[@class='hl-col-xs-12 hl-col-sm-4']/em[contains(@class,'hl-text-muted') and contains(text(), '年份：')]/parent::text()",
+    "dtArea": "//div[@class='hl-full-box clearfix']//li[@class='hl-col-xs-12 hl-col-sm-4']/em[contains(@class,'hl-text-muted') and contains(text(), '地区：')]/parent::text()",
+    "dtActor": "//div[@class='hl-full-box clearfix']//li[@class='hl-col-xs-12']/em[contains(@class,'hl-text-muted') and contains(text(), '主演：')]/following-sibling::a/text()",
+    "dtDirector": "//div[@class='hl-full-box clearfix']//li[@class='hl-col-xs-12']/em[contains(@class,'hl-text-muted') and contains(text(), '导演：')]/parent::text()",
+    "dtDesc": "//div[@class='hl-full-box clearfix']//li[@class='hl-col-xs-12 blurb']/text()",
+  
+  // Playlist ========================================================
+    "dtFromNode": "//div[@class='hl-plays-from hl-tabs swiper-wrapper clearfix']/a[contains(@class, 'hl-tabs-btn hl-slide-swiper')]",
+    "dtFromName": "/text()",
+    "dtUrlNode": "//ul[contains(@class, 'hl-plays-list')]",
+    "dtUrlSubNode": "/li/a",
+    "dtUrlId": "/@href",
+    "dtUrlIdR": "/(\\S+).html",
+    "dtUrlName": "/text()",
+    "dtUrlNameR": "",
+    "playUrl": "https://www.shijueyy.com/{playUrl}.html",
+    "playUa": "",
+  
+  // Search Results ==================================================
+    "searchUrl": "https://www.shijueyy.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+    "scVodNode": "json:list",
+    "scVodName": "name",
+    "scVodId": "id",
+    "scVodIdR": "",
+    "scVodImg": "pic",
+    "scVodMark": ""
+}

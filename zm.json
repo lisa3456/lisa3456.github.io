@@ -1,6 +1,6 @@
 {
 
-    "author":"takagen随风起舞",
+    "author":"",
 
     "ua": "",
 
@@ -44,17 +44,17 @@
 
     "dtImgR": "\\S+(http\\S+)",
 
-    "dtCate": "//div[@class='video-info-aux scroll-content']/a[@class='tag-link'][1]/@title",
+    "dtCate": "//div[@class='s-top-info-detail cf fyy wow lightSpeedIn']/p[@class='item item-director')]/span[contains(text(), '类型：')]/following-sibling::a/text()",
 
-    "dtYear": "//div[@class='video-info-aux scroll-content']/a[@class='tag-link'][2]/text()",
+    "dtYear": "//div[@class='s-top-info-detail cf fyy wow lightSpeedIn']/p[@class='item item-actor')]/span[contains(text(), '年代：')]/following-sibling::a/text()",
 
-    "dtArea": "//div[@class='video-info-aux scroll-content']/a[@class='tag-link'][3]/text()",
+    "dtArea": "//div[@class='s-top-info-detail cf fyy wow lightSpeedIn']/p[@class='item')]/span[contains(text(), '地区：')]/following-sibling::a/text()",
 
-    "dtActor": "//div[@class='video-info-items']/span[@class='video-info-itemtitle' and contains(text(), '主演：')]/following-sibling::div/a/text()",
+    "dtActor": "//div[@class='s-top-info-detail cf fyy wow lightSpeedIn']/p[@class='item-desc js-open-wrap hidden')][1]/a/text()",
 
-    "dtDirector": "//div[@class='video-info-items']/span[@class='video-info-itemtitle' and contains(text(), '导演：')]/following-sibling::div/a/text()",
+    "dtDirector": "//div[@class='s-top-info-detail cf fyy wow lightSpeedIn']/p[@class='item-desc js-open-wrap hidden')][2]/a/text()",
 
-    "dtDesc": "//div[@class='video-info-items']/span[@class='video-info-itemtitle' and contains(text(), '剧情：')]/following-sibling::div/text()",
+    "dtDesc": "//div[@class='desc_txt cf ec-palytcji cor3']/span/text()",
 
   
 
@@ -99,3 +99,4 @@
     "scVodMark": ""
 
 }
+

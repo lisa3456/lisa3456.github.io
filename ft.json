@@ -30,9 +30,9 @@
     "dtDesc": "//div[@class='stui-content__detail']/p[@class='desc detail']/span[@class='detail-content']/text()",
   
   // Playlist ========================================================
-    "dtFromNode": "//div[@class='stui-vodlist__head'][1]/h3",
+    "dtFromNode": "//div[@class='stui-vodlist__head']/span[@class='pull-right']/following-sibling::h3",
     "dtFromName": "/text()",
-    "dtUrlNode": "//ul[@class='stui-content__playlist clearfix'][1]",
+    "dtUrlNode": "//ul[@class='stui-content__playlist clearfix']",
     "dtUrlSubNode": "/li/a",
     "dtUrlId": "/@href",
     "dtUrlIdR": "/(\\S+).html",

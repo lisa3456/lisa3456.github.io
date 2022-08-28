@@ -30,7 +30,7 @@
     "dtDesc": "//div[@class='module-info-introduction-content']/p/text()",
   
   // Playlist ========================================================
-    "dtFromNode": "//div[@class='module-tab-items']//div[@class='module-tab-item tab-item']/span",
+    "dtFromNode": "//div[@class='module-tab-items']//div[contains(@class, 'module-tab-item tab-item')]/span",
     "dtFromName": "/text()",
     "dtUrlNode": "//div[@class='module-play-list-content  module-play-list-base']",
     "dtUrlSubNode": "/a",

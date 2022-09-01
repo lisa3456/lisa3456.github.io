@@ -20,7 +20,7 @@
     "dtNode": "//body",
     "dtName": "//div[@class='myui-content__detail']/h1/text()",
     "dtNameR": "",
-    "dtImg": "//div[@class='myui-content__thumb']/a/img/@src",
+    "dtImg": "//div[@class='myui-content__thumb']/a/img/@data-original",
     "dtImgR": "\\S+(http\\S+)",
     "dtCate": "//div[@class='myui-content__detail']/p[@class='data'][1]/a[1]/text()",
     "dtYear": "//div[@class='myui-content__detail']/p[@class='data'][1]/a[3]/text()",
@@ -30,7 +30,7 @@
     "dtDesc": "//div[@class='col-pd text-collapse content']/span[@class='data']/p/text()",
   
   // Playlist ========================================================
-    "dtFromNode": "//div[@class='myui-panel__head active bottom-line clearfix']/ul[@class='nav nav-tabs active']/li/a",
+    "dtFromNode": "//div[@class='myui-panel__head active bottom-line clearfix'][1]/ul[@class='nav nav-tabs active']/li/a",
     "dtFromName": "/text()",
     "dtUrlNode": "//div[@class='tab-content myui-panel_bd']//ul[@class='myui-content__list sort-list clearfix']",
     "dtUrlSubNode": "/li/a",

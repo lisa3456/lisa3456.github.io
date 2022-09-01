@@ -30,7 +30,7 @@
     "dtDesc": "//div[@class='col-pd text-collapse content']/span[@class='data']/p/text()",
   
   // Playlist ========================================================
-    "dtFromNode": "//div[@class='myui-panel__head active bottom-line clearfix'][1]/ul[@class='nav nav-tabs active']/li/a",
+    "dtFromNode": "//div[@class='myui-panel__head active bottom-line clearfix']/h3[contains(text(), '播放地址')]/following-sibling::ul/li/a",
     "dtFromName": "/text()",
     "dtUrlNode": "//div[@class='tab-content myui-panel_bd']//ul[@class='myui-content__list sort-list clearfix']",
     "dtUrlSubNode": "/li/a",

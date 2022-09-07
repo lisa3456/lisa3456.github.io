@@ -22,6 +22,7 @@
     "cat_url": "href=\"&&\"",
     "cat_prefix": "https://fositv.com",
     "cat_suffix": "",
+    "search_url": "https://fositv.com/index.php/ajax/suggest?mid=1&wd={wd}",
     "search_mode": "0",
     "jsonpic": "pic",
     "jsonname": "name",

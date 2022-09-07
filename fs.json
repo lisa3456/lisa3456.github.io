@@ -32,7 +32,7 @@
   // Playlist ========================================================
     "dtFromNode": "//div[@class='myui-panel__head active bottom-line clearfix']/h3[contains(text(), '播放地址')]/following-sibling::ul/li/a",
     "dtFromName": "/text()",
-    "dtUrlNode": "//div[@class='tab-content myui-panel_bd']//ul[@class='myui-content__list sort-list clearfix']",
+    "dtUrlNode": "//div[@class='tab-content myui-panel_bd']//ul[@class='myui-content__list scrollbar sort-list clearfix']",
     "dtUrlSubNode": "/li/a",
     "dtUrlId": "/@href",
     "dtUrlIdR": "/(\\S+).html",

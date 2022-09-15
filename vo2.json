@@ -1,0 +1,52 @@
+{
+    "author":"",
+    "ua": "",
+    "homeUrl": "https://www.voflix.com/",
+    "dcVipFlag": "true",
+    "dcPlayUrl": "true",
+    "dcShow2Vip": {},
+    "pCfgJs": "https://www.voflix.com/static/js/playerconfig.js",
+    "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+    "cateManual": {
+      "电影": "1",
+      "连续剧": "13",
+      "动漫": "3",
+      "综艺": "39"
+    },
+  
+  
+  // Category Details ================================================
+    "dtUrl": "https://www.voflix.com/detail/{vid}.html",
+    "dtNode": "//body",
+    "dtName": "//div[@class='module-item-pic']/img/@alt",
+    "dtNameR": "",
+    "dtImg": "//div[@class='module-item-pic']/img/@data-original",
+    "dtImgR": "\\S+(http\\S+)",
+    "dtCate": "//div[@class='module-info-heading']/div[@class='module-info-tag']/div[@class='module-info-tag-link'][3]/a/text()",
+    "dtYear": "//div[@class='module-info-heading']/div[@class='module-info-tag']/div[@class='module-info-tag-link'][1]/a/text()",
+    "dtArea": "//div[@class='module-info-heading']/div[@class='module-info-tag']/div[@class='module-info-tag-link'][2]/a/text()",
+    "dtActor": "//div[@class='module-info-items']/div[@class='module-info-item']/span[contains(text(), '主演')]/following-sibling::div/a/text()",
+    "dtDirector": "//div[@class='module-info-items']/div[@class='module-info-item']/span[contains(text(), '导演')]/following-sibling::div/a/text()",
+    "dtDesc": "//div[@class='module-info-introduction-content']/p/text()",
+  
+  // Playlist ========================================================
+    "dtFromNode": "//div[@class='module-tab-items-box hisSwiper']/div/span",
+    "dtFromName": "/text()",
+    "dtUrlNode": "//div[@class='module-play-list-content  module-play-list-base']",
+    "dtUrlSubNode": "/a",
+    "dtUrlId": "/@href",
+    "dtUrlIdR": "/(\\S+).html",
+    "dtUrlName": "/span/text()",
+    "dtUrlNameR": "",
+    "playUrl": "https://www.voflix.com/{playUrl}.html",
+    "playUa": "",
+  
+  // Search Results ==================================================
+    "searchUrl": "https://www.voflix.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+    "scVodNode": "json:list",
+    "scVodName": "name",
+    "scVodId": "id",
+    "scVodIdR": "",
+    "scVodImg": "pic",
+    "scVodMark": ""
+}

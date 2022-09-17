@@ -25,7 +25,7 @@
     "tab_arr_rule": ".myui-panel_hd&&.myui-panel__head",
     "tab_title": "h3&&Text",
     
-    "list_arr_rule": "myui-panel_bd&&.myui-content__list",
+    "list_arr_rule": ".myui-panel_bd&&.myui-content__list",
     "epi_arr_rule": "li",
     "epi_title": "a&&Text",
     "epi_url": "a&&href",

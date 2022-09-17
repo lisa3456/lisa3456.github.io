@@ -22,8 +22,8 @@
     "proj_actor": "主演：</span>&&</p>",
     "proj_plot": "<span class=\"sketch content\">&&</span>",
     
-    "tab_arr_rule": ".myui-panel_hd&&.myui-panel__head",
-    "tab_title": "h3&&Text",
+    "tab_arr_rule": "",
+    "tab_title": "",
     
     "list_arr_rule": ".myui-panel_bd&&.myui-content__list",
     "epi_arr_rule": "li",

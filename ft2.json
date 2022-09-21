@@ -20,7 +20,7 @@
     "proj_year": "年份：&&</p>",
     "proj_area": "地区：&&/",
     "proj_actor": ">主演：&&</p>",
-    "proj_plot": "<span class=\"detail-sketch hide\">&&</span>",
+    "proj_plot": "<span class=\"detail-sketch\">&&</span>",
     
     "tab_arr_rule": "body&&.stui-vodlist__head:has(.pull-right)",
     "tab_title": "h3&&Text",

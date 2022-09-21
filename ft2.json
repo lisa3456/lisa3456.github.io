@@ -17,10 +17,10 @@
     
     "proj_is_jsoup":"0",
     "proj_cate": "",
-    "proj_year": ">类型：&&</p>",
-    "proj_area": "",
+    "proj_year": "年份：&&</p>",
+    "proj_area": "地区：&&/",
     "proj_actor": ">主演：&&</p>",
-    "proj_plot": "<span class=\"detail-content\"&&</span>",
+    "proj_plot": "<span class=\"detail-sketch hide\">&&</span>",
     
     "tab_arr_rule": "body&&.stui-vodlist__head:has(.pull-right)",
     "tab_title": "h3&&Text",

@@ -1,0 +1,40 @@
+{
+    "title": "XYQHiker模板",
+    "author": "",
+    "Headers":"PC_UA",
+    
+    "SHeaders":"User-Agent$PC_UA",
+    "search_url": "https://www.voflix.com/index.php/ajax/suggest?mid=1&wd={wd}",
+    "search_mode": "0",
+    "sea_arr_rule": "list",
+    "sea_is_jsoup":"1",
+    "sea_pic": "pic",
+    "sea_title": "name",
+    "sea_url": "id",
+    "sea_subtitle":"",
+    "search_prefix": "https://www.voflix.com/detail/",
+    "search_suffix": ".html",
+    
+    "proj_is_jsoup":"1",
+    "proj_cate": "",
+    "proj_year": ".module-info-tag&&.module-info-tag-link,0&&a&&Text",
+    "proj_area": ".module-info-tag&&.module-info-tag-link,1&&a&&Text",
+    "proj_actor": ".module-info-item:contains(主演)&&.module-info-item-content&&Text",
+    "proj_plot": ".module-info-introduction-content&&p&&Text",
+    
+    "tab_arr_rule": "body&&.module-tab-items&&.module-tab-item",
+    "tab_title": "span&&Text",
+    
+    "list_arr_rule": "body&&.module-play-list-content",
+    "epi_arr_rule": "a",
+    "epi_title": "span&&Text",
+    "epi_url": "href",
+    "epi_reverse": "0",
+    "epiurl_prefix": "https://www.voflix.com",
+    "epiurl_suffix": "",
+    
+    "Anal_MacPlayer":"0",
+    "ManualSniffer":"1",
+    "VideoFormat":".m3u8#m3u8.cache.shtpin",
+    "VideoFilter":""
+}

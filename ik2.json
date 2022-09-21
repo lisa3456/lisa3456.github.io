@@ -1,0 +1,40 @@
+{
+    "title": "XYQHiker模板",
+    "author": "",
+    "Headers":"PC_UA",
+    
+    "SHeaders":"User-Agent$PC_UA",
+    "search_url": "https://ikan6.vip/index.php/ajax/suggest?mid=1&wd={wd}",
+    "search_mode": "0",
+    "sea_arr_rule": "list",
+    "sea_is_jsoup":"1",
+    "sea_pic": "pic",
+    "sea_title": "name",
+    "sea_url": "id",
+    "sea_subtitle":"",
+    "search_prefix": "https://ikan6.vip/voddetail/",
+    "search_suffix": ".html",
+    
+    "proj_is_jsoup":"0",
+    "proj_cate": "类型：</em>&&</li>",
+    "proj_year": "年份：</em>&&</li>",
+    "proj_area": "地区：</em>&&</li>",
+    "proj_actor": "主演：</em>&&</li>",
+    "proj_plot": "简介：</em>&&</li>",
+    
+    "tab_arr_rule": "body&&.module-tab-items&&.module-tab-item",
+    "tab_title": "span&&Text",
+    
+    "list_arr_rule": "body&&.module-play-list-content",
+    "epi_arr_rule": "a",
+    "epi_title": "span&&Text",
+    "epi_url": "href",
+    "epi_reverse": "0",
+    "epiurl_prefix": "https://ikan6.vip",
+    "epiurl_suffix": "",
+    
+    "Anal_MacPlayer":"0",
+    "ManualSniffer":"1",
+    "VideoFormat":".m3u8#json.ikan6.vip/tsjmjson",
+    "VideoFilter":""
+}

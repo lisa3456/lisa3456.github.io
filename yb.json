@@ -35,6 +35,6 @@
     
     "Anal_MacPlayer":"0",
     "ManualSniffer":"1",
-    "VideoFormat":".m3u8#mytv.ssxmall.cn#jxm3.ssxmall.cn",
+    "VideoFormat":".m3u8#mytv.ssxmall.cn/hktv/API.php#jxm3.ssxmall.cn/by/API.php",
     "VideoFilter":""
 }

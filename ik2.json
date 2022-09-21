@@ -15,12 +15,12 @@
     "search_prefix": "https://ikan6.vip/voddetail/",
     "search_suffix": ".html",
     
-    "proj_is_jsoup":"0",
-    "proj_cate": "类型：</em>&&</li>",
-    "proj_year": "年份：</em>&&</li>",
-    "proj_area": "地区：</em>&&</li>",
-    "proj_actor": "主演：</em>&&</li>",
-    "proj_plot": "简介：</em>&&</li>",
+    "proj_is_jsoup":"1",
+    "proj_cate": "",
+    "proj_year": ".module-info-tag&&.module-info-tag-link,1&&a&&Text",
+    "proj_area": ".module-info-tag&&.module-info-tag-link,2&&a&&Text",
+    "proj_actor": ".module-info-item:contains(主演)&&a&&Text",
+    "proj_plot": ".module-info-introduction-content&&p&&Text",
     
     "tab_arr_rule": "body&&.module-tab-items&&.module-tab-item",
     "tab_title": "span&&Text",

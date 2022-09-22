@@ -15,7 +15,7 @@
     "search_prefix": "https://fjkkk.cn/index.php/vod/detail/id/",
     "search_suffix": ".html",
     
-    "proj_is_jsoup":"0",
+    "proj_is_jsoup":"1",
     "proj_cate": "",
     "proj_year": ".module-info-tag&&.module-info-tag-link,0&&a&&Text",
     "proj_area": ".module-info-tag&&.module-info-tag-link,1&&a&&Text",

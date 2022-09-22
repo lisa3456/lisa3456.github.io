@@ -22,10 +22,10 @@
     "proj_actor": "主演：</span>&&</p>",
     "proj_plot": "<span class=\"sketch content\">&&</span>",
     
-    "tab_arr_rule": "body&&.myui-panel__head:has(.sort-button)",
+    "tab_arr_rule": "body&&.myui-panel-box:contains(风雷蓝光,搬运蓝光)&&.myui-panel__head:has(.sort-button)",
     "tab_title": "h3&&Text",
     
-    "list_arr_rule": "body&&.myui-content__list",
+    "list_arr_rule": "body&&.myui-panel-box:contains(风雷蓝光,搬运蓝光)&&.myui-content__list",
     "epi_arr_rule": "li",
     "epi_title": "a&&Text",
     "epi_url": "a&&href",

@@ -22,10 +22,10 @@
     "proj_actor": "主演：</span>&&</p>",
     "proj_plot": "<span class=\"sketch content\">&&</span>",
     
-    "tab_arr_rule": "body&&.myui-panel-box:has(.myui-content__list)&&.myui-panel__head&&h3",
+    "tab_arr_rule": "body&&.myui-panel-box:not(:matches(极速专线))&&.myui-panel__head&&h3",
     "tab_title": "Text",
     
-    "list_arr_rule": "body&&.myui-panel-box:has(.myui-content__list)&&.myui-content__list",
+    "list_arr_rule": "body&&.myui-panel-box:not(:matches(极速专线))&&.myui-content__list",
     "epi_arr_rule": "li",
     "epi_title": "a&&Text",
     "epi_url": "a&&href",

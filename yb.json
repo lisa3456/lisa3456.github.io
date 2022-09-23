@@ -25,7 +25,7 @@
     "tab_arr_rule": "body&&.myui-panel-box:has(.myui-content__list):not(:matches(极速专线))",
     "tab_title": "h3&&Text",
     
-    "list_arr_rule": ".myui-content__list",
+    "list_arr_rule": "body&&.myui-panel-box:has(.myui-content__list):not(:matches(极速专线))&&.myui-content__list",
     "epi_arr_rule": "li",
     "epi_title": "a&&Text",
     "epi_url": "a&&href",

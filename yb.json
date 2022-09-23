@@ -22,8 +22,8 @@
     "proj_actor": "主演：</span>&&</p>",
     "proj_plot": "<span class=\"sketch content\">&&</span>",
     
-    "tab_arr_rule": "body&&.myui-panel-box:not(:matches(极速专线))&&.myui-panel__head&&h3",
-    "tab_title": "Text",
+    "tab_arr_rule": "body&&.myui-panel-box:not(:matches(极速专线))&&.myui-panel__head:has(.pull-right)",
+    "tab_title": "h3&&Text",
     
     "list_arr_rule": "body&&.myui-panel-box:not(:matches(极速专线))&&.myui-content__list",
     "epi_arr_rule": "li",

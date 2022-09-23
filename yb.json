@@ -22,8 +22,8 @@
     "proj_actor": "主演：</span>&&</p>",
     "proj_plot": "<span class=\"sketch content\">&&</span>",
     
-    "tab_arr_rule": "body&&.myui-panel-box:has(.myui-content__list):not(:contains(备用资源))",
-    "tab_title": "h3&&Text",
+    "tab_arr_rule": "body&&.myui-panel-box:has(.myui-content__list):not(:contains(备用资源))&&.myui-panel__head&&h3",
+    "tab_title": "Text",
     
     "list_arr_rule": "body&&.myui-panel-box:has(.myui-content__list):not(:contains(备用资源))&&.myui-content__list",
     "epi_arr_rule": "li",

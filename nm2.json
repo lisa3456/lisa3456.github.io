@@ -25,7 +25,7 @@
     "tab_arr_rule": ".hd&&ul&&li",
     "tab_title": "a&&Text",
     
-    "list_arr_rule": "body&&.numList&&ul",
+    "list_arr_rule": "body&&.numList",
     "epi_arr_rule": "li",
     "epi_title": "a&&Text",
     "epi_url": "a&&href",

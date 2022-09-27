@@ -12,7 +12,7 @@
     "sea_title": ".sTit&&Text",
     "sea_url": ".sBtn&&a&&href",
     "sea_subtitle":"",
-    "search_prefix": "",
+    "search_prefix": "https://v.xiangdao.me",
     "search_suffix": "",
     
     "proj_is_jsoup":"0",

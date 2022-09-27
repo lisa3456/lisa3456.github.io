@@ -10,7 +10,7 @@
     "sea_is_jsoup":"1",
     "sea_pic": "img&&data-src",
     "sea_title": ".sTit&&Text",
-    "sea_url": ".sBtn&&href",
+    "sea_url": ".sBtn&&a&&href",
     "sea_subtitle":"",
     "search_prefix": "",
     "search_suffix": "",

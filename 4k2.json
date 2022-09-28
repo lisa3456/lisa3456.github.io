@@ -22,7 +22,7 @@
     "proj_actor": "主演：</span>&&</p>",
     "proj_plot": "<p class=\"col-pd\">&&</p>",
     
-    "tab_arr_rule": "body&&.stui-pannel__head:has(.pull-right)&&li,0",
+    "tab_arr_rule": "body&&.nav.nav-tabs.pull-right&&li",
     "tab_title": "Text",
     
     "list_arr_rule": "body&&.stui-content__playlist",
@@ -34,7 +34,7 @@
     "epiurl_suffix": "",
     
     "Anal_MacPlayer":"0",
-    "ManualSniffer":"1",
+    "ManualSniffer":"0",
     "VideoFormat":"",
     "VideoFilter":""
 }

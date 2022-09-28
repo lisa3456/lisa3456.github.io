@@ -22,7 +22,7 @@
     "proj_actor": "主演：</span>&&</p>",
     "proj_plot": "<p class=\"col-pd\">&&</p>",
     
-    "tab_arr_rule": "body&&.stui-pannel__head:has(.pull-right)&&ul&&li,1",
+    "tab_arr_rule": "body&&.stui-pannel__head:has(.pull-right)&&ul&&li,0",
     "tab_title": "a&&Text",
     
     "list_arr_rule": "body&&.stui-content__playlist",

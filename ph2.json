@@ -19,14 +19,14 @@
 "搜索链接前缀": "http://panghuys.com/v/",
 "搜索链接后缀": ".html",
 
-"年份":"<div class=\"module-info-tag-link\">&&</div>[包含:1]",
+"年份":"<div class=\"module-info-tag-link\">&&</div>",
 "导演": "导演：&&</div",
 "主演": "主演：&&</div",
 "简介": "<div class=\"module-info-introduction-content&&</p>",
 
 "线路二次截取": "",
 "线路数组": "<div class=\"module-tab-item&&</div>",
-"线路标题": "<span>&&</span>[不包含:备用₂#蓝备#人品₁#备ad²]",
+"线路标题": "<span>&&</span>",
 
 "播放二次截取": "",
 "播放数组": "<div class=\"module-play-list-content&&</div>",

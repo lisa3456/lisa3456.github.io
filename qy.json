@@ -1,0 +1,41 @@
+{
+    "title": "XYQHiker模板",
+    "author": "",
+    "Headers":"MOBILE_UA",
+    
+    "SHeaders":"User-Agent$MOBILE_UA",
+    "search_url": "http://1e6e.com/search.php;post",
+    "sea_PtBody": "searchword={wd}",
+    "search_mode": "1",
+    "sea_arr_rule": ".stui-vodlist__media&&li",
+    "sea_is_jsoup": "1",
+    "sea_pic": ".lazyload&&data-original",
+    "sea_title": "h3&&Text",
+    "sea_url": "h3&&a&&href",
+    "sea_subtitle": ".pic-text&&Text",
+    "search_prefix": "http://1e6e.com",
+    "search_suffix": "",
+
+    "proj_is_jsoup":"0",
+    "proj_cate": "",
+    "proj_year": "年份：</span>&&</p>",
+    "proj_area": "地区：</span>&&<span",
+    "proj_actor": "主演：</span>&&</p>",
+    "proj_plot": "简介：</span>&&<a",
+    
+    "tab_arr_rule": "body&&.nav.nav-tabs.pull-right&&li",
+    "tab_title": "a&&Text",
+    
+    "list_arr_rule": "body&&.stui-content__playlist",
+    "epi_arr_rule": "li",
+    "epi_title": "a&&Text",
+    "epi_url": "a&&href",
+    "epi_reverse": "0",
+    "epiurl_prefix": "http://1e6e.com",
+    "epiurl_suffix": "",
+    
+    "Anal_MacPlayer":"",
+    "ManualSniffer":"0",
+    "VideoFormat":"",
+    "VideoFilter":""
+}

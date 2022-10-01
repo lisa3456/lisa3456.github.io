@@ -17,7 +17,7 @@
     
     "proj_is_jsoup":"0",
     "proj_cate": "",
-    "proj_year": "<span class=\"year\">(&&)</span>",
+    "proj_year": "<span class=\"year\">&&</span>",
     "proj_area": "地区：</span>&&</a>",
     "proj_actor": "主演：</span>&&</p>",
     "proj_plot": "<span class=\"sketch content\">&&</span>",

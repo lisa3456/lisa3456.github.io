@@ -1,0 +1,41 @@
+{
+    "title": "XYQHiker模板",
+    "author": "",
+    "Headers":"MOBILE_UA",
+    
+    "SHeaders":"User-Agent$MOBILE_UA",
+    "search_url": "https://m.7caa.com/search/-------------.html?wd={wd}",
+    "sea_PtBody": "",
+    "search_mode": "1",
+    "sea_arr_rule": ".stui-vodlist.clearfix&&li",
+    "sea_is_jsoup": "1",
+    "sea_pic": ".lazyload&&data-original",
+    "sea_title": "h4&&Text",
+    "sea_url": "h4&&a&&href",
+    "sea_subtitle": ".pic-text&&Text",
+    "search_prefix": "https://m.7caa.com",
+    "search_suffix": "",
+
+    "proj_is_jsoup":"0",
+    "proj_cate": "",
+    "proj_year": "name=\"vod_year\">&&</notempty>",
+    "proj_area": "name=\"vod_area\">&&</notempty>",
+    "proj_actor": "主演：</span>&&</p>",
+    "proj_plot": "class=\"detail-sketch\">&&</span>",
+    
+    "tab_arr_rule": "body&&.dropdown-menu&&li",
+    "tab_title": "a&&Text",
+    
+    "list_arr_rule": "body&&.stui-content__playlist",
+    "epi_arr_rule": "li",
+    "epi_title": "a&&Text",
+    "epi_url": "a&&href",
+    "epi_reverse": "0",
+    "epiurl_prefix": "https://m.7caa.com",
+    "epiurl_suffix": "",
+    
+    "Anal_MacPlayer":"1",
+    "ManualSniffer":"",
+    "VideoFormat":"",
+    "VideoFilter":""
+}

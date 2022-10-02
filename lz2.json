@@ -16,12 +16,12 @@
     "search_prefix": "http://www.lezhutv.com",
     "search_suffix": "",
 
-    "proj_is_jsoup":"0",
+    "proj_is_jsoup":"1",
     "proj_cate": "",
-    "proj_year": "class=\"yac\">&&/",
+    "proj_year": ".yac&&Text",
     "proj_area": "",
-    "proj_actor": "class=\"act\">&&</p>",
-    "proj_plot": "<div class=\"tbox_js\">&&</div>",
+    "proj_actor": ".act&&Text",
+    "proj_plot": ".tbox_js&&Text",
     
     "tab_arr_rule": "body&&.tbox2.tabs&&.tbox_t",
     "tab_title": "h3&&Text",

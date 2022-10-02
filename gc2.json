@@ -23,7 +23,7 @@
     "proj_plot": "<span class=\"sketch content\">&&</span>",
     
     "tab_arr_rule": "body&&.myui-panel__head:has(.pull-right)&&ul&&li",
-    "tab_title": "a&&Text",
+    "tab_title": "a&&Text[不包含:无尽资源]",
     
     "list_arr_rule": "body&&.myui-content__list",
     "epi_arr_rule": "li",

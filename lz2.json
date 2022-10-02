@@ -12,15 +12,15 @@
     "sea_pic": ".item-lazy&&data-original",
     "sea_title": "h4&&Text",
     "sea_url": "h4&&a&&href",
-    "sea_subtitle": "..item-lazy&&span&&Text",
+    "sea_subtitle": ".item-lazy&&span&&Text",
     "search_prefix": "http://www.lezhutv.com",
     "search_suffix": "",
 
     "proj_is_jsoup":"0",
     "proj_cate": "",
-    "proj_year": "class=\"yac\">&&</p>",
+    "proj_year": "class=\"yac\">&&/",
     "proj_area": "",
-    "proj_actor": "主演：</span>&&</p>",
+    "proj_actor": "class=\"act\">&&</p>",
     "proj_plot": "<div class=\"tbox_js\">&&</div>",
     
     "tab_arr_rule": "body&&.tbox2.tabs&&.tbox_t",
@@ -30,7 +30,7 @@
     "epi_arr_rule": "li",
     "epi_title": "a&&Text",
     "epi_url": "a&&href",
-    "epi_reverse": "0",
+    "epi_reverse": "1",
     "epiurl_prefix": "http://www.lezhutv.com",
     "epiurl_suffix": "",
     

@@ -23,7 +23,7 @@
     "proj_actor": "主演：</span>&&</p>",
     "proj_plot": "<div class=\"tbox_js\">&&</div>",
     
-    "tab_arr_rule": "body&&.tbox2.tabs&&.tbox_t",
+    "tab_arr_rule": "body&&.tbox2.tabs",
     "tab_title": "h3&&Text",
     
     "list_arr_rule": "body&&.list_block.show",

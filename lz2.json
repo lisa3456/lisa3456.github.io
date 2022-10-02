@@ -16,12 +16,12 @@
     "search_prefix": "http://www.lezhutv.com",
     "search_suffix": "",
 
-    "proj_is_jsoup":"1",
+    "proj_is_jsoup":"0",
     "proj_cate": "",
-    "proj_year": ".yac&&Text",
+    "proj_year": "",
     "proj_area": "",
-    "proj_actor": ".act&&Text",
-    "proj_plot": ".tbox_js&&Text",
+    "proj_actor": "主演：</span>&&</p>",
+    "proj_plot": "<div class=\"tbox_js\">&&</div>",
     
     "tab_arr_rule": "body&&.tbox2.tabs&&.tbox_t",
     "tab_title": "h3&&Text",

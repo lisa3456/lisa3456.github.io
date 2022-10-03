@@ -24,7 +24,7 @@
     "proj_plot": "class=\"detail-sketch\">&&</span>",
     
     "tab_arr_rule": "body&&.dropdown-menu&&li",
-    "tab_title": "a&&Text",
+    "tab_title": "a&&Text[不包含:尽云播]",
     
     "list_arr_rule": "body&&.stui-content__playlist",
     "epi_arr_rule": "li",

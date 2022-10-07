@@ -12,8 +12,8 @@
     "sea_title": "name",
     "sea_url": "id",
     "sea_subtitle":"",
-    "search_prefix": "https://fositv.com/vodplay/",
-    "search_suffix": "-1-1.html",
+    "search_prefix": "https://fositv.com/voddetail/",
+    "search_suffix": ".html",
     
     "proj_is_jsoup":"0",
     "proj_cate": "",

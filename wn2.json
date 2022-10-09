@@ -1,0 +1,40 @@
+{
+    "title": "XYQHiker模板",
+    "author": "",
+    "Headers":"PC_UA",
+    
+    "SHeaders":"User-Agent$PC_UA",
+    "search_url": "https://wnvod.net/index.php/ajax/suggest?mid=1&wd={wd}",
+    "search_mode": "0",
+    "sea_arr_rule": "list",
+    "sea_is_jsoup":"1",
+    "sea_pic": "pic",
+    "sea_title": "name",
+    "sea_url": "id",
+    "sea_subtitle":"",
+    "search_prefix": "https://wnvod.net/voddetail/",
+    "search_suffix": ".html",
+    
+    "proj_is_jsoup":"0",
+    "proj_cate": "",
+    "proj_year": "年份：</span>&&</a>",
+    "proj_area": "地区：</span>&&</a>",
+    "proj_actor": "主演：</span>&&</p>",
+    "proj_plot": "style=\"display: none;\"><p>&&</p>",
+    
+    "tab_arr_rule": "body&&.myui-panel__head:has(.pull-right)&&li",
+    "tab_title": "a&&Text[不包含:多多备用,无尽备用]",
+    
+    "list_arr_rule": "body&&.myui-content__list",
+    "epi_arr_rule": "li",
+    "epi_title": "a&&Text",
+    "epi_url": "a&&href",
+    "epi_reverse": "0",
+    "epiurl_prefix": "https://wnvod.net",
+    "epiurl_suffix": "",
+    
+    "Anal_MacPlayer":"1",
+    "ManualSniffer":"0",
+    "VideoFormat":"",
+    "VideoFilter":""
+}

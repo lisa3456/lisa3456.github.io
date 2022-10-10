@@ -19,7 +19,7 @@
     "proj_cate": "",
     "proj_year": ".item.item-actor:contains(年代)&&a&&Text",
     "proj_area": ".item:contains(地区)&&a&&Text",
-    "proj_actor": ".item-desc:contains(演员)&&Text",
+    "proj_actor": ".item-desc:contains(演员)&&Text!演员：",
     "proj_plot": ".desc_txt.cf.ec-palytcji&&span&&Text",
     
     "tab_arr_rule": "body&&.channelname",

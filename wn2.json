@@ -20,7 +20,7 @@
     "proj_year": "年份：</span>&&</a>",
     "proj_area": "地区：</span>&&</a>",
     "proj_actor": "主演：</span>&&</p>",
-    "proj_plot": "style=\"display: none;\"><p>&&</p>",
+    "proj_plot": "style=\"display: none;\">&&</span>",
     
     "tab_arr_rule": "body&&.myui-panel__head:has(.pull-right)&&li",
     "tab_title": "a&&Text[不包含:多多备用,无尽备用]",

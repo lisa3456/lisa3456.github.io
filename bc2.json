@@ -25,7 +25,7 @@
     "tab_arr_rule": "",
     "tab_title": "",
     
-    "list_arr_rule": "body&&.module-blocklist.scroll-box&&.scroll-content",
+    "list_arr_rule": "body&&.module-blocklist.scroll-box",
     "epi_arr_rule": "a",
     "epi_title": "span&&Text",
     "epi_url": "href",

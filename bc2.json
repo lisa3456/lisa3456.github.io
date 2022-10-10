@@ -22,8 +22,8 @@
     "proj_actor": ".video-info-items:contains(主演)&&.video-info-item&&Text",
     "proj_plot": ".video-info-items:contains(剧情)&&.video-info-item&&Text",
     
-    "tab_arr_rule": "",
-    "tab_title": "",
+    "tab_arr_rule": "body&&.module-tab-items&&.module-tab-item",
+    "tab_title": "span&&Text[不包含:星海在线,LZ在线]",
     
     "list_arr_rule": "body&&.module-blocklist.scroll-box",
     "epi_arr_rule": "a",

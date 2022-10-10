@@ -23,7 +23,7 @@
     "proj_plot": ".desc_txt.cf.ec-palytcji&&span&&Text",
     
     "tab_arr_rule": "body&&.channelname",
-    "tab_title": "Text",
+    "tab_title": "Text[不包含:蓝光二,蓝光三,蓝光四]",
     
     "list_arr_rule": "body&&.content_playlist",
     "epi_arr_rule": "li",

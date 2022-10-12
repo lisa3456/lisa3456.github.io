@@ -20,7 +20,7 @@
     "proj_year": ".video-info-aux&&.tag-link,2&&Text",
     "proj_area": ".video-info-aux&&.tag-link,3&&Text",
     "proj_actor": ".video-info-items:contains(主演)&&.video-info-item&&Text",
-    "proj_plot": ".video-info-items:contains(剧情)&&.video-info-item&&Text",
+    "proj_plot": ".video-info-items:contains(剧情)&&.video-info-item&&span&&Text",
     
     "tab_arr_rule": "body&&.module-tab-items&&.module-tab-item",
     "tab_title": "span&&Text",

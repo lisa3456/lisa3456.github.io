@@ -23,7 +23,7 @@
     "proj_plot": "style=\"display: none;\">&&</span>",
     
     "tab_arr_rule": "body&&.myui-panel__head:has(.pull-right)&&li",
-    "tab_title": "a&&Text[不包含:多多备用,无尽备用]",
+    "tab_title": "a&&Text[不包含:多多备用,无尽备用,红牛备用]",
     
     "list_arr_rule": "body&&.myui-content__list",
     "epi_arr_rule": "li",

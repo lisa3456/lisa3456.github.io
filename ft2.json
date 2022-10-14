@@ -34,7 +34,7 @@
     "epiurl_suffix": "",
     
     "Anal_MacPlayer":"0",
-    "ManualSniffer":"1",
-    "VideoFormat":".m3u8#m3u8.cache.shtpin#.mp4#v3.douyinvod.com",
+    "ManualSniffer":"0",
+    "VideoFormat":"",
     "VideoFilter":""
 }

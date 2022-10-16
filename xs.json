@@ -1,0 +1,40 @@
+{
+    "title": "XYQHiker模板",
+    "author": "",
+    "Headers":"PC_UA",
+    
+    "SHeaders":"User-Agent$PC_UA",
+    "search_url": "http://dyxs20.com/index.php/ajax/suggest?mid=1&wd={wd}",
+    "search_mode": "0",
+    "sea_arr_rule": "list",
+    "sea_is_jsoup":"1",
+    "sea_pic": "pic",
+    "sea_title": "name",
+    "sea_url": "id",
+    "sea_subtitle":"",
+    "search_prefix": "http://dyxs20.com/show-",
+    "search_suffix": ".html",
+    
+    "proj_is_jsoup":"1",
+    "proj_cate": "",
+    "proj_year": ".video-info-aux&&.tag-link,1&&Text",
+    "proj_area": ".video-info-aux&&.tag-link,3&&Text",
+    "proj_actor": ".video-info-items:contains(主演)&&.video-info-item&&Text",
+    "proj_plot": ".video-info-items:contains(剧情)&&.video-info-item&&Text",
+    
+    "tab_arr_rule": "body&&.module-tab-items&&.module-tab-item",
+    "tab_title": "span&&Text[不包含:DD节点,LZ节点,TK节点,WJ节点,DB节点,SD节点,KB节点,BJ节点,HN节点,UK节点]",
+    
+    "list_arr_rule": "body&&.module-blocklist.scroll-box",
+    "epi_arr_rule": "a",
+    "epi_title": "span&&Text",
+    "epi_url": "href",
+    "epi_reverse": "0",
+    "epiurl_prefix": "http://dyxs20.com",
+    "epiurl_suffix": "",
+    
+    "Anal_MacPlayer":"1",
+    "ManualSniffer":"0",
+    "VideoFormat":"",
+    "VideoFilter":""
+}

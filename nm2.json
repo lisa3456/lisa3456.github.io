@@ -4,7 +4,7 @@
     "Headers":"MOBILE_UA",
     
     "SHeaders":"User-Agent$MOBILE_UA",
-    "search_url": "https://v.xiangdao.me/index.php?m=vod-search&wd={wd}",
+    "search_url": "https://v.emsdn.cn/index.php?m=vod-search&wd={wd}",
     "search_mode": "1",
     "sea_arr_rule": "body&&#data_list&&li",
     "sea_is_jsoup":"1",
@@ -12,7 +12,7 @@
     "sea_title": ".sTit&&Text",
     "sea_url": ".sBtn&&a&&href",
     "sea_subtitle":"",
-    "search_prefix": "https://v.xiangdao.me",
+    "search_prefix": "https://v.emsdn.cn",
     "search_suffix": "",
     
     "proj_is_jsoup":"0",
@@ -30,7 +30,7 @@
     "epi_title": "a&&Text",
     "epi_url": "a&&href",
     "epi_reverse": "1",
-    "epiurl_prefix": "https://v.xiangdao.me",
+    "epiurl_prefix": "https://v.emsdn.cn",
     "epiurl_suffix": "",
     
     "Anal_MacPlayer":"0",

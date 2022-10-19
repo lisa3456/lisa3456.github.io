@@ -23,7 +23,7 @@
     "proj_plot": ".module-info-introduction-content&&p&&Text",
     
     "tab_arr_rule": "body&&.module-tab-items&&.module-tab-item",
-    "tab_title": "span&&Text[不包含:星海在线,LZ在线,樱花在线,XL在线]",
+    "tab_title": "span&&Text[不包含:星海在线,多多资源,LZ在线,樱花在线,XL在线]",
     
     "list_arr_rule": "body&&.module-play-list-content",
     "epi_arr_rule": "a",

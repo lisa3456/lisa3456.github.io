@@ -23,7 +23,7 @@
     "proj_plot": "<div class=\"content_desc context clearfix\"><span>&&</span>",
     
     "tab_arr_rule": "body&&.play_source_tab",
-    "tab_title": "a&&Text",
+    "tab_title": "a--i&&Text",
     
     "list_arr_rule": "body&&.content_playlist.clearfix",
     "epi_arr_rule": "li",

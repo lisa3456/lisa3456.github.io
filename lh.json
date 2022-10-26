@@ -23,7 +23,7 @@
     "proj_plot": "<div class=\"content_desc context clearfix\"><span>&&</span>",
     
     "tab_arr_rule": "body&&.play_source_tab&&a--i",
-    "tab_title": "Text[不包含:备用,国内专线,国内优化,海外专线]",
+    "tab_title": "Text",
     
     "list_arr_rule": "body&&.content_playlist.clearfix",
     "epi_arr_rule": "li",

@@ -25,7 +25,7 @@
     "tab_arr_rule": "",
     "tab_title": "",
     
-    "list_arr_rule": "body&&.play_list_box&&.playlist_full&&.content_playlist",
+    "list_arr_rule": "body&&.playlist_full:has(.content_playlist)&&.content_playlist",
     "epi_arr_rule": "li",
     "epi_title": "a&&Text",
     "epi_url": "a&&href",

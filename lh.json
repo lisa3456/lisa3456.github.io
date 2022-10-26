@@ -17,10 +17,10 @@
     
     "proj_is_jsoup":"0",
     "proj_cate": "",
-    "proj_year": "年份：</span>&&</a>",
-    "proj_area": "地区：</span>&&</a>",
-    "proj_actor": "主演：</span>&&</li>",
-    "proj_plot": "<div class=\"content_desc context clearfix\"><span>&&</span>",
+    "proj_year": "",
+    "proj_area": "",
+    "proj_actor": "",
+    "proj_plot": "",
     
     "tab_arr_rule": "body&&.play_source_tab&&a",
     "tab_title": "Text[不包含:备用,国内专线,国内优化,海外专线]",

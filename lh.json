@@ -23,7 +23,7 @@
     "proj_plot": "<div class=\"content_desc context clearfix\"><span>&&</span>",
     
     "tab_arr_rule": "body&&.play_source_tab&&a",
-    "tab_title": "alt[不包含:蓝光,蓝光2,备用,国内专线,国内优化,海外专线]",
+    "tab_title": "alt[不包含:备用,国内专线,国内优化,海外专线]",
     
     "list_arr_rule": "body&&.playlist_full:has(.content_playlist)",
     "epi_arr_rule": "li",

@@ -23,7 +23,7 @@
     "proj_plot": ".video-info-items:contains(剧情)&&.video-info-item&&Text",
     
     "tab_arr_rule": "body&&.module-tab-items&&.module-tab-item",
-    "tab_title": "span&&Text[不包含:备用,国内专线,国内优化,海外专线]",
+    "tab_title": "span&&Text[不包含:备用,国内专线,国内优化,海外专线,海外专用,高速]",
     
     "list_arr_rule": "body&&.module-blocklist.scroll-box",
     "epi_arr_rule": "a",

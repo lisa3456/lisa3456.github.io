@@ -1,0 +1,40 @@
+{
+    "title": "XYQHiker模板",
+    "author": "",
+    "Headers":"PC_UA",
+    
+    "SHeaders":"User-Agent$PC_UA",
+    "search_url": "https://www.shijueyy.com/index.php/ajax/suggest?mid=1&wd={wd}",
+    "search_mode": "0",
+    "sea_arr_rule": "list",
+    "sea_is_jsoup":"1",
+    "sea_pic": "pic",
+    "sea_title": "name",
+    "sea_url": "id",
+    "sea_subtitle":"",
+    "search_prefix": "https://www.shijueyy.com/v_detail/",
+    "search_suffix": ".html",
+    
+    "proj_is_jsoup":"0",
+    "proj_cate": "",
+    "proj_year": "年份：</em>&&</li>",
+    "proj_area": "地区：</em>&&</li>",
+    "proj_actor": "主演：</em>&&</li>",
+    "proj_plot": "简介：</em>&&</li>",
+    
+    "tab_arr_rule": "body&&.hl-plays-from&&a",
+    "tab_title": "Text",
+    
+    "list_arr_rule": "body&&.hl-plays-list",
+    "epi_arr_rule": "li",
+    "epi_title": "a&&Text",
+    "epi_url": "a&&href",
+    "epi_reverse": "0",
+    "epiurl_prefix": "https://www.shijueyy.com",
+    "epiurl_suffix": "",
+    
+    "Anal_MacPlayer":"0",
+    "ManualSniffer":"0",
+    "VideoFormat":"",
+    "VideoFilter":""
+}

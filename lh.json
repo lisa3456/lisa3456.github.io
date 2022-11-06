@@ -15,20 +15,20 @@
     "search_prefix": "https://www.lanhua.tv/voddetail/",
     "search_suffix": ".html",
     
-    "proj_is_jsoup":"1",
+    "proj_is_jsoup":"0",
     "proj_cate": "",
-    "proj_year": ".video-info-aux&&.tag-link,2&&Text",
-    "proj_area": ".video-info-aux&&.tag-link,3&&Text",
-    "proj_actor": ".video-info-items:contains(主演)&&.video-info-item&&Text",
-    "proj_plot": ".video-info-items:contains(剧情)&&.video-info-item&&Text",
+    "proj_year": "年份：</span>&&</a>",
+    "proj_area": "地区：</span>&&</a>",
+    "proj_actor": "主演：</span>&&</li>",
+    "proj_plot": "class=\"content_desc full_text clearfix\" style=\"display:none;\">&&</span>",
     
-    "tab_arr_rule": "body&&.module-tab-items&&.module-tab-item",
-    "tab_title": "span&&Text[不包含:备用,国内专线,国内优化,海外专线,海外专用,高速]",
+    "tab_arr_rule": "body&&.play_source_tab.list_scroll&&a",
+    "tab_title": "alt[不包含:备用,国内专线,国内优化,海外专用]",
     
-    "list_arr_rule": "body&&.module-blocklist.scroll-box",
-    "epi_arr_rule": "a",
-    "epi_title": "span&&Text",
-    "epi_url": "href",
+    "list_arr_rule": "body&&.play_list_box&&.playlist_notfull",
+    "epi_arr_rule": "li",
+    "epi_title": "a&&Text",
+    "epi_url": "a&&href",
     "epi_reverse": "0",
     "epiurl_prefix": "https://www.lanhua.tv",
     "epiurl_suffix": "",
@@ -38,4 +38,5 @@
     "VideoFormat":"",
     "VideoFilter":""
 }
+
 

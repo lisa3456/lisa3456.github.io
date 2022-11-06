@@ -22,8 +22,8 @@
     "proj_actor": "主演：</span>&&</li>",
     "proj_plot": "class=\"content_desc full_text clearfix\" style=\"display:none;\">&&</span>",
     
-    "tab_arr_rule": "body&&.play_source_tab.list_scroll&&a",
-    "tab_title": "alt[不包含:备用,国内专线,国内优化,海外专用]",
+    "tab_arr_rule": "body&&.play_source_tab.list_scroll",
+    "tab_title": "a&&alt[不包含:备用,国内专线,国内优化,海外专用]",
     
     "list_arr_rule": "body&&.play_list_box&&.playlist_notfull",
     "epi_arr_rule": "li",

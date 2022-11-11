@@ -34,7 +34,7 @@
     "epiurl_suffix": "",
     
     "Anal_MacPlayer":"0",
-    "ManualSniffer":"0",
-    "VideoFormat":"",
+    "ManualSniffer":"1",
+    "VideoFormat":"from=https://banyung.pw",
     "VideoFilter":""
 }

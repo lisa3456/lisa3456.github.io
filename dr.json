@@ -23,7 +23,7 @@
     "proj_plot": ".module-info-introduction-content&&p&&Text",
     
     "tab_arr_rule": "body&&.module-tab-items&&.module-tab-item",
-    "tab_title": "span&&Text[不包含:备用专享,追剧专享,追剧专享二,App专享,卡就换源,备用一,备用二,备用三,备用线路一,备用线路二,备用线路三,备用线路四,备用线路（可换源）,海外华人专用（国内翻墙）]",
+    "tab_title": "span&&Text[不包含:备用专享,追剧专享,追剧专享二,追剧2,App专享,卡就换源,备用一,备用二,备用三,备用线路一,备用线路二,备用线路三,备用线路四,备用线路（可换源）,海外华人专用（国内翻墙）]",
     
     "list_arr_rule": "body&&.module-play-list-content",
     "epi_arr_rule": "a",

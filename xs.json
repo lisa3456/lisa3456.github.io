@@ -23,7 +23,7 @@
     "proj_plot": ".video-info-items:contains(剧情)&&.video-info-item&&Text",
     
     "tab_arr_rule": "body&&.module-tab-items&&.module-tab-item",
-    "tab_title": "span&&Text[不包含:DD节点,LZ节点,TK节点,WJ节点,DB节点,SD节点,KB节点,BJ节点,HN节点,UK节点]",
+    "tab_title": "span&&Text[不包含:DD节点,FF节点,蓝光B,LZ节点,TK节点,WJ节点,DB节点,SD节点,KB节点,BJ节点,HN节点,UK节点]",
     
     "list_arr_rule": "body&&.module-blocklist.scroll-box",
     "epi_arr_rule": "a",

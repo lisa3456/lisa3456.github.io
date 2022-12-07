@@ -23,7 +23,7 @@
     "proj_plot": "class=\"desc_txt cf ec-palytcji cor3\"><span>&&</span>",
     
     "tab_arr_rule": "body&&.channelname",
-    "tab_title": "Text[不包含:自营蓝光,自营线路]",
+    "tab_title": "Text[不包含:蓝光备用,自营蓝光,自营线路]",
     
     "list_arr_rule": "body&&.content_playlist",
     "epi_arr_rule": "li",

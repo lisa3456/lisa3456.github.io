@@ -17,15 +17,15 @@
     
     "proj_is_jsoup":"1",
     "proj_cate": "",
-    "proj_year": ".scroll-box&&.tag-link,2&&Text",
-    "proj_area": ".scroll-box&&.tag-link,3&&Text",
-    "proj_actor": ".video-info-items:contains(主演)&&.video-info-item&&Text",
-    "proj_plot": ".video-info-items:contains(剧情)&&div--a--span&&Text",
+    "proj_year": ".module-info-tag&&.module-info-tag-link,0&&a&&Text",
+    "proj_area": ".module-info-tag&&.module-info-tag-link,1&&a&&Text",
+    "proj_actor": ".module-info-item:contains(主演)&&.module-info-item-content&&Text",
+    "proj_plot": ".module-info-introduction&&p&&Text",
     
     "tab_arr_rule": "body&&.module-tab-items&&.module-tab-item",
     "tab_title": "span&&Text[不包含:星海在线,樱花在线,XL在线,LZ在线]",
     
-    "list_arr_rule": "body&&.module-blocklist.scroll-box",
+    "list_arr_rule": "body&&.module-play-list-content",
     "epi_arr_rule": "a",
     "epi_title": "span&&Text",
     "epi_url": "href",

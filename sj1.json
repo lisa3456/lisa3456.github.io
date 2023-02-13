@@ -35,6 +35,6 @@
     
     "Anal_MacPlayer":"1",
     "ManualSniffer":"1",
-    "VideoFormat":".mp4#.m3u8#.flv#?url=http",
+    "VideoFormat":".mp4#.m3u8#.flv#?from=https://banyung.pw",
     "VideoFilter":""
 }

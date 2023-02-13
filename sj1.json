@@ -23,7 +23,7 @@
     "proj_plot": ".video-info-items:contains(剧情)&&.video-info-item&&Text",
     
     "tab_arr_rule": "body&&.module-tab-items&&.module-tab-item",
-    "tab_title": "span&&Text[不包含:极速播放,在线观看,蓝光专线①,极速-01]",
+    "tab_title": "span&&Text[不包含:极速播放,在线观看,极速-01]",
     
     "list_arr_rule": "body&&.module-blocklist.scroll-box",
     "epi_arr_rule": "a",
@@ -34,7 +34,7 @@
     "epiurl_suffix": "",
     
     "Anal_MacPlayer":"1",
-    "ManualSniffer":"0",
-    "VideoFormat":"",
+    "ManualSniffer":"1",
+    "VideoFormat":".mp4#.m3u8#.flv#?from=https",
     "VideoFilter":""
 }

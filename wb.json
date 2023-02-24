@@ -1,0 +1,40 @@
+{
+    "title": "XYQHiker模板",
+    "author": "",
+    "Headers":"PC_UA",
+    
+    "SHeaders":"User-Agent$PC_UA",
+    "search_url": "https://www.wanbotv.com/index.php/ajax/suggest?mid=1&wd={wd}",
+    "search_mode": "0",
+    "sea_arr_rule": "list",
+    "sea_is_jsoup":"1",
+    "sea_pic": "pic",
+    "sea_title": "name",
+    "sea_url": "id",
+    "sea_subtitle":"",
+    "search_prefix": "https://www.wanbotv.com/wbd/",
+    "search_suffix": ".html",
+    
+    "proj_is_jsoup":"1",
+    "proj_cate": "",
+    "proj_year": ".video-info-aux&&.tag-link,2&&Text",
+    "proj_area": ".video-info-aux&&.tag-link,3&&Text",
+    "proj_actor": ".video-info-items:contains(主演)&&.video-info-item&&Text",
+    "proj_plot": ".video-info-items:contains(剧情)&&.video-info-item&&Text",
+    
+    "tab_arr_rule": "body&&.module-tab-items&&.module-tab-item",
+    "tab_title": "span&&Text[不包含:蓝光Ⅰ,备用Ⅰ,备用Ⅱ,备用III]",
+    
+    "list_arr_rule": "body&&.module-blocklist.scroll-box",
+    "epi_arr_rule": "a",
+    "epi_title": "span&&Text",
+    "epi_url": "href",
+    "epi_reverse": "0",
+    "epiurl_prefix": "https://www.wanbotv.com",
+    "epiurl_suffix": "",
+    
+    "Anal_MacPlayer":"1",
+    "ManualSniffer":"0",
+    "VideoFormat":"",
+    "VideoFilter":""
+}

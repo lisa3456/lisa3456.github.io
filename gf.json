@@ -24,7 +24,7 @@
     "proj_plot": "style=\"display: none;\">&&</span>",
     
     "tab_arr_rule": "body&&.stui-pannel__head:has(.pull-right)&&li",
-    "tab_title": "a&&Text[不包含:超清云播]",
+    "tab_title": "a&&Text[不包含:干饭蓝光,超清云播]",
     
     "list_arr_rule": "body&&.stui-content__playlist",
     "epi_arr_rule": "li",
@@ -35,7 +35,7 @@
     "epiurl_suffix": "",
     
     "Anal_MacPlayer":"0",
-    "ManualSniffer":"1",
+    "ManualSniffer":"0",
     "VideoFormat":".mp4#.m3u8#.flv",
     "VideoFilter":""
 }

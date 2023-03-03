@@ -5,7 +5,7 @@
     
     "SHeaders":"User-Agent$PC_UA",
     "search_url": "https://gfysys1.com/vodsearch/-------------.html;post",
-    "sea_PtBody": "searchword={wd}",
+    "sea_PtBody": "wd={wd}",
     "search_mode": "1",
     "sea_arr_rule": ".stui-vodlist__box",
     "sea_is_jsoup":"1",

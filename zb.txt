@@ -86,17 +86,15 @@ CETV1,http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
 CETV2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 CETV3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
-CCTV第一剧场,http://home.111818.xyz:8888/udp/239.76.254.49:9000
-CCTV风云剧场,http://home.111818.xyz:8888/udp/239.76.254.50:9000
-CCTV风云音乐,http://home.111818.xyz:8888/udp/239.76.254.51:9000
-CCTV风云足球,http://home.111818.xyz:8888/udp/239.76.254.52:9000
-CCTV怀旧剧场,http://home.111818.xyz:8888/udp/239.76.254.53:9000
-CCTV女性时尚,http://home.111818.xyz:8888/udp/239.76.254.55:9000
-CCTV文化精品,http://home.111818.xyz:8888/udp/239.76.254.56:9000
-CCTV世界地理,http://home.111818.xyz:8888/udp/239.76.254.57:9000
-CCTV央视台球,http://home.111818.xyz:8888/udp/239.76.254.58:9000
-CCTV兵器科技,http://home.111818.xyz:8888/udp/239.76.254.59:9000
-CCTV高尔夫网球,http://home.111818.xyz:8888/udp/239.76.254.62:9000
+CCTV风云足球,http://218.17.216.102:9901/tsfile/live/1065_1.m3u8
+CCTV怀旧剧场,http://218.17.216.102:9901/tsfile/live/1069_1.m3u8
+CCTV风云剧场,http://218.17.216.102:9901/tsfile/live/1070_1.m3u8
+CCTV央视台球,http://218.17.216.102:9901/tsfile/live/1066_1.m3u8
+CCTV央视文化,http://218.17.216.102:9901/tsfile/live/1071_1.m3u8
+CCTV兵器科技,http://218.17.216.102:9901/tsfile/live/1027_1.m3u8
+CCTV第一剧场,http://218.17.216.102:9901/tsfile/live/1072_1.m3u8
+CCTV风云音乐,http://218.17.216.102:9901/tsfile/live/1073_1.m3u8
+CCTV世界地理,http://218.17.216.102:9901/tsfile/live/1068_1.m3u8
 
 🍊卫视,#genre#
 湖南卫视,http://39.184.224.99:9080/newlive/live/hls/18/live.m3u8

@@ -23,7 +23,7 @@
     "proj_plot": ".module-info-introduction-content&&p&&Text",
     
     "tab_arr_rule": "body&&.module-tab-items&&.module-tab-item",
-    "tab_title": "span&&Text[不包含:段友蓝光,段友尽播,段友红牛]",
+    "tab_title": "span&&Text[不包含:段友百度播放,段友无尽]",
     
     "list_arr_rule": "body&&.module-play-list-content",
     "epi_arr_rule": "a",

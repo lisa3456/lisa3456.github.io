@@ -23,7 +23,7 @@
     "proj_plot": "<p class=\"col-pd\">&&</p>",
     
     "tab_arr_rule": "body&&.stui-pannel__head:has(.pull-right)",
-    "tab_title": "h3&&Text",
+    "tab_title": "h3&&Text[不包含:量子备用,红牛备用,无尽备用]",
     
     "list_arr_rule": "body&&.stui-content__playlist",
     "epi_arr_rule": "li",

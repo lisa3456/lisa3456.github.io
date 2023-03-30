@@ -4,7 +4,7 @@
     "Headers":"PC_UA",
     
     "SHeaders":"User-Agent$PC_UA",
-    "search_url": "http://dyxs29.com/index.php/ajax/suggest?mid=1&wd={wd}",
+    "search_url": "http://dyxs13.com/index.php/ajax/suggest?mid=1&wd={wd}",
     "search_mode": "0",
     "sea_arr_rule": "list",
     "sea_is_jsoup":"1",
@@ -12,7 +12,7 @@
     "sea_title": "name",
     "sea_url": "id",
     "sea_subtitle":"",
-    "search_prefix": "http://dyxs29.com/show-",
+    "search_prefix": "http://dyxs13.com/show-",
     "search_suffix": ".html",
     
     "proj_is_jsoup":"1",
@@ -30,7 +30,7 @@
     "epi_title": "span&&Text",
     "epi_url": "href",
     "epi_reverse": "0",
-    "epiurl_prefix": "http://dyxs29.com",
+    "epiurl_prefix": "http://dyxs13.com",
     "epiurl_suffix": "",
     
     "Anal_MacPlayer":"1",

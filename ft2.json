@@ -3,7 +3,7 @@
     "author": "",
     "Headers":"PC_UA",
     
-    "SHeaders":"User-Agent$PC_UA",
+    "SHeaders":"User-Agent$MOBILE_UA",
     "search_url": "https://www.fantuanhd.com/search/wd/{wd}.html",
     "search_mode": "1",
     "sea_arr_rule": ".stui-vodlist&&li",

@@ -7,7 +7,7 @@
     "search_url": "https://gfysys.com/vodsearch/-------------.html;post",
     "sea_PtBody": "wd={wd}",
     "search_mode": "1",
-    "sea_arr_rule": ".ewave-vodlist__media",
+    "sea_arr_rule": ".ewave-vodlist__media&&li",
     "sea_is_jsoup":"1",
     "sea_pic": ".lazyload&&data-original",
     "sea_title": ".lazyload&&title",

@@ -23,8 +23,8 @@
     "proj_actor": "主演：&&</p>",
     "proj_plot": "简介：&&<a",
     
-    "tab_arr_rule": "",
-    "tab_title": "",
+    "tab_arr_rule": "body&&.playlist-slide&&li",
+    "tab_title": "a&&Text[不包含:干饭蓝光,超清云播]",
     
     "list_arr_rule": "body&&.tab-content.ewave-pannel_bd&&ul",
     "epi_arr_rule": "li",

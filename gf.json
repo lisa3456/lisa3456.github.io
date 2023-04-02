@@ -26,7 +26,7 @@
     "tab_arr_rule": "",
     "tab_title": "",
     
-    "list_arr_rule": "body&&.ewave-content__playlist",
+    "list_arr_rule": "body&&.tab-pane.fade.in",
     "epi_arr_rule": "li",
     "epi_title": "a&&Text",
     "epi_url": "a&&href",

@@ -4,9 +4,9 @@
     "Headers":"PC_UA",
     
     "SHeaders":"User-Agent$PC_UA",
-    "search_url": "https://www.bczhuiju.com/vodsearch/wd/{wd}/",
+    "search_url": "https://www.bczhuiju.com/vodsearch/page/1/wd/{wd}/",
     "search_mode": "1",
-    "sea_arr_rule": "body&&.module-items",
+    "sea_arr_rule": "body&&.module-items&&.module-card-item",
     "sea_is_jsoup":"1",
     "sea_pic": ".lazyload&&data-original",
     "sea_title": ".module-card-item-title&&Text",

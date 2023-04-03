@@ -4,7 +4,7 @@
     "Headers":"PC_UA",
     
     "SHeaders":"User-Agent$PC_UA",
-    "search_url": "https://shangjihuoke.com/index.php/ajax/suggest?mid=1&wd={wd}",
+    "search_url": "https://shangjihuoke.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
     "search_mode": "0",
     "sea_arr_rule": "list",
     "sea_is_jsoup":"1",

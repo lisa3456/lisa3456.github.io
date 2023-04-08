@@ -1,10 +1,10 @@
 {
     "title": "XYQHiker模板",
     "author": "",
-    "Headers":"",
+    "Headers":"PC_UA",
     
-    "SHeaders":"",
-    "search_url": "https://www.fantuanhd.com/search/wd/{wd}.html",
+    "SHeaders":"User-Agent$PC_UA#Referer$https://www.fantuanhd.com/search.html?wd={wd}&submit=",
+    "search_url": "https://www.fantuanhd.com/search.html?wd={wd}&submit=",
     "search_mode": "1",
     "sea_arr_rule": ".stui-vodlist&&li",
     "sea_is_jsoup":"1",

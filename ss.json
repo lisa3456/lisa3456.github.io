@@ -1,0 +1,41 @@
+{
+    "title": "XYQHiker模板",
+    "author": "",
+    "Headers":"PC_UA",
+    
+    "SHeaders":"User-Agent$PC_UA#Referer$https://www.1010dy4.com/",
+    "search_url": "https://www.1010dy4.com/search/;post",
+    "sea_PtBody": "wd={wd}",
+    "search_mode": "1",
+    "sea_arr_rule": ".stui-vodlist__media&&li",
+    "sea_is_jsoup":"1",
+    "sea_pic": ".lazyload&&data-original",
+    "sea_title": "h3&&a&&Text",
+    "sea_url": "h3&&a&&href",
+    "sea_subtitle":".pic-text&&Text",
+    "search_prefix": "https://www.1010dy4.com",
+    "search_suffix": "",
+    
+    "proj_is_jsoup":"0",
+    "proj_cate": "",
+    "proj_year": "年份：</span>&&</a>",
+    "proj_area": "地区：</span>&&</a>",
+    "proj_actor": "主演：</span>&&</p>",
+    "proj_plot": "简介：</span>&&</p>",
+    
+    "tab_arr_rule": "body&&.playlist",
+    "tab_title": "h3&&Text[不包含:无尽备用]",
+    
+    "list_arr_rule": "body&&.stui-content__playlist",
+    "epi_arr_rule": "li",
+    "epi_title": "a&&Text",
+    "epi_url": "a&&href",
+    "epi_reverse": "0",
+    "epiurl_prefix": "https://www.1010dy4.com",
+    "epiurl_suffix": "",
+    
+    "Anal_MacPlayer":"0",
+    "ManualSniffer":"0",
+    "VideoFormat":"",
+    "VideoFilter":""
+}

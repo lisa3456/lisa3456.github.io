@@ -33,8 +33,8 @@
     "epiurl_prefix": "http://movie.bulei.cc/",
     "epiurl_suffix": "",
     
-    "Anal_MacPlayer":"1",
-    "ManualSniffer":"0",
+    "Anal_MacPlayer":"0",
+    "ManualSniffer":"1",
     "VideoFormat":".mp4#.m3u8#.flv#video/tos#stariverpan.com:9096/ipfs#/ftn_handler/#x-oss-signature",
     "VideoFilter":""
 }

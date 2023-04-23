@@ -1,0 +1,40 @@
+{
+    "title": "XYQHiker模板",
+    "author": "",
+    "Headers":"PC_UA",
+    
+    "SHeaders":"User-Agent$PC_UA",
+    "search_url": "https://www.kankanju.cc/index.php/ajax/suggest?mid=1&wd={wd}",
+    "search_mode": "0",
+    "sea_arr_rule": "list",
+    "sea_is_jsoup":"1",
+    "sea_pic": "pic",
+    "sea_title": "name",
+    "sea_url": "id",
+    "sea_subtitle":"",
+    "search_prefix": "https://www.kankanju.cc/vod/",
+    "search_suffix": ".html",
+    
+    "proj_is_jsoup":"0",
+    "proj_cate": "",
+    "proj_year": " / 年份：&&</p>",
+    "proj_area": "/ 地区：&& /",
+    "proj_actor": "class=\"data\">主演：&&</p>",
+    "proj_plot": "style=\"display: none;\">&&</span>",
+    
+    "tab_arr_rule": "body&&.stui-vodlist__head:has(.pull-right)",
+    "tab_title": "h3&&Text[不包含:LZ线路,FF线路,YZ线路]",
+    
+    "list_arr_rule": "body&&.stui-content__playlist",
+    "epi_arr_rule": "li",
+    "epi_title": "a&&Text",
+    "epi_url": "a&&href",
+    "epi_reverse": "0",
+    "epiurl_prefix": "https://www.kankanju.cc",
+    "epiurl_suffix": "",
+    
+    "Anal_MacPlayer":"0",
+    "ManualSniffer":"0",
+    "VideoFormat":"",
+    "VideoFilter":""
+}

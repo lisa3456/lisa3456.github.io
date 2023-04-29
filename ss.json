@@ -3,7 +3,7 @@
     "author": "",
     "Headers":"PC_UA",
     
-    "SHeaders":"User-Agent$PC_UA#Referer$https://www.1010dy6.com/",
+    "SHeaders":"User-Agent$PC_UA#Referer$https://www.1010dy6.com/#Cookie$PHPSESSID=b95cam9mrm1997jhu49hj7s52j;every_24_tips_2022110101=true",
     "search_url": "https://www.1010dy6.com/search/;post",
     "sea_PtBody": "wd={wd}",
     "search_mode": "1",

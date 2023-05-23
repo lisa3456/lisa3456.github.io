@@ -8,7 +8,7 @@
     "search_mode": "1",
     "sea_arr_rule": "body&&.zmovo-full-banner-bg2:has(.zmovo-team-content)",
     "sea_is_jsoup":"1",
-    "sea_pic": "img&&scr",
+    "sea_pic": "img&&src",
     "sea_title": ".zmovo-team-title.pcxs&&a&&Text",
     "sea_url": ".zmovo-team-title.pcxs&&a&&href",
     "sea_subtitle":"",

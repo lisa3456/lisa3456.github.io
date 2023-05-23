@@ -1,9 +1,9 @@
 {
     "title": "XYQHiker模板",
     "author": "",
-    "Headers":"PC_UA",
+    "Headers":"MOBILE_UA",
     
-    "SHeaders":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0#Cookie$PHPSESSID=50if2cqcm53al3dnb4hngap485;ecPopup=1#TE$trailers",
+    "SHeaders":"User-Agent$MOBILE_UA#Cookie$PHPSESSID=50if2cqcm53al3dnb4hngap485;ecPopup=1#TE$trailers",
     "search_url": "https://www.sstv.fun/so.html?wd={wd}/",
     "search_mode": "1",
     "sea_arr_rule": "body&&.zmovo-team",

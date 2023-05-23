@@ -10,7 +10,7 @@
     "sea_is_jsoup":"1",
     "sea_pic": "img&&src",
     "sea_title": ".zmovo-team-title.pcxs&&a&&Text",
-    "sea_url": ".zmovo-team-title.pcxs&&a&&href[替换:/project-=>||/=>]",
+    "sea_url": ".zmovo-team-title.pcxs&&a&&href[替换:/project-=>||.html=>]",
     "sea_subtitle":"",
     "search_prefix": "https://www.sstv.fun/v_",
     "search_suffix": "_1_1.html",

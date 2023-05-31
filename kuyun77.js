@@ -1,6 +1,6 @@
 var rule = {
     title:'酷云77',
-    host:'http://api.kunyu77.com',
+    host:'http://81.69.145.227',
     homeUrl:'/api.php/provide/homeBlock?type_id=0',
     searchUrl:'/api.php/provide/searchVideo?searchName=**',
     searchable:2,

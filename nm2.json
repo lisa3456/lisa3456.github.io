@@ -3,7 +3,7 @@
     "author": "",
     "Headers":"MOBILE_UA",
     
-    "SHeaders":"User-Agent$MOBILE_UA",
+    "SHeaders":"User-Agent$MOBILE_UA#Referer$https://nmddd.com/index.php?m=vod-search",
     "search_url": "https://www.nmddd.com/index.php?m=vod-search;post",
     "sea_PtBody": "wd={wd}",
     "search_mode": "1",

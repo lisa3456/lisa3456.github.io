@@ -2,7 +2,7 @@
     "title": "XYQHiker模板",
     "author": "",
     "Headers":"PC_UA",
-    "OCR_API":"http://cms.nokia.press:5707/parse/ocr",
+    "OCR_API":"http://drpy.nokia.press:8028/ocr/drpy/text",
     "SHeaders":"User-Agent$PC_UA#Referer$https://www.1010dy4.com/",
     "search_url": "https://www.1010dy4.com/search/;post",
     "sea_PtBody": "wd={wd}",

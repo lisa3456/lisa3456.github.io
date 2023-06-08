@@ -1,10 +1,10 @@
 {
     "作者": "菜妮丝https://cainisi.cf",
     "站名": "360影视",
-    "主页url": "http://我是.肥猫.love:63/cainisi//",
+    "主页url": "http://我不是.肥猫.love:63/cainisi//",
     "请求头": "cainisi",
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-    "分类url": "http://我是.肥猫.love:63/cainisi/fl.php?id={cateId}&pg={catePg}&cat={class}&year={year}&area={area}&rank={by}&act={act}",
+    "分类url": "http://我不是.肥猫.love:63/cainisi/fl.php?id={cateId}&pg={catePg}&cat={class}&year={year}&area={area}&rank={by}&act={act}",
     "数组": "数组=&&=数组",
     "图片": "图片=\"&&\"",
     "标题": "标题=\"&&\"",

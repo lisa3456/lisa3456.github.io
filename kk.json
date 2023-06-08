@@ -36,6 +36,6 @@
     
     "Anal_MacPlayer":"0",
     "ManualSniffer":"1",
-    "VideoFormat":"item/video#.mp4#.m3u8#.flv",
+    "VideoFormat":"video/tos#.mp4#.m3u8#.flv",
     "VideoFilter":"video_id="
 }

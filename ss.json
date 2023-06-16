@@ -36,6 +36,6 @@
     
     "Anal_MacPlayer":"0",
     "ManualSniffer":"1",
-    "VideoFormat":".mp4#.m3u8#cdn.123pan.cn",
-    "VideoFilter":"daina.hk"
+    "VideoFormat":".mp4#.m3u8",
+    "VideoFilter":"daina.hk#https://download-"
 }

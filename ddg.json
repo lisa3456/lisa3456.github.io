@@ -65,7 +65,7 @@
     "演员详情": ">主演：&&</p>",
     "简介详情": "简介：</span>&&</p>",
     "线路列表数组规则": "body&&.stui-vodlist__head:has(.pull-right)",
-    "线路标题": "Text",
+    "线路标题": "Text[不包含:量子云播,无尽云播,非凡云播]",
     "播放列表数组规则": "body&&.stui-content__playlist",
     "选集列表数组规则": "li",
     "选集标题链接是否Jsoup写法": "1",

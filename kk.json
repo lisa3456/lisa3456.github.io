@@ -4,7 +4,7 @@
     "Headers":"PC_UA",
     
     "OCR_API":"https://ddddocr--lineagett.repl.co/ocr/b64/text",
-    "SHeaders":"User-Agent$PC_UA#Cookie$filter_robot_c1c",
+    "SHeaders":"User-Agent$PC_UA#Cookie$PHPSESSID=slm6tjglnjd9sog9tcb0pg7oge; filter_robot_c1c=301",
     "search_url": "https://www.kankanju.cc/vodsearch.html?wd={wd}",
     "search_mode": "1",
     "sea_arr_rule": ".stui-vodlist__box",

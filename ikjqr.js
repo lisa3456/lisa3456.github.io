@@ -5,7 +5,7 @@ try {
 	pdfh = jsp.pdfh;
 	VOD.vod_id = pdfh(html1, "#current_id&&value");
 	VOD.vod_name = pdfh(html1, "h2&&Text");
-	VOD.vod_pic = pdfh(html1, ".item-root&&img&&src");
+	VOD.vod_pic = pdfh(html1, ".item-root&&img&&data-src");
 	VOD.vod_actor = pdfh(html1, ".celebrity&&Text");
 	VOD.vod_area = pdfh(html1, ".country&&Text");
 	VOD.vod_year = pdfh(html1, ".year&&Text");

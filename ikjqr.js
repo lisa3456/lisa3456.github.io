@@ -39,33 +39,33 @@ try {
 for(var key in map){
 			if('kuaikan'==key){
 				arr.push({
-                flag: '🌸快看🌸',
+                flag: '快看',
                 url: map[key],
 				sort:2
             })}
 			if('bfzym3u8'==key){
 				arr.push({
-                flag: '🌸暴风🌸',
+                flag: '暴风',
                 url: map[key],
 				sort:1
             })}
            if('1080zyk'==key){
 				arr.push({
-                flag: '🌸1080🌸',
+                flag: '1080',
                 url: map[key],
-				sort:3
+				sort:5
             })}
             if('ffm3u8'==key){
 				arr.push({
-                flag: '🌸非凡🌸',
+                flag: '非凡',
                 url: map[key],
-				sort:4
+				sort:3
             })}
            if('lzm3u8'==key){
 				arr.push({
-                flag: '🌸量子🌸',
+                flag: '量子',
                 url: map[key],
-				sort:5
+				sort:4
             })}
         }
 	arr.sort((a, b) => a.sort - b.sort);

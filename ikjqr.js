@@ -51,7 +51,7 @@ for(var key in map){
             })}
            if('1080zyk'==key){
 				arr.push({
-                flag: '1080',
+                flag: '优质',
                 url: map[key],
 				sort:5
             })}

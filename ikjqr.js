@@ -5,7 +5,7 @@ try {
 	pdfh = jsp.pdfh;
 	VOD.vod_id = pdfh(html1, "#current_id&&value");
 	VOD.vod_name = pdfh(html1, "h2&&Text");
-	VOD.vod_pic = pdfh(html1, ".item-root&&img&&src");
+	VOD.vod_pic = pdfh(html1, ".item-root&&img&&data-src");
 	VOD.vod_actor = pdfh(html1, ".celebrity&&Text");
 	VOD.vod_area = pdfh(html1, ".country&&Text");
 	VOD.vod_year = pdfh(html1, ".year&&Text");
@@ -129,7 +129,7 @@ var rule = {
 	play_parse:true,
 	double:true,
     推荐:'.v-list;div.item;*;*;*;*', //这里可以为空，这样点播不会有内容
-    一级:'.v-list&&div.item;p&&Text;img&&src;;a&&href', //一级的内容是推荐或者点播时候的一级匹配
+    一级:'.v-list&&div.item;p&&Text;img&&data-src;;a&&href', //一级的内容是推荐或者点播时候的一级匹配
     二级:二级,
-    搜索:'#search-result&&.media;h5&&a&&Text;a&&img&&src;.label&&Text;a&&href',//第三个是描述，一般显示更新或者完结
+    搜索:'#search-result&&.media;h5&&a&&Text;a&&img&&data-src;.label&&Text;a&&href',//第三个是描述，一般显示更新或者完结
 }

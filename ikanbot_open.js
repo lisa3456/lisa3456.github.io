@@ -223,7 +223,7 @@ async function play(flag, id, flags) {
 
 async function search(wd, quick, pg) {
     if (pg <= 0 || typeof(pg) == 'undefined') pg = 1;
-    const html = await request(url + '/search?q=' + wd + '&p=' + pg);
+    const html = await request(url + '/search?q=' + wd);
     const $ = load(html);
     const items = $('div.media');
     var jsBase = await js2Proxy(true, siteType, siteKey, 'img/', {});

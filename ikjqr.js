@@ -79,13 +79,6 @@ try {
             sort:4
       })}
 
-        else{
-            arr.push({
-        flag: key,
-        url: map[key],
-            sort:5
-      })}
-
   }
     arr.sort((a, b) => a.sort - b.sort);
     

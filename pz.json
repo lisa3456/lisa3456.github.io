@@ -43,15 +43,26 @@
       "playerType": 1
     },    
     {
-       "key": "csp_NanGua",
-       "name": "南瓜",
-       "type": 3,
-       "api": "csp_NanGua",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "playerType": 2
-    },        
+      "key":"南瓜",
+      "name":"南瓜",
+      "type":3,
+      "api":"csp_NanGua",
+      "playerType":2,
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1
+    },
+    {
+      "key":"csp_WoGG",
+      "name":"玩偶",
+      "type":3,
+      "api":"csp_WoGG",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":0,
+      "ext":"https://wds.ecsxs.com/231197.txt+auto|fhd$$$http://wogg.xyz/",
+      "playerType": 1
+    },
     {
        "key": "csp_SP33",
        "name": "360(官)",
@@ -61,29 +72,7 @@
        "quickSearch": 1,
        "filterable": 1,
        "playerType": 2
-    },   
-    {
-      "key": "csp_tk",
-      "name": "天空(广)",
-      "type": 1,
-      "api": "https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },  
-    {
-      "key": "csp_fs",
-      "name": "飞速(广)",
-      "type": 1,
-      "api": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
+    },     
     {
       "key": "csp_yz",
       "name": "优质(广)",
@@ -118,6 +107,28 @@
       "playerType": 2
     },
     {
+      "key": "csp_tk",
+      "name": "天空(广)",
+      "type": 1,
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "csp_fs",
+      "name": "飞速(广)",
+      "type": 1,
+      "api": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
       "key": "csp_gs",
       "name": "光速(广)",
       "type": 1,
@@ -143,7 +154,7 @@
       "key": "csp_jy",
       "name": "金鹰(广)",
       "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/",
+      "api": "https://jinyingzy.com/provide/vod/from/jinyingm3u8",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -194,6 +205,11 @@
   ],
   "parses": [
     {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
       "name": "麒麟",
       "type": 0,
       "url": "https://www.cgdyw.net/jiexi/jiekou-2/?url=",
@@ -232,15 +248,11 @@
 			"name": "暴风",
 			"hosts": [
 				"bfzy",
+                "bfbf",
 				"bfzyll.com"
 			],
 			"regex": ["#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"]
 	   },
-       {
-            "name": "极速",
-            "hosts": ["jszy"],
-            "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?muguacdn.*?\\.ts\\s+"]
-       },
        {
             "name":"索尼",
             "hosts":["suonizy"],

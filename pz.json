@@ -6,7 +6,7 @@
       "key": "csp_ff",
       "name": "非凡(广)",
       "type": 1,
-      "api": "http://new.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,

@@ -2,6 +2,7 @@
 CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV13,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv13_2/index.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV1,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv1
 CCTV2,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv2
 CCTV3,http://hrare.110.120.119.yoonee.net/ysp.php?id=cctv3

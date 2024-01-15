@@ -85,28 +85,6 @@
       "playerType": 2
     },
     {
-      "key": "csp_qh",
-      "name": "奇虎(广)",
-      "type": 1,
-      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "csp_ls",
-      "name": "乐视(广)",
-      "type": 1,
-      "api": "https://leshizyapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "csp_xl",
       "name": "新浪(广)",
       "type": 1,

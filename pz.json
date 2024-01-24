@@ -6,7 +6,7 @@
       "key": "csp_ff",
       "name": "非凡(广)",
       "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "api": "http://svip.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -16,7 +16,7 @@
         "国产剧",   
         "大陆综艺",
         "日韩动漫"]
-    },
+    }, 
     {
       "key": "csp_lz",
       "name": "量子(广)",
@@ -33,37 +33,6 @@
         "日韩动漫"]
     },
     {
-      "key":"csp_77",
-      "name":"七七",
-      "type":3,
-      "api":"csp_Kunyu77",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "playerType": 1
-    },    
-    {
-      "key":"南瓜",
-      "name":"南瓜",
-      "type":3,
-      "api":"csp_NanGua",
-      "playerType":2,
-      "searchable":1,
-      "quickSearch":1,
-      "changeable":1
-    },
-    {
-      "key":"csp_WoGG",
-      "name":"玩偶",
-      "type":3,
-      "api":"csp_WoGG",
-      "searchable":1,
-      "quickSearch":1,
-      "changeable":0,
-      "ext":"https://wds.ecsxs.com/231197.txt+auto|fhd$$$http://wogg.xyz/",
-      "playerType": 1
-    },
-    {
        "key": "csp_SP33",
        "name": "360(官)",
        "type": 3,
@@ -78,6 +47,28 @@
       "name": "优质(广)",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/apijson.php",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "csp_ls",
+      "name": "乐视(广)",
+      "type": 1,
+      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "csp_qh",
+      "name": "奇虎(广)",
+      "type": 1,
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -182,7 +173,27 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    },
+    },    
+    {
+      "key": "py_央视",
+      "name": "央视",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://lisa3456.github.io/cctv.py"
+    },        
+    {
+      "key": "py_央视2",
+      "name": "央视2",
+      "type": 3,
+      "api": "https://lisa3456.github.io/cctv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },      
     {
       "key":"Bili",
       "name":"哔哩",
@@ -210,15 +221,6 @@
             "type": 0,
             "url": "https://lisa3456.github.io/zb.txt",
             "playerType": 1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },     
-            {
-            "name": "央视频",
-            "type": 0,
-            "url": "https://lisa3456.github.io/ysp.m3u",
-            "playerType": 2,
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
@@ -277,6 +279,11 @@
             "name":"索尼",
             "hosts":["suonizy"],
             "regex":["#EXTINF.*?\\s+.*?original.*?\\.ts\\s+"]
+       },
+       {
+            "name":"乐视",
+            "hosts":["leshi"],
+            "regex":["#EXTINF.*?\\s+.*?leshiad.*?\\.ts\\s+"]
        },
        {
             "host": "*",

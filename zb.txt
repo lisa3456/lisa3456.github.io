@@ -24,6 +24,8 @@ CCTV5+,http://hrare100-1.beijing-02.dayunet.com/tv/ysp1.php?id=cctv5p
 
 
 卫视,#genre#
+山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 辽宁卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp1.php?id=lnws
 北京卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp1.php?id=bjws
 东方卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp1.php?id=dfws
@@ -51,6 +53,11 @@ CCTV5+,http://hrare100-1.beijing-02.dayunet.com/tv/ysp1.php?id=cctv5p
 
 
 🎀山西频道,#genre#
+山西经济,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
+山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
+山西文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
+山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
+山西黄河,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 阳泉综合,https://live.yqrtv.com/xwpd/sd/live.m3u8
 阳泉科教,https://live.yqrtv.com/xwchne/sd/live.m3u8
 晋城新闻,http://live.jinnews.com.cn/xwzh/sd/live.m3u8

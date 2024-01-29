@@ -16,6 +16,7 @@ CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 辽宁卫视,http://hf.bbtu.top:10000/rtp/239.3.1.210:8056
 辽宁卫视,http://hf.bbtu.top:10000/rtp/239.3.1.24:8116
 辽宁卫视,http://www.0768.org/ysp.php?id=lnws
+辽宁卫视,https://php.joylian.com/api/ysp.php?id=lnws
 
 
 🎀山西频道,#genre#

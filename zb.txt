@@ -1,9 +1,8 @@
 央卫,#genre#
-CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV13,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv13_2/index.m3u8
+CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,https://lives.jnnews.tv/video/s10001-cctv/index.m3u8
+CCTV13,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv13_2/index.m3u8
 CCTV2,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 CCTV3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
 CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
@@ -17,7 +16,6 @@ CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 辽宁卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp11.php?id=lnws
 辽宁卫视,http://hf.bbtu.top:10000/rtp/239.3.1.210:8056
 辽宁卫视,http://hf.bbtu.top:10000/rtp/239.3.1.24:8116
-辽宁卫视,http://www.0768.org/ysp.php?id=lnws
 辽宁卫视,https://php.joylian.com/api/ysp.php?id=lnws
 
 

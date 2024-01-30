@@ -12,6 +12,7 @@ CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
 山东卫视,https://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
+三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 辽宁卫视,http://hrare100-1.beijing-02.dayunet.com/tv/liaoning/1.php
 辽宁卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp11.php?id=lnws
 辽宁卫视,http://hf.bbtu.top:10000/rtp/239.3.1.210:8056

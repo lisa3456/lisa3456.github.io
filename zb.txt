@@ -21,7 +21,8 @@ CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 辽宁卫视,http://hf.bbtu.top:10000/rtp/239.3.1.210:8056
 辽宁卫视,http://hf.bbtu.top:10000/rtp/239.3.1.24:8116
 辽宁卫视,https://php.joylian.com/api/ysp.php?id=lnws
-
+parse=1
+济南新闻综合,https://zhibo.ijntv.cn/index.php?channel=5
 
 🎀山西频道,#genre#
 山西经济,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true

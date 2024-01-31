@@ -15,14 +15,14 @@ CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 陕西卫视,http://stream.snrtv.com/sxbc-star-bdprEY.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
 江西卫视,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=170665072580797&token=d8abab86f20a3360fb5a93e2aff91746
+贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=e74a4b6649aa64292b20d6ab901d17a0&txTime=65B9AAED
 河南卫视,https://3geauomt1gozdncbafa3ug.ourdvsss.com/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e7eb5fdd049bc2b19aed9c4d884037b9&wsTime=1706662806&wsSession=739e5b24706a53ead3c48000-170664953808501&wsIPSercert=89a9edd33339e1cd7d4c2e13aa8faee7&wsiphost=local&wsBindIP=1
 辽宁卫视,http://hrare100-1.beijing-02.dayunet.com/tv/liaoning/1.php
 辽宁卫视,http://hrare100-1.beijing-02.dayunet.com/tv/ysp11.php?id=lnws
 辽宁卫视,http://hf.bbtu.top:10000/rtp/239.3.1.210:8056
 辽宁卫视,http://hf.bbtu.top:10000/rtp/239.3.1.24:8116
 辽宁卫视,https://php.joylian.com/api/ysp.php?id=lnws
-parse=1
-济南新闻综合,https://zhibo.ijntv.cn/index.php?channel=5
+
 
 🎀山西频道,#genre#
 山西经济,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true

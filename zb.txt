@@ -3,6 +3,9 @@ CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV13,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv13_2/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+CCTV13,http://live-play.cctvnews.cctv.com/cctv/merge_cctv13.flv
+CCTV13,http://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.flv
+CCTV13,http://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.flv
 CCTV13,https://pi.0472.org/tv/asam.php?auth=231110
 CCTV2,http://liveop.cctv.cn:80/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true

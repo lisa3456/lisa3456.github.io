@@ -1,5 +1,6 @@
 央卫,#genre#
 CCTV1,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv1_2/index.m3u8
+CCTV1,http://120.7.30.152:2024/live/CCTV1高清/index.m3u8
 CCTV1,http://tvpull.dxhmt.cn/tv/11081-2.m3u8
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV13,http://ldncctvwbndks.v.kcdnvip.com/ldncctvwbnd/ldcctv13_2/index.m3u8

@@ -40,9 +40,9 @@ var rule = {
     class_url:'movie&tv',
 	play_parse:true,
 	double:true,
-	tab_remove:[],//移除某个线路及相关的选集
+	tab_remove:['snm3u8','qhm3u8','haiwaikan'],//移除某个线路及相关的选集
 	tab_order:['bfzym3u8','kuaikan','ffm3u8','lzm3u8','1080zyk','ikm3u8'],//线路顺序,按里面的顺序优先，没写的依次排后面
-	tab_rename:{'bfzym3u8':'暴风','kuaikan':'快看','ffm3u8':'非凡','lzm3u8':'量子','1080zyk':'优质','ikm3u8':'爱坤','gsm3u8':'光速','zuidam3u8':'最大','bjm3u8':'八戒','wolong':'卧龙','xlm3u8':'新浪','yhm3u8':'樱花','tkm3u8':'天空','jsm3u8':'极速','wjm3u8':'无尽','sdm3u8':'闪电','kcm3u8':'快车','jinyingm3u8':'金鹰','fsm3u8':'飞速','tpm3u8':'淘片','lem3u8':'鱼乐','dbm3u8':'百度','tomm3u8':'番茄','ukm3u8':'U酷','hnzym3u8':'红牛资源','hnm3u8':'红牛','68zy_m3u8':'68','kdm3u8':'酷点','bdxm3u8':'北斗星','hhm3u8':'豪华','snm3u8':'索尼','qhm3u8':'奇虎','haiwaikan':'海外看','kbm3u8':'快播'},//线路名替换如:lzm3u8替换为量子资源
+	tab_rename:{},//线路名替换如:lzm3u8替换为量子资源
     推荐:'.v-list;div.item;*;*;*;*', //这里可以为空，这样点播不会有内容
     // 一级:'.v-list&&div.item;p&&Text;img&&src;;a&&href', //一级的内容是推荐或者点播时候的一级匹配
 	一级:'.v-list&&div.item;p&&Text;img&&data-src;;a&&href', //一级的内容是推荐或者点播时候的一级匹配

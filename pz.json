@@ -1,5 +1,5 @@
 {
-  "spider": "https://lisa3456.github.io/fty1229.jar;md5;8ba7ff79221a3b1dd152646f48cd279c",  
+  "spider": "https://lisa3456.github.io/fty0220.jar;md5;87d5916b7bb5c8acacac5490e802828e",  
   "sites": [
       {"key":"豆豆","name":"豆瓣","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
       {
@@ -21,7 +21,7 @@
       "key": "csp_lz",
       "name": "量子(广)",
       "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
+      "api": "http://www.lzzy.tv/api.php/provide/vod/from/lzm3u8/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -53,7 +53,40 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    },    
+    },      
+    {
+      "key": "csp_bf",
+      "name": "暴风(广)",
+      "type": 1,
+      "api": "http://app.bfzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },      
+    {
+      "key": "csp_kk",
+      "name": "快看(广)",
+      "type": 1,
+      "api": "https://kkzy.tv/api.php/provide/vod/from/kuaikan/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },      
+    {
+       "key": "聚合",
+       "name": "聚合(广)",
+       "type": 3,
+       "api": "https://lisa3456.github.io/drpy.min.js",
+       "ext": "https://lisa3456.github.io/ikjqr.js",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "playerType": 2
+    },     
     {
       "key": "csp_fs",
       "name": "飞速(广)",
@@ -132,10 +165,21 @@
       "playerType": 2
     },
     {
-       "key": "csp_SP33",
-       "name": "360(官)",
+       "key": "七七",
+       "name": "七七",
        "type": 3,
-       "api": "csp_SP33",
+       "api": "csp_Kunyu77",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "playerType": 2
+    },     
+    {
+       "key": "南瓜",
+       "name": "南瓜",
+       "type": 3,
+       "api": "csp_NanGua",
+       "ext": "",
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
@@ -186,7 +230,7 @@
   "lives": [{
             "name": "live",
             "type": 0,
-            "url": "https://lisa3456.github.io/zb.txt",
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/lisa3456/tv/main/itvlist.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -233,7 +277,8 @@
 			],
 			"regex": [
 				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.700000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?(170)\\d{10}\\.ts\\s+"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.533333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?(170)\\d{10,11}\\.ts\\s+"
 			]
 	   },
        {
@@ -245,10 +290,8 @@
 			"regex": [
 				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.633333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.720000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?(01)\\d{4}\\.ts\\s+",
-                "#EXTINF.*?\\s+.*?(1)\\d{5}\\.ts\\s+",
-                "#EXTINF.*?\\s+.*?(02)\\d{4}\\.ts\\s+",
-                "#EXTINF.*?\\s+.*?(2)\\d{5}\\.ts\\s+"
+                "#EXTINF.*?\\s+.*?(01|02)\\d{4}\\.ts\\s+",
+                "#EXTINF.*?\\s+.*?(1|2)\\d{5}\\.ts\\s+"
 			]
 	   },
        {
@@ -257,8 +300,28 @@
 				"ikzy"
 			],
 			"regex": [
-				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?eSgSWsuu.*?\\.ts\\s+"
+			]
+	   },
+       {
+			"name": "暴风",
+			"hosts": [
+				"bfbf",
+                "bfengbf"
+			],
+			"regex": [
+                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
+			]
+	   },
+       {
+			"name": "快看",
+			"hosts": [
+				"kuaikan"
+			],
+			"regex": [
+				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1.667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?kuaikan-play.*?\\.ts\\s+"
 			]
 	   },
        {
@@ -564,4 +627,4 @@
     "cms.qdwght.com"
   ],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img"
-       }
+	  }

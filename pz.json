@@ -41,7 +41,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2
+      "playerType": 2,
+      "categories": [
+        "国产剧",   
+        "大陆综艺",
+        "日韩动漫"]
     },
     {
       "key": "csp_ik",
@@ -52,7 +56,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2
+      "playerType": 2,
+      "categories": [
+        "国产剧",   
+        "大陆综艺",
+        "日韩动漫"]
     },      
     {
       "key": "csp_bf",
@@ -63,7 +71,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2
+      "playerType": 2,
+      "categories": [
+        "国产剧",   
+        "大陆综艺",
+        "日韩动漫"]
     },      
     {
       "key": "csp_kk",
@@ -74,8 +86,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2
-    },      
+      "playerType": 2,
+      "categories": [
+        "国产剧",   
+        "大陆综艺",
+        "日韩动漫"]
+    },    
+    {
+      "key": "csp_qh",
+      "name": "奇虎(广)",
+      "type": 1,
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",   
+        "大陆综艺",
+        "日韩动漫"]
+    },    
     {
        "key": "聚合",
        "name": "聚合(广)",
@@ -217,6 +248,17 @@
       "ext":"https://lisa3456.github.io/bbb.json"
     },
     {
+       "key": "JUST",
+       "name": "JUST",
+       "type": 3,
+       "api": "https://lisa3456.github.io/drpy.min.js",
+       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JustLive.js",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "playerType": 2
+    },     
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
@@ -264,9 +306,9 @@
 				"v.cdnlz"
 			],
 			"regex": [
-				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.720000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?(01)\\d{4}\\.ts\\s+",
-                "#EXTINF.*?\\s+.*?(1)\\d{5}\\.ts\\s+"
+				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.720001,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?[^0]\\d{4,5}\\.ts\\s+",
+                "#EXTINF.*?\\s+.*?\\w{18}\\.ts\\s+"
 			]
 	   },
 	   {
@@ -276,9 +318,9 @@
 				"hd.ffzy"
 			],
 			"regex": [
-				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.700000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.533333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?(170)\\d{10,11}\\.ts\\s+"
+				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.700001,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?(117)\\d{11,12}\\.ts\\s+",
+                "#EXTINF.*?\\s+.*?[^0]\\d{4,5}\\.ts\\s+"
 			]
 	   },
        {
@@ -288,20 +330,9 @@
                 "play-cdn"
 			],
 			"regex": [
-				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.633333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.720000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?(01|02)\\d{4}\\.ts\\s+",
-                "#EXTINF.*?\\s+.*?(1|2)\\d{5}\\.ts\\s+"
-			]
-	   },
-       {
-			"name": "爱坤",
-			"hosts": [
-				"ikzy"
-			],
-			"regex": [
-				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?eSgSWsuu.*?\\.ts\\s+"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.720001,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXTINF.*?\\s+.*?[^0]\\d{4,5}\\.ts\\s+",
+                "#EXTINF.*?\\s+.*?\\w{18}\\.ts\\s+"
 			]
 	   },
        {
@@ -315,13 +346,30 @@
 			]
 	   },
        {
+			"name": "爱坤",
+			"hosts": [
+				"ikzy"
+			],
+			"regex": [
+				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:[\\s\\S]*?#EXT-X-DISCONTINUITY"
+			]
+	   },
+       {
 			"name": "快看",
 			"hosts": [
 				"kuaikan"
 			],
 			"regex": [
-				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1.667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?kuaikan-play.*?\\.ts\\s+"
+				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:[\\s\\S]*?#EXT-X-DISCONTINUITY"
+			]
+	   },
+       {
+			"name": "奇虎",
+			"hosts": [
+				"qihu"
+			],
+			"regex": [
+				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:[\\s\\S]*?#EXT-X-DISCONTINUITY"
 			]
 	   },
        {
@@ -627,4 +675,4 @@
     "cms.qdwght.com"
   ],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img"
-	  }
+    }

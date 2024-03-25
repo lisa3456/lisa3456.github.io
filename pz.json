@@ -253,10 +253,11 @@
        "type": 3,
        "api": "https://lisa3456.github.io/drpy.min.js",
        "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JustLive.js",
+       "style":{"type":"rect","ratio":1.35},
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
-       "playerType": 2
+       "playerType": 1
     },     
     {
       "key": "push_agent",
@@ -301,9 +302,7 @@
        {
 			"name": "量子",
 			"hosts": [
-				"vip.lz",
-				"hd.lz",
-				"v.cdnlz"
+				"lz"
 			],
 			"regex": [
 				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.720001,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -314,8 +313,7 @@
 	   {
 			"name": "非凡",
 			"hosts": [
-				"vip.ffzy",
-				"hd.ffzy"
+				"ffzy"
 			],
 			"regex": [
 				"#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4.700001,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -675,4 +673,4 @@
     "cms.qdwght.com"
   ],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img"
-    }
+	  }

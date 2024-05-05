@@ -93,21 +93,6 @@
         "日韩动漫"]
     },    
     {
-      "key": "csp_ky",
-      "name": "快云(广)",
-      "type": 1,
-      "api": "https://www.kuaiyunzy.com//api.php/provide/vod/from/kuaiyun/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "categories": [
-        "国产剧",   
-        "大陆综艺",
-        "日韩动漫"]
-    },    
-    {
       "key": "csp_qh",
       "name": "奇虎(广)",
       "type": 1,

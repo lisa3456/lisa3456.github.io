@@ -390,6 +390,12 @@
       "name": "段友",
       "type": 0,
       "url": "https://dyys688.cn/player/?url="
+    },
+    {
+      "name":"七新",
+      "type":0,
+      "url":"https://api.52wyb.com/index/?url=",
+      "ext":{"header":{"referer":"http://www.7xdy.com/"}}
     }
   ],
   "rules": [

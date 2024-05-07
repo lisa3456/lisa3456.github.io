@@ -33,6 +33,21 @@
         "日韩动漫"]
     },
     {
+      "key": "csp_bf",
+      "name": "暴风(广)",
+      "type": 1,
+      "api": "http://app.bfzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",   
+        "大陆综艺",
+        "日韩动漫"]
+    },      
+    {
       "key": "csp_yz",
       "name": "优质(广)",
       "type": 1,
@@ -63,40 +78,10 @@
         "日韩动漫"]
     },      
     {
-      "key": "csp_bf",
-      "name": "暴风(广)",
-      "type": 1,
-      "api": "http://app.bfzyapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "categories": [
-        "国产剧",   
-        "大陆综艺",
-        "日韩动漫"]
-    },      
-    {
       "key": "csp_kk",
       "name": "快看(广)",
       "type": 1,
       "api": "https://kkzy.tv/api.php/provide/vod/from/kuaikan/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "categories": [
-        "国产剧",   
-        "大陆综艺",
-        "日韩动漫"]
-    },    
-    {
-      "key": "csp_qh",
-      "name": "奇虎(广)",
-      "type": 1,
-      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -444,15 +429,6 @@
 			"hosts": [
 				"kuaikan",
                 "kuaiyun"
-			],
-			"regex": [
-				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:[\\s\\S]*?#EXT-X-DISCONTINUITY"
-			]
-	   },
-       {
-			"name": "奇虎",
-			"hosts": [
-				"qihu"
 			],
 			"regex": [
 				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:[\\s\\S]*?#EXT-X-DISCONTINUITY"

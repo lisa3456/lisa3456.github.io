@@ -462,7 +462,7 @@
 			"name": "优质",
 			"hosts": [
 				"yzzy",
-                "play-cdn",
+                "-cdn",
                 "hdzyk"
 			],
 			"regex": [

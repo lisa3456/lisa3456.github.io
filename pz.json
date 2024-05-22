@@ -20,8 +20,8 @@
     {
       "key": "csp_lz",
       "name": "量子(广)",
-      "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,

@@ -132,7 +132,7 @@
 		"图片": "vod_pic\":\"&&\"",
 		"标题": "vod_name\":\"&&\"",
 		"副标题": "+vod_remarks\":\"&&\"",
-		"链接": "https://leshizyapi.com/api.php/provide/vod/?ac=detail&ids=+vod_id\":&&,",
+		"链接": "https://leshiapi.com/api.php/provide/vod/?ac=detail&ids=+vod_id\":&&,",
         "搜索url": "https://www.leshizy1.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
         "线路标题": "<h1>播放类型：&&</h1>",
         "播放列表": "class=\"listitems  row\">&&</div>",

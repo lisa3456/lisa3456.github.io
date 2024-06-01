@@ -169,7 +169,22 @@
        "quickSearch": 1,
        "filterable": 1,
        "playerType": 2
-    },     		
+    },     
+    {
+      "key": "csp_hm",
+      "name": "黑木(广)",
+      "type": 1,
+      "api": "https://www.heimuer.tv/api.php/provide/vod?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",   
+        "大陆综艺",
+        "日韩动漫"]
+    },      		
     {
         "key":"XBPQ_独播",
         "name":"独播(广)",
@@ -403,8 +418,8 @@
             "type": 0,
             "url": "https://lisa3456.github.io/zb.txt",
             "playerType": 1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
         }
   ],
   "parses": [

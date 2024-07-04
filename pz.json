@@ -417,7 +417,7 @@
   "lives": [{
             "name": "live",
             "type": 0,
-            "url": "https://lisa3456.github.io/zb.txt",
+            "url": "https://lisa3456.github.io/v6zb.txt",
             "playerType": 1,
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
@@ -433,17 +433,6 @@
       "name": "闲鱼",
       "type": 0,
       "url": "https://jx.aidouer.net/?url="
-    },
-    {
-      "name": "段友",
-      "type": 0,
-      "url": "https://dyys688.cn/player/?url="
-    },
-    {
-      "name":"七新",
-      "type":0,
-      "url":"https://api.52wyb.com/index/?url=",
-      "ext":{"header":{"referer":"http://www.7xdy.com/"}}
     }
   ],
   "rules": [

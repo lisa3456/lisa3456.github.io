@@ -475,8 +475,7 @@
        {
 			"name": "暴风",
 			"hosts": [
-				"bfbf",
-                "bfengbf"
+				"bf"
 			],
 			"regex": [
                 "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",

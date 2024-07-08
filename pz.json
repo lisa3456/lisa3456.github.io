@@ -211,6 +211,18 @@
        "playerType": 2
     },     
     {
+      "key": "csp_hm",
+      "name": "黑木(广)",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "header": {"User-Agent": ""}
+    },
+    {
       "key": "csp_fs",
       "name": "飞速(广)",
       "type": 1,
@@ -372,6 +384,17 @@
       "quickSearch":0,
       "changeable":0,
       "ext":"https://lisa3456.github.io/bbb.json"
+    },
+    {
+      "key":"Bilicz",
+      "name":"初中",
+      "type": 3,
+      "api": "csp_Bili",
+      "style":{"type":"rect","ratio":1.597},
+      "searchable":1,
+      "quickSearch":0,
+      "changeable":0,
+      "ext":"https://lisa3456.github.io/czkt.json"
     },
     {
        "key": "JUST",

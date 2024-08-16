@@ -1,8 +1,9 @@
 {
-  "spider": "https://lisa3456.github.io/fty0220.jar;md5;87d5916b7bb5c8acacac5490e802828e",  
+  "spider": "https://lisa3456.github.io/fan.jar;md5;2d88ca12b97435501ba22ca12ce03d92",  
   "sites": [
       {"key":"豆豆","name":"豆瓣","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"indexs":1},
       {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1}, 
+      {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
       {
       "key": "csp_ff",
       "name": "非凡(广)",

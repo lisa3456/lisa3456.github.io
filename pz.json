@@ -2,7 +2,6 @@
   "spider": "https://lisa3456.github.io/fan.jar;md5;2d88ca12b97435501ba22ca12ce03d92",  
   "sites": [
       {"key":"豆豆","name":"豆瓣","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"indexs":1},
-      {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1}, 
       {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
       {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1}, 
       {
@@ -166,6 +165,18 @@
       "name": "黑木(广)",
       "type": 1,
       "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "header": {"User-Agent": ""}
+    },
+    {
+      "key": "csp_hw",
+      "name": "华为(广)",
+      "type": 1,
+      "api": "https://cjhwba.com/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -347,6 +358,17 @@
        "playerType": 2
     },     
     {
+       "key": "ys",
+       "name": "央视J",
+       "type": 3,
+       "api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
+       "ext": "https://lisa3456.github.io/ys.js",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "playerType": 2
+    },     
+    {
       "key": "py_央视",
       "name": "央视",
       "type": 3,
@@ -424,7 +446,7 @@
     {
       "name": "麒麟",
       "type": 0,
-      "url": "https://www.nunuyya2.com/jiexi/jiekou-2/?url="
+      "url": "https://www.nunuyya2.com/jiexi/jiekou-1/?url="
     }
   ],
   "rules": [

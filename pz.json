@@ -161,18 +161,6 @@
         }
     },  
     {
-      "key": "csp_hm",
-      "name": "黑木(广)",
-      "type": 1,
-      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "header": {"User-Agent": ""}
-    },
-    {
       "key": "csp_hw",
       "name": "华为(广)",
       "type": 1,

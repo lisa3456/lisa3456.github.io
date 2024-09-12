@@ -94,8 +94,11 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 newtv超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 newtv超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
 CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
+CHC家庭影院,https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.ctv
 newtv超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 newtv东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 newtv海外剧场,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8

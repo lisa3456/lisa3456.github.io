@@ -71,7 +71,15 @@
         "科幻片",
         "爱情片",
         "剧情片",
-        "战争片"]
+        "战争片",
+        "重生民国",
+        "穿越年代",
+        "现代言情",
+        "反转爽文",
+        "女恋总裁",
+        "闪婚离婚",
+        "都市脑洞",
+        "古装仙侠"]
     },      
     {
       "key": "csp_yz",
@@ -107,7 +115,7 @@
       "filterable": 1,
       "playerType": 2,
       "categories": [
-        "国产剧",   
+        "国产剧",
         "大陆综艺",
         "日韩动漫",
         "韩国剧",
@@ -117,7 +125,8 @@
         "科幻片",
         "爱情片",
         "剧情片",
-        "战争片"]
+        "战争片",
+        "爽文短剧"]
     },          
     {
         "key":"XBPQ_kk",
@@ -212,7 +221,18 @@
        "quickSearch": 1,
        "filterable": 1,
        "playerType": 2
-    },     
+    },    
+    {
+      "key": "csp_sn",
+      "name": "索尼(广)",
+      "type": 1,
+      "api": "https://snzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    }, 
     {
       "key": "csp_fs",
       "name": "飞速(广)",
@@ -251,39 +271,6 @@
       "name": "无尽(广)",
       "type": 1,
       "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "csp_gs",
-      "name": "光速(广)",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "csp_hn",
-      "name": "红牛(广)",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "csp_jy",
-      "name": "金鹰(广)",
-      "type": 1,
-      "api": "https://jinyingzy.com/provide/vod/from/jinyingm3u8",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,

@@ -170,6 +170,16 @@
         }
     },  
     {
+      "key": "php_heimuer",
+      "name": "黑木(广)",
+      "type": 4,
+      "api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
       "key": "csp_hw",
       "name": "华为(广)",
       "type": 1,

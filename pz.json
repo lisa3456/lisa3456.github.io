@@ -342,24 +342,14 @@
     },     
     {
        "key": "ys",
-       "name": "央视J",
+       "name": "央视",
        "type": 3,
-       "api": "https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js",
-       "ext": "https://lisa3456.github.io/ys.js",
+       "api": "https://lisa3456.github.io/drpy_libs/drpy2.min.js",
+       "ext": "https://lisa3456.github.io/ysdq.js",
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
        "playerType": 2
-    },     
-    {
-      "key": "py_央视",
-      "name": "央视",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://lisa3456.github.io/cctv.py"
     },        
     {
       "key": "py_央视2",

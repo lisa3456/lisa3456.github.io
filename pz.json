@@ -352,16 +352,6 @@
        "playerType": 2
     },        
     {
-      "key": "py_央视2",
-      "name": "央视2",
-      "type": 3,
-      "api": "https://lisa3456.github.io/cctv.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },      
-    {
       "key":"Bili",
       "name":"哔哩",
       "type": 3,
@@ -384,18 +374,6 @@
       "ext":"https://lisa3456.github.io/czkt.json"
     },
     {
-       "key": "JUST",
-       "name": "JUST",
-       "type": 3,
-       "api": "https://lisa3456.github.io/drpy.min.js",
-       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JustLive.js",
-       "style":{"type":"rect","ratio":1.35},
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "playerType": 1
-    },     
-    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
@@ -410,7 +388,7 @@
             "name": "live",
             "type": 0,
             "url": "https://lisa3456.github.io/v6zb.txt",
-            "playerType": 1,
+            "playerType": 2,
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         }

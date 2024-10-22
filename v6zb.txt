@@ -111,13 +111,13 @@ CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
 CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 newtv超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225716/index.m3u8
 newtv东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225741/index.m3u8
-newtv海外剧场,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/index.m3u8
-newtv中国功夫,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225681/index.m3u8
 newtv军旅剧场,http://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225676/index.m3u8
 newtv家庭剧场,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225677/index.m3u8
 newtv精品大剧,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225670/index.m3u8
 newtv明星大片,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225664/index.m3u8
 newtv欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225742/index.m3u8
+newtv海外剧场,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/index.m3u8
+newtv中国功夫,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225681/index.m3u8
 newtv惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225665/index.m3u8
 newtv潮妈辣婆,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225685/index.m3u8
 newtv精品纪录,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225672/index.m3u8

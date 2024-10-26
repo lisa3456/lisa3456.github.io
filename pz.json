@@ -177,7 +177,7 @@
       "key": "php_heimuer",
       "name": "黑木(广)",
       "type": 4,
-      "api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
+      "api": "https://api.paoyun.eu.org/225.php",
       "searchable": 1,
       "quickSearch": 0
     },

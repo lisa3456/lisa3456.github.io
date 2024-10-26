@@ -442,7 +442,7 @@
        {
 			"name": "暴风",
 			"hosts": [
-				"cdnbf"
+				"cdnbf","bbff"
 			],
 			"regex": [
                 "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",

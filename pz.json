@@ -112,7 +112,7 @@
       "key": "csp_ik",
       "name": "爱坤(广)",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "api": "https://www.ikunzy.com/api.php/provide/vod/from/ikm3u8/at/json",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,

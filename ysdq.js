@@ -1,1 +1,199 @@
-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
+var rule = {
+    title:'央视频',
+    host:'https://api.cntv.cn',
+    homeUrl: '/lanmu/columnSearch?&fl=&fc=&cid=&p=1&n=500&serviceId=tvcctv&t=json',
+    url:'/list/getVideoAlbumList?fyfilter&area=&letter=&n=24&serviceId=tvcctv&t=json',
+    searchUrl:'',
+    searchable:0,
+    quickSearch:0,
+    class_name: '栏目大全&特别节目&纪录片&电视剧&动画片',
+    class_url: '栏目大全&特别节目&纪录片&电视剧&动画片',
+    filterable: 1,
+    filter_url: 'channel={{fl.channel}}&sc={{fl.sc}}&year={{fl.year}}',
+    filter: {
+		"纪录片":[
+            {"key":"channel","name":"频道","value":[{"n":"全部","v":""},{"n":"CCTV-1综合","v":"CCTV-1综合,CCTV-1高清,CCTV-1综合高清"},{"n":"CCTV-2财经","v":"CCTV-2财经,CCTV-2高清,CCTV-2财经高清"},{"n":"CCTV-3综艺","v":"CCTV-3综艺,CCTV-3高清,CCTV-3综艺高清"},{"n":"CCTV-4中文国际","v":"CCTV-4中文国际,CCTV-4高清,CCTV-4中文国际(亚)高清"},{"n":"CCTV-5体育","v":"CCTV-5体育,CCTV-5高清,CCTV-5体育高清"},{"n":"CCTV-6电影","v":"CCTV-6电影,CCTV-6高清,CCTV-6电影高清"},{"n":"CCTV-7国防军事","v":"CCTV-7国防军事,CCTV-7高清,CCTV-7国防军事高清"},{"n":"CCTV-8电视剧","v":"CCTV-8电视剧,CCTV-8高清,CCTV-8电视剧高清"},{"n":"CCTV-9纪录","v":"CCTV-9纪录,CCTV-9高清,CCTV-9纪录高清"},{"n":"CCTV-10科教","v":"CCTV-10科教,CCTV-10高清,CCTV-10科教高清"},{"n":"CCTV-11戏曲","v":"CCTV-11戏曲,CCTV-11高清,CCTV-11戏曲高清"},{"n":"CCTV-12社会与法","v":"CCTV-12社会与法,CCTV-12高清,CCTV-12社会与法高清"},{"n":"CCTV-13新闻","v":"CCTV-13新闻,CCTV-13高清,CCTV-13新闻高清"},{"n":"CCTV-14少儿","v":"CCTV-14少儿,CCTV-14高清,CCTV-14少儿高清"},{"n":"CCTV-15音乐","v":"CCTV-15音乐,CCTV-15高清,CCTV-15音乐高清"},{"n":"CCTV-17农业农村","v":"CCTV-17农业农村,高清,高清"}]},
+            {"key":"sc","name":"类型","value":[{"n":"全部","v":""},{"n":"人文历史","v":"人文历史"},{"n":"人物","v":"人物"},{"n":"军事","v":"军事"},{"n":"探索","v":"探索"},{"n":"社会","v":"社会"},{"n":"时政","v":"时政"},{"n":"经济","v":"经济"},{"n":"科技","v":"科技"}]},
+            {"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2024","v":"2024"},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"2009","v":"2009"},{"n":"2008","v":"2008"}]},
+        ],
+		"特别节目":[
+            {"key":"channel","name":"频道","value":[{"n":"全部","v":""},{"n":"CCTV-1综合","v":"CCTV-1综合,CCTV-1高清,CCTV-1综合高清"},{"n":"CCTV-2财经","v":"CCTV-2财经,CCTV-2高清,CCTV-2财经高清"},{"n":"CCTV-3综艺","v":"CCTV-3综艺,CCTV-3高清,CCTV-3综艺高清"},{"n":"CCTV-4中文国际","v":"CCTV-4中文国际,CCTV-4高清,CCTV-4中文国际(亚)高清"},{"n":"CCTV-5体育","v":"CCTV-5体育,CCTV-5高清,CCTV-5体育高清"},{"n":"CCTV-6电影","v":"CCTV-6电影,CCTV-6高清,CCTV-6电影高清"},{"n":"CCTV-7国防军事","v":"CCTV-7国防军事,CCTV-7高清,CCTV-7国防军事高清"},{"n":"CCTV-8电视剧","v":"CCTV-8电视剧,CCTV-8高清,CCTV-8电视剧高清"},{"n":"CCTV-9纪录","v":"CCTV-9纪录,CCTV-9高清,CCTV-9纪录高清"},{"n":"CCTV-10科教","v":"CCTV-10科教,CCTV-10高清,CCTV-10科教高清"},{"n":"CCTV-11戏曲","v":"CCTV-11戏曲,CCTV-11高清,CCTV-11戏曲高清"},{"n":"CCTV-12社会与法","v":"CCTV-12社会与法,CCTV-12高清,CCTV-12社会与法高清"},{"n":"CCTV-13新闻","v":"CCTV-13新闻,CCTV-13高清,CCTV-13新闻高清"},{"n":"CCTV-14少儿","v":"CCTV-14少儿,CCTV-14高清,CCTV-14少儿高清"},{"n":"CCTV-15音乐","v":"CCTV-15音乐,CCTV-15高清,CCTV-15音乐高清"},{"n":"CCTV-17农业农村","v":"CCTV-17农业农村,高清,高清"}]},
+            {"key":"sc","name":"类型","value":[{"n":"全部","v":""},{"n":"新闻","v":"新闻"},{"n":"经济","v":"经济"},{"n":"综艺","v":"综艺"},{"n":"体育","v":"体育"},{"n":"军事","v":"军事"},{"n":"影视","v":"影视"},{"n":"科教","v":"科教"},{"n":"戏曲","v":"戏曲"},{"n":"青少","v":"青少"},{"n":"音乐","v":"音乐"},{"n":"社会","v":"社会"},{"n":"公益","v":"公益"},{"n":"其他","v":"其他"}]},
+        ],
+        "电视剧":[
+            {"key":"sc","name":"类型","value":[{"n":"全部","v":""},{"n":"谍战","v":"谍战"},{"n":"悬疑","v":"悬疑"},{"n":"刑侦","v":"刑侦"},{"n":"历史","v":"历史"},{"n":"古装","v":"古装"},{"n":"武侠","v":"武侠"},{"n":"军旅","v":"军旅"},{"n":"战争","v":"战争"},{"n":"喜剧","v":"喜剧"},{"n":"青春","v":"青春"},{"n":"言情","v":"言情"},{"n":"偶像","v":"偶像"},{"n":"家庭","v":"家庭"},{"n":"年代","v":"年代"},{"n":"革命","v":"革命"},{"n":"农村","v":"农村"},{"n":"都市","v":"都市"},{"n":"其他","v":"其他"}]},
+            {"key":"year","name":"年份","value":[{"n":"全部","v":""},{"n":"2024","v":"2024"},{"n":"2023","v":"2023"},{"n":"2022","v":"2022"},{"n":"2021","v":"2021"},{"n":"2020","v":"2020"},{"n":"2019","v":"2019"},{"n":"2018","v":"2018"},{"n":"2017","v":"2017"},{"n":"2016","v":"2016"},{"n":"2015","v":"2015"},{"n":"2014","v":"2014"},{"n":"2013","v":"2013"},{"n":"2012","v":"2012"},{"n":"2011","v":"2011"},{"n":"2010","v":"2010"},{"n":"2009","v":"2009"},{"n":"2008","v":"2008"},{"n":"2007","v":"2007"},{"n":"2006","v":"2006"},{"n":"2005","v":"2005"},{"n":"2004","v":"2004"},{"n":"2003","v":"2003"},{"n":"2002","v":"2002"},{"n":"2001","v":"2001"},{"n":"2000","v":"2000"},{"n":"1999","v":"1999"},{"n":"1998","v":"1998"},{"n":"1997","v":"1997"}]},
+        ],
+    },
+    headers:{
+        'User-Agent':'PC_UA'
+    },
+    timeout:10000,
+    play_parse:true,
+    
+    //海阔
+    /*
+    lazy: $js.toString(() => { 
+   input=JSON.parse(request('https://vdn.apps.cntv.cn/api/getHttpVideoInfo.do?pid='+input)).hls_url;
+    id = input.split('/')[9];
+  input = 'https://hls.cntv.myalicdn.com//asp/hls/2000/0303000a/3/default/' + id + '/2000.m3u8';
+  }),
+  */
+//影视
+lazy: $js.toString(() => {
+input=JSON.parse(request('https://vdn.apps.cntv.cn/api/getHttpVideoInfo.do?pid='+input)).hls_url.replaceAll('main','2000')
+.replaceAll('cntv.lxdns','cntv.myalicdn').replaceAll('n.cn','n.com').replaceAll('myhwcdn','myalicdn').replaceAll('kcdnvip','myalicdn').replaceAll('newcntv.qcloudcdn','cntv.myalicdn')
+;
+}),
+
+    limit:6,
+    double:false,
+
+    推荐: $js.toString(() => {
+        var d = [];
+        var list = JSON.parse(request(input)).response.docs;
+
+        list.forEach(it => {
+            // 一级标题
+            let title1 = it.column_name;
+            // 一级描述
+            let desc1 = it.channel_name;
+            // 一级图片URL
+            let picUrl1 = it.column_logo;
+            // 一级URL（id 地区 类型 标题 演员 年份 频道 简介 图片 更新至）
+            let url1 = it.lastVIDE.videoSharedCode + '|' + '' + '|' + it.column_firstclass + '|' + it.column_name + '|' + '' + '|' + it.column_playdate + '|' + it.channel_name + '|' + it.column_brief + '|' + it.column_logo + '|' + '' + '|' + it.lastVIDE.videoTitle;
+
+            d.push({
+                desc : desc1,
+                title : title1,
+                pic_url : picUrl1,
+                url : url1
+            })
+        })
+        setResult(d);
+    }),
+
+    
+    一级: $js.toString(() => {
+        var d = [];
+        if(MY_CATE==='栏目大全') {
+            var list = JSON.parse(request(HOST+'/lanmu/columnSearch?&fl=&fc=&cid=&p='+MY_PAGE+'&n=500&serviceId=tvcctv&t=json')).response.docs;
+            list.forEach(it => {
+                // 一级标题
+                let title1 = it.column_name;
+                // 一级描述
+                let desc1 = it.channel_name;
+                // 一级图片URL
+                let picUrl1 = it.column_logo;
+                // 一级URL（id 地区 类型 标题 演员 年份 频道 简介 图片 更新至）
+                let url1 = it.lastVIDE.videoSharedCode + '|' + '' + '|' + it.column_firstclass + '|' + it.column_name + '|' + '' + '|' + it.column_playdate + '|' + it.channel_name + '|' + it.column_brief + '|' + it.column_logo + '|' + '' + '|' + it.lastVIDE.videoTitle;
+                d.push({
+                    desc : desc1,
+                    title : title1,
+                    pic_url : picUrl1,
+                    url : url1
+                })
+            })
+        }
+        else {
+            var channelMap = {
+                "特别节目": "CHAL1460955953877151",
+                "纪录片": "CHAL1460955924871139",
+                "电视剧": "CHAL1460955853485115",
+                "动画片": "CHAL1460955899450127",
+            };
+            var list = JSON.parse(request(input+'&channelid='+channelMap[MY_CATE]+'&fc='+MY_CATE+'&p='+MY_PAGE)).data.list;
+            list.forEach(it => {
+                // 一级标题
+                let title1 = it.title;
+                // 一级描述
+                let desc1 = it.sc + ((typeof it.year==='undefined' || it.year==='')?'':('•'+it.year)) + ((typeof it.count==='undefined' || it.count==='')?'':('•共' + it.count + '集'));
+                // 一级图片URL
+                let picUrl1 = it.image;
+                // 一级URL（id 地区 类型 标题 演员 年份 频道 简介 图片 集数）
+                let url1 = it.id + '|' + it.area + '|' + it.sc + '|' + it.title + '|' + it.actors + '|' + it.year + '|' + it.channel + '|' + it.brief + '|' + it.image + '|' + it.count + '|' + '' + '|' + MY_CATE;
+                d.push({
+                    desc : desc1,
+                    title : title1,
+                    pic_url : picUrl1,
+                    url : url1
+                })
+            })
+        }
+        setResult(d);
+    }),
+    
+    二级: $js.toString(() => {
+        let info = input.split("|");
+        
+        VOD = {
+            vod_id: info[0],
+            vod_name: info[3],
+            vod_pic: info[8],
+            type_name: info[2]==='undefined'?'':info[2],
+            vod_year: info[5]==='undefined'?'':info[5],
+            vod_area: info[1]==='undefined'?'':info[1],
+            vod_remarks: info[9]===''?('更新至'+info[10]):('共'+info[9]+'集'),
+            vod_director: info[6]==='undefined'?'':info[6],
+            vod_actor: info[4]==='undefined'?'':info[4],
+            vod_content: info[7]==='undefined'?'':info[7],
+        };
+        var modeMap = {
+            "特别节目": "0",
+            "纪录片": "0",
+            "电视剧": "0",
+            "动画片": "1",
+        };
+        var ctid = info[0].replace('https://api.cntv.cn/lanmu/','');
+        var link = 'https://api.cntv.cn/NewVideo/getVideoListByAlbumIdNew?id='+ctid+'&serviceId=tvcctv&p=1&n=100&mode='+modeMap[info[11]]+'&pub=1';
+        var html = JSON.parse(request(link));
+        var playUrls;
+        if(html.errcode==='1001'){
+            var guid = info[0].replace('https://api.cntv.cn/lanmu/','');
+            var link1 = 'https://api.cntv.cn/video/videoinfoByGuid?guid='+guid+'&serviceId=tvcctv';
+            ctid = JSON.parse(request(link1)).ctid.replace('https://api.cntv.cn/lanmu/','');
+            var link2 = 'https://api.cntv.cn/NewVideo/getVideoListByColumn?id='+ctid+'&d=&p=1&n=100&sort=desc&mode=0&serviceId=tvcctv&t=json';
+            playUrls = JSON.parse(request(link2)).data.list;
+
+        } else {
+            playUrls = html.data.list;
+            // 获取更多数据，暂不需要
+            var flag = '';
+            if(playUrls===''){
+                flag = 'true';
+            }
+            var page = 1;
+            while(flag===''){
+                page = page+1;
+                var burl = 'https://api.cntv.cn/NewVideo/getVideoListByAlbumIdNew?id='+ctid+'&serviceId=tvcctv&p='+page+'&n=100&mode='+modeMap[info[11]]+'&pub=1';
+                var list = JSON.parse(request(burl)).data.list;
+                if (list.length!==0){
+                    list.forEach(it => {
+                        playUrls.push(it);
+                    })
+                    continue;
+                }else{
+                    flag='true';
+                    break;
+                }
+            }
+        }
+        
+        let playFrom = [];
+        let playList = [];
+        playFrom.append('央视频');
+        playUrls.forEach(it => {
+            playList.append(playUrls.map(function(it) {
+                return it.title + "$" + it.guid
+            }).join("#"))
+        });
+
+        // 最后封装所有线路
+        let vod_play_from = playFrom.join('$$$');
+        let vod_play_url = playList.join('$$$');
+        VOD['vod_play_from'] = vod_play_from;
+        VOD['vod_play_url'] = vod_play_url;
+    }),
+
+    搜索:'',
+                                                                                                        }

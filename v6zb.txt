@@ -183,10 +183,12 @@ iHOT 爱科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000
 古装剧场,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000105/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
 军旅剧场,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000107/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
 家庭剧场,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000108/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+明星大片,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000116/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+潮妈辣婆,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000099/index.m3u8?
 欢乐剧场,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000091/index.m3u8?
+惊悚悬疑,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000113/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+海外剧场,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000115/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
 精品记录,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000109/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
 军事评论,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000110/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
 超级综艺,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000019/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000019
 金牌综艺,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000112/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
-惊悚悬疑,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000113/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
-海外剧场,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000115/1.m3u8?channel-id=newtv&livemode=4&Contentid=0

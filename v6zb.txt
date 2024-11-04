@@ -17,12 +17,7 @@ CCTV14,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002148/
 CCTV15,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226616/index.m3u8
 CCTV16,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.m3u8
 CCTV17,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000513
-CGTN,https://0472.org/hls/cgtn.m3u8
-CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
+
 
 央视频道2,#genre#
 CCTV-1 综合,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000501/index.m3u8?
@@ -118,12 +113,6 @@ CCTV-17 农业农村,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/
 
 
 数字频道,#genre#
-CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
-CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
-CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
-CHC影迷电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcymdy
-CHC动作电影,http://php.jdshipin.com/TVOD/iptv.php?id=chcdzdy
-CHC家庭影院,http://php.jdshipin.com/TVOD/iptv.php?id=chcjtyy
 NewTv动作电影,http://[2409:8087:74d9:21::6]/270000001128/9900000106/index.m3u8
 NewTv黑莓电影,http://[2409:8087:74d9:21::6]/270000001128/9900000095/index.m3u8
 NewTv超级电影,http://[2409:8087:74d9:21::6]/270000001128/9900000021/index.m3u8

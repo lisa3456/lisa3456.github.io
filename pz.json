@@ -141,23 +141,7 @@
         "剧情片",
         "战争片",
         "爽文短剧"]
-    },          
-    {
-      "key": "php_heimuer",
-      "name": "黑木(广)",
-      "type": 4,
-      "api": "http://zhangqun66.xyz/225.php",
-      "searchable": 1,
-      "quickSearch": 0
-    },
-    {
-      "key": "php_heimuer2",
-      "name": "黑木2(广)",
-      "type": 4,
-      "api": "https://api.paoyun.eu.org/225.php",
-      "searchable": 1,
-      "quickSearch": 0
-    },
+    },       
     {
       "key": "csp_hw",
       "name": "华为(广)",

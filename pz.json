@@ -143,6 +143,38 @@
         "爽文短剧"]
     },       
     {
+            "key": "黑木",
+            "name": "黑木(广)",
+            "type": 4,
+            "api": "https://zhangqun66.xyz/225.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+    },
+    {
+      "key": "csp_36",
+      "name": "三六(广)",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",
+        "大陆综艺",
+        "日韩动漫",
+        "韩国剧",
+        "香港剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "爱情片",
+        "剧情片",
+        "战争片"]
+    },       
+    {
       "key": "csp_hw",
       "name": "华为(广)",
       "type": 1,
@@ -417,6 +449,16 @@
 			],
 			"regex": [
 				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:[\\s\\S]*?#EXT-X-DISCONTINUITY"
+			]
+	   },
+       {
+			"name": "三六",
+			"hosts": [
+				"lyhuicheng"
+			],
+			"regex": [
+            	"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "13.201"
 			]
 	   },
        {

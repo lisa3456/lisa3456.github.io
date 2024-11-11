@@ -143,15 +143,6 @@
         "爽文短剧"]
     },       
     {
-            "key": "黑木",
-            "name": "黑木(广)",
-            "type": 4,
-            "api": "https://zhangqun66.xyz/225.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-    },
-    {
       "key": "csp_36",
       "name": "三六(广)",
       "type": 1,

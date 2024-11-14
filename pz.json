@@ -1,9 +1,10 @@
 {
-  "spider": "https://lisa3456.github.io/fan.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",  
+  "spider": "https://lisa3456.github.io/fan.jar;md5;118bca13418f13c45c5c237ac93c2f07",  
   "sites": [
       {"key":"豆豆","name":"豆瓣","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"indexs":1},
       {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
       {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+      {"key":"比特","name":"比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
       {"key":"厂长","name":"厂长","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,
         "ext":"https://www.czzyvideo.com/"},
       {"key":"柠檬","name":"柠檬","type":3,"api":"csp_Nmvod","playerType":2,
@@ -350,6 +351,7 @@
       "searchable":1,
       "quickSearch":0,
       "changeable":0,
+      "jar": "https://lisa3456.github.io/fan2409.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
       "ext":"https://lisa3456.github.io/bbb.json"
     },
     {
@@ -361,6 +363,7 @@
       "searchable":1,
       "quickSearch":0,
       "changeable":0,
+      "jar": "https://lisa3456.github.io/fan2409.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
       "ext":"https://lisa3456.github.io/czkt.json"
     },
     {

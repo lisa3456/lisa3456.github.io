@@ -13,9 +13,6 @@
       {"key":"追剧","name":"追剧","type":3,"api":"csp_TTian","playerType":1,
         "jar": "https://lisa3456.github.io/lh241114.jar;md5;ab2b0ddad5e1f7fa6bd2b295eea6d0d5",
         "ext":"daHR0cDovL3oua3pqdHYuY29t"},
-      {"key":"丫丫","name":"丫丫","type":3,"api":"csp_Muou","playerType":1,
-        "jar": "https://lisa3456.github.io/lh241114.jar;md5;ab2b0ddad5e1f7fa6bd2b295eea6d0d5",
-        "ext":"caHR0cDovL2FwcC55aXlpNTIxLnRvcC8="},
       {
        "key": "nm",
        "name": "农民",

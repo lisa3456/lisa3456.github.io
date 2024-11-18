@@ -414,6 +414,8 @@
 				"ffzy"
 			],
 			"regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
                 "19.999999","18.099999","17.999999","18.266666","20","18"
 			]
 	   },

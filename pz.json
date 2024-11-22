@@ -173,7 +173,7 @@
       "name": "黑木(广)",
       "type": 1,
       "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
-      "playUrl": "json:https://api.nnsvip.cn/?url=",
+      "playUrl": "https://jx.nnsvip.cn/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,

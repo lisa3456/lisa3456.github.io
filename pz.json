@@ -167,7 +167,31 @@
         "爱情片",
         "剧情片",
         "战争片"]
-    },       
+    },    
+    {
+      "key": "csp_hm",
+      "name": "黑木(广)",
+      "type": 1,
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
+      "playUrl": "json:https://api.nnsvip.cn/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "header": {"User-Agent": "Mozilla/5.0 (Linux; Android 13; V2272A Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"},
+      "categories": [
+        "国产剧",
+        "大陆综艺",
+        "日韩动漫",
+        "韩国剧",
+        "香港剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "爱情片",
+        "剧情片",
+        "战争片"]
+    },          
     {
       "key": "csp_hw",
       "name": "华为(广)",

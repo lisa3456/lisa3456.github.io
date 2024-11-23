@@ -272,7 +272,7 @@ iHOT 爱旅行,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000
 国产院线3,http://zby.xjqxz.top/gcwx3/live.m3u8
 国产院线4,http://zby.xjqxz.top/gcwx4/live.m3u8
 国产院线5,http://zby.xjqxz.top/gcwx5/live.m3u8
-周好莱坞大片1,http://zby.xjqxz.top/hlwdy1/live.m3u8
+好莱坞大片1,http://zby.xjqxz.top/hlwdy1/live.m3u8
 中外经典喜剧轮播,http://zby.xjqxz.top/live13/live.m3u8
 抗战专用频道,http://zby.xjqxz.top/kzzypd/live.m3u8
 谍战专用频道,http://zby.xjqxz.top/dzzypd/live.m3u8

@@ -382,7 +382,7 @@
             "type": 0,
             "url": "https://lisa3456.github.io/v6zb.txt",
             "playerType": 2,
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         }
   ],

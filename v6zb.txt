@@ -252,14 +252,12 @@ NewTV哒啵赛事,http://[2409:8087:74d9:21::6]/270000001128/9900000097/index.m3
 
 小苹果频道,#genre#
 抗战专用频道,http://zby.xjqxz.top/kzzypd/live.m3u8
-抗战专用频道2,http://zby.xjqxz.top/kzzypd2/live.m3u8
 谍战专用频道,http://zby.xjqxz.top/dzzypd/live.m3u8
 谍战专用频道2,http://zby.xjqxz.top/dzzypd2/live.m3u8
 谍战专用频道3,http://zby.xjqxz.top/dzzypd3/live.m3u8
 谍战专用频道4,http://zby.xjqxz.top/dzzypd4/live.m3u8
 谍战专用频道5,http://zby.xjqxz.top/dzzypd5/live.m3u8
 古装武侠剧,http://zby.xjqxz.top/gzwxj/live.m3u8
-古装宫斗剧,http://zby.xjqxz.top/gzgdj/live.m3u8
 古装电视剧1,http://zby.xjqxz.top/gzdsj1/live.m3u8
 古装电视剧2,http://zby.xjqxz.top/gzdsj2/live.m3u8
 古装电视剧3,http://zby.xjqxz.top/gzdsj3/live.m3u8

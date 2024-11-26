@@ -166,18 +166,6 @@
         "战争片"]
     },    
     {
-      "key": "csp_hw",
-      "name": "华为(广)",
-      "type": 1,
-      "api": "https://cjhwba.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "header": {"User-Agent": ""}
-    },
-    {
         "key":"XBPQ_文采",
         "name":"文采(广)",
         "type":3,
@@ -219,10 +207,10 @@
        "playerType": 2
     },    
     {
-      "key": "csp_sn",
-      "name": "索尼(广)",
+      "key": "csp_zd",
+      "name": "最大(广)",
       "type": 1,
-      "api": "https://snzyapi.com/api.php/provide/vod/",
+      "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -230,15 +218,16 @@
       "playerType": 2
     }, 
     {
-      "key": "csp_fs",
-      "name": "飞速(广)",
+      "key": "csp_hw",
+      "name": "华为(广)",
       "type": 1,
-      "api": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/",
+      "api": "https://cjhwba.com/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2
+      "playerType": 2,
+      "header": {"User-Agent": ""}
     },
     {
       "key": "csp_tk",

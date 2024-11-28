@@ -268,11 +268,3 @@ NewTV哒啵赛事,http://[2409:8087:74d9:21::6]/270000001128/9900000097/index.m3
 都市电视剧3,http://zby.xjqxz.top/dsdsj3/live.m3u8
 破案警匪,http://zby.xjqxz.top/pajf/live.m3u8
 精彩电视剧,http://zby.xjqxz.top/dsj/live.m3u8
-国产院线1,http://zby.xjqxz.top/live18/live.m3u8
-国产院线2,http://zby.xjqxz.top/gcwx2/live.m3u8
-国产院线3,http://zby.xjqxz.top/gcwx3/live.m3u8
-国产院线4,http://zby.xjqxz.top/gcwx4/live.m3u8
-国产院线5,http://zby.xjqxz.top/gcwx5/live.m3u8
-好莱坞大片1,http://zby.xjqxz.top/hlwdy1/live.m3u8
-探索发现,http://zby.xjqxz.top/tsfx/live.m3u8
-纪录片1,http://zby.xjqxz.top/jlp1/live.m3u8

@@ -45,7 +45,7 @@
       "key": "csp_lz",
       "name": "量子(广)",
       "type": 1,
-      "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/lzm3u8/",
+      "api": "http://www.lzizy3.com/api.php/provide/vod/from/lzm3u8/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,

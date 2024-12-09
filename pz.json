@@ -99,7 +99,7 @@
       "key": "csp_yz",
       "name": "优质(广)",
       "type": 1,
-      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "api": "http://api.1080zyku.com/inc/apijson.php",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,

@@ -141,6 +141,30 @@
         "爽文短剧"]
     },     
     {
+      "key": "csp_hm",
+      "name": "黑木(广)",
+      "type": 1,
+      "api": "http://heimuer.tv/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "header": {"User-Agent": "Mozilla/5.0 (Linux; Android 13; V2272A Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"},
+      "categories": [
+        "国产剧",
+        "国产综艺",
+        "日本动漫",
+        "韩剧",
+        "港剧",
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "爱情片",
+        "剧情片",
+        "战争片"]
+    },
+    {
         "key":"XBPQ_文采",
         "name":"文采(广)",
         "type":3,

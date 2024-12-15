@@ -4,9 +4,6 @@
       {"key":"豆豆","name":"豆瓣","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"indexs":1},
       {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
       {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
-      {"key":"柠檬","name":"柠檬","type":3,"api":"csp_Nmvod","playerType":2,
-        "jar": "https://lisa3456.github.io/lh241114.jar;md5;ab2b0ddad5e1f7fa6bd2b295eea6d0d5",
-        "ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="},
       {
        "key": "nm",
        "name": "农民",

@@ -25,7 +25,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2,
-      "header": {"User-Agent": ""},
       "categories": [
         "国产剧",   
         "大陆综艺",
@@ -97,7 +96,7 @@
       "key": "csp_yz",
       "name": "优质(广)",
       "type": 1,
-      "api": "http://api.1080zyku.com/inc/apijson.php",
+      "api": "http://api.yzzy-api.com/inc/apijson.php",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,

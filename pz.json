@@ -539,8 +539,7 @@
 			],
 			"regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF.*?\\.\\d{2}(?!0000)[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY"
 			]
 	   },
        {

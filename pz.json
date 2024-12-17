@@ -143,7 +143,7 @@
       "key": "csp_hm",
       "name": "黑木(广)",
       "type": 1,
-      "api": "http://heimuer.tv/api.php/provide/vod/",
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,

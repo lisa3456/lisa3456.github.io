@@ -509,6 +509,14 @@
             "playerType": 1,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
+                {
+            "name": "肥羊直播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "tv.m3u",
+            "ext": "file://Download/allinone;md5;file://Download/md5",
+            "jar": "file://Download/custom_spider.jar"
         }
   ],
   "parses": [

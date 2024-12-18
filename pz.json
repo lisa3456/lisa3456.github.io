@@ -510,13 +510,6 @@
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
-        {"name":"牛播一",
-        "type":0,
-        "url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
-        "playerType":1,
-        "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-        "logo":"https://raw.gitmirror.com/fanmingming/live/refs/heads/main/tv/{name}.png"
-        },
         {
             "name": "肥羊直播",
             "type": 3,

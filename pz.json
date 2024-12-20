@@ -508,7 +508,7 @@
             "url": "https://lisa3456.github.io/v6zb.txt",
             "playerType": 1,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+            "logo": "http://epg.iill.top/logo/{name}.png"
         },
         {
             "name": "肥羊直播",

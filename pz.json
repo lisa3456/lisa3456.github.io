@@ -4,6 +4,17 @@
       {"key":"豆豆","name":"豆瓣","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"indexs":1},
       {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
       {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+          		{
+			"key": "豆瓣",
+			"name": "豆瓣pg",
+			"type": 3,
+			"api": "csp_Douban",
+			"searchable": 0,
+			"changeable": 1,
+			"indexs":1,
+			"ext": "file://Download/pg/lib/tokenm.json$$$./lib/douban.json",
+            "jar": "file://Download/pg/pg.jar"
+		},
       {
        "key": "nm",
        "name": "农民",
@@ -492,6 +503,29 @@
       "ext":"https://lisa3456.github.io/czkt.json"
     },
     {
+			"key": "网盘配置",
+			"name": "配置",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"ext":"file://Download/pg/lib/tokenm.json",
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			},
+            "jar": "file://Download/pg/pg.jar"
+		},
+          		{
+			"key": "直播转点播",
+			"name": "直播",
+			"type": 3,
+			"searchable": 0,
+			"api": "file://Download/pg/lib/live2vod.js",
+			"ext": "file://Download/pg/lib/feimaolive.json",
+            "jar": "file://Download/pg/pg.jar"
+		},
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
@@ -517,7 +551,25 @@
             "url": "tv.m3u",
             "ext": "file://Download/allinone;md5;file://Download/md5",
             "jar": "file://Download/custom_spider.jar"
-        }
+        },
+			{
+				"name": "肥羊国内直播",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+            "jar": "file://Download/pg/pg.jar"
+			},
+			{
+				"name": "肥羊咪咕直播",
+				"type": 0,
+				"url": "http://127.0.0.1:10079/c/1800/null/http://127.0.0.1:35456/migu.m3u",
+				"ua": "okhttp/3.15",
+				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
+            "jar": "file://Download/pg/pg.jar"
+			}
   ],
   "parses": [
     {

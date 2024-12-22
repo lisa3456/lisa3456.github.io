@@ -5,16 +5,31 @@
       {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
       {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
           		{
-			"key": "豆瓣",
-			"name": "豆瓣pg",
+			"key": "豆瓣PG",
+			"name": "豆瓣PG",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0,
 			"changeable": 1,
 			"indexs":1,
-			"ext": "file://Download/pg/lib/tokenm.json$$$./lib/douban.json",
+			"ext": "file://Download/pg/lib/tokenm.json$$$file://Download/pg/lib/douban.json",
             "jar": "file://Download/pg/pg.jar"
 		},
+               {
+      "key": "豆瓣ZX",
+      "name": "豆瓣ZX",
+      "type": 3,
+      "api": "csp_TgYunDouBanPan",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "siteUrl": "http://127.0.0.1:9999",
+        "channelUsername": "ucpanpan,ydypzyfx,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+        "commonConfig": "https://lisa3456.github.io/zxpeizhi.json",
+        "filter": "https://lisa3456.github.io/zxdouban.json"
+      },
+            "jar": "https://lisa3456.github.io/zx.jar;md5;5b795b71fe8fbb4ec8c40a8c99044fd9"
+    },
       {
        "key": "nm",
        "name": "农民",
@@ -525,6 +540,20 @@
 			"ext": "file://Download/pg/lib/feimaolive.json",
             "jar": "file://Download/pg/pg.jar"
 		},
+            {
+      "key": "网盘集合",
+      "name": "网盘集合",
+      "type": 3,
+      "api": "csp_网盘集合",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "commonConfig": "./zx/json/peizhi.json",
+        "share": "./zx/json/网盘集合.json"
+      },
+            "jar": "https://lisa3456.github.io/zx.jar;md5;5b795b71fe8fbb4ec8c40a8c99044fd9"
+    },
     {
       "key": "push_agent",
       "name": "推送",
@@ -561,7 +590,23 @@
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
             "jar": "file://Download/pg/pg.jar"
-			}
+			},
+                {
+      "name": "真心肥羊国内",
+      "type": 0,
+      "url": "http://127.0.0.1:35457/tv.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "真心肥羊咪咕",
+      "type": 0,
+      "url": "http://127.0.0.1:35457/migu.m3u",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
   ],
   "parses": [
     {

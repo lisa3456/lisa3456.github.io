@@ -28,7 +28,8 @@
         "commonConfig": "https://lisa3456.github.io/zxpeizhi.json",
         "filter": "https://lisa3456.github.io/zxdouban.json"
       },
-            "jar": "https://lisa3456.github.io/zx.jar;md5;5b795b71fe8fbb4ec8c40a8c99044fd9"
+            "jar": "https://lisa3456.github.io/zx.jar;md5;5b795b71fe8fbb4ec8c40a8c99044fd9",
+			"indexs":1
     },
       {
        "key": "nm",

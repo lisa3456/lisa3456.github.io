@@ -543,7 +543,7 @@
 		},
             {
       "key": "网盘集合",
-      "name": "网盘集合",
+      "name": "网盘",
       "type": 3,
       "api": "csp_网盘集合",
       "searchable": 1,

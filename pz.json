@@ -31,17 +31,28 @@
             "jar": "https://lisa3456.github.io/zx.jar;md5;5b795b71fe8fbb4ec8c40a8c99044fd9",
 			"indexs":1
     },
-      {
-       "key": "nm",
-       "name": "农民",
-       "type": 3,
-       "api": "https://lisa3456.github.io/drpy_libs/drpy2.min.js",
-       "ext": "https://lisa3456.github.io/nmys.js",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "playerType": 2
-      },          
+    		{
+			"key": "csp_视觉",
+			"name": "视觉",
+			"type": 3,
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"api": "https://drive.almondcloud.cn/f/q3JKT9/shijue.py",
+			"playerType": 2,
+			"filterable": 1,
+            "jar": "https://lisa3456.github.io/xmky.jar;md5;0a762b54cf53124bc90868821a884d43"
+		},
+    		{
+			"key": "csp_Wwys",
+			"name": "农民",
+			"type": 3,
+			"playerType": 2,
+			"changeable": 0,
+			"api": "csp_Wwys",
+			"ext": "https://www.wwgz.cn/",
+            "jar": "https://lisa3456.github.io/xmky.jar;md5;0a762b54cf53124bc90868821a884d43"
+		},
       {
       "key": "csp_ff",
       "name": "非凡(广)",

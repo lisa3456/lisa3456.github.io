@@ -40,8 +40,7 @@
 			"quickSearch": 1,
 			"api": "https://drive.almondcloud.cn/f/q3JKT9/shijue.py",
 			"playerType": 2,
-			"filterable": 1,
-            "jar": "https://lisa3456.github.io/xmky.jar;md5;0a762b54cf53124bc90868821a884d43"
+			"filterable": 1
 		},
     		{
 			"key": "csp_Wwys",

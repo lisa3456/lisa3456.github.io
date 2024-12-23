@@ -48,7 +48,7 @@
 			"name": "农民",
 			"type": 3,
 			"playerType": 2,
-			"changeable": 0,
+			"changeable": 1,
 			"api": "csp_Wwys",
 			"ext": "https://www.wwgz.cn/",
             "jar": "https://lisa3456.github.io/xmky.jar;md5;0a762b54cf53124bc90868821a884d43"

@@ -566,8 +566,8 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "./zx/json/peizhi.json",
-        "share": "./zx/json/网盘集合.json"
+        "commonConfig": "https://lisa3456.github.io/zxpeizhi.json",
+        "share": "https://lisa3456.github.io/zxwp.json"
       },
             "jar": "https://lisa3456.github.io/zx.jar;md5;5b795b71fe8fbb4ec8c40a8c99044fd9"
     },

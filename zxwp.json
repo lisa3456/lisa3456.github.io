@@ -1,0 +1,57 @@
+[
+  {
+    "share_index": "个人网盘",
+    "share_name": "115盘",
+    "share_id": "self",
+    "share_type":"115"
+  },
+  {
+    "share_index": "豆瓣",
+    "share_name": "TOP250电影_1.67TB",
+    "share_id": "swz93883nhj",
+    "share_pwd": "sa53",
+    "share_type": "115"
+  },
+  {
+    "share_index": "豆瓣",
+    "share_name": "TOP250电影_12.65Tb",
+    "share_id": "swz8h1h33xj",
+    "share_pwd": "0000",
+    "share_type": "115"
+  },
+  {
+    "share_index": "演唱会",
+    "share_name": "演唱会原盘_820T",
+    "share_id": "swz18wn3zh9",
+    "share_pwd": "yf61",
+    "share_type": "115"
+  },
+  {
+    "share_index": "演唱会",
+    "share_name": "演唱会_蓝光原盘22TB",
+    "share_id": "sw6udf93wcx",
+    "share_pwd": "na63",
+    "share_type": "115"
+  },
+  {
+    "share_index": "演唱会",
+    "share_name": "演唱会_重编码6TB",
+    "share_id": "swzg9pt3wye",
+    "share_pwd": "c899",
+    "share_type": "115"
+  },
+  {
+    "share_index": "演唱会",
+    "share_name": "1080P港台演唱会【2.55T】",
+    "share_id": "swz6sow3fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  },
+  {
+    "share_index": "演唱会",
+    "share_name": "演唱会【13T】",
+    "share_id": "swz6si63fwo",
+    "share_pwd": "8888",
+    "share_type": "115"
+  }
+]

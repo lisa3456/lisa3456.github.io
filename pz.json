@@ -555,8 +555,7 @@
 			"type": 3,
 			"searchable": 0,
 			"api": "file://Download/pg/lib/live2vod.js",
-			"ext": "file://Download/pg/lib/feimaolive.json",
-            "jar": "file://Download/pg/pg.jar"
+			"ext": "file://Download/pg/lib/feimaolive.json"
 		},
             {
       "key": "网盘集合",

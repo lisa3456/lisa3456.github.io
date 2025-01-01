@@ -586,7 +586,6 @@
             "name": "IPV6直播",
             "type": 0,
             "url": "https://lisa3456.github.io/v6zb.txt",
-            "playerType": 1,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "http://epg.iill.top/logo/{name}.png"
         },

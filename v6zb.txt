@@ -309,26 +309,6 @@ iHOT爱历史,http://[2409:8087:5e08:24::17]:6610/000000001000/60000000060001506
 iHOT爱谍战,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000006000070630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
 
 
-小苹果,#genre#
-抗战专用频道,http://zby.xjqxz.top/kzzypd/live.m3u8
-谍战专用频道,http://zby.xjqxz.top/dzzypd/live.m3u8
-谍战专用频道2,http://zby.xjqxz.top/dzzypd2/live.m3u8
-谍战专用频道3,http://zby.xjqxz.top/dzzypd3/live.m3u8
-谍战专用频道4,http://zby.xjqxz.top/dzzypd4/live.m3u8
-谍战专用频道5,http://zby.xjqxz.top/dzzypd5/live.m3u8
-古装武侠剧,http://zby.xjqxz.top/gzwxj/live.m3u8
-古装电视剧1,http://zby.xjqxz.top/gzdsj1/live.m3u8
-古装电视剧2,http://zby.xjqxz.top/gzdsj2/live.m3u8
-古装电视剧3,http://zby.xjqxz.top/gzdsj3/live.m3u8
-古装电视剧4,http://zby.xjqxz.top/gzdsj4/live.m3u8
-古装电视剧5,http://zby.xjqxz.top/gzdsj5/live.m3u8
-都市电视剧1,http://zby.xjqxz.top/dsdsj1/live.m3u8
-都市电视剧2,http://zby.xjqxz.top/dsdsj2/live.m3u8
-都市电视剧3,http://zby.xjqxz.top/dsdsj3/live.m3u8
-破案警匪,http://zby.xjqxz.top/pajf/live.m3u8
-精彩电视剧,http://zby.xjqxz.top/dsj/live.m3u8
-
-
 咪咕,#genre#
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2

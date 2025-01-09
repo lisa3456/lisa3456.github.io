@@ -52,13 +52,6 @@
 			"ext": "https://www.wwgz.cn/",
             "jar": "https://lisa3456.github.io/xmky.jar;md5;0a762b54cf53124bc90868821a884d43"
 		},
-        		{
-			"key": "csp_Fantuan",
-			"name": "饭团",
-			"type": 3,
-			"api": "csp_Fantuan",
-            "jar": "https://lisa3456.github.io/xmky.jar;md5;0a762b54cf53124bc90868821a884d43"
-		},
       {
       "key": "csp_ff",
       "name": "非凡(广)",

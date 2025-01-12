@@ -41,6 +41,39 @@
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
     },
+        {
+      "key": "热播",
+      "name": "热播",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
+        {
+      "key": "萌米",
+      "name": "萌米",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "欢视",
+      "name": "欢视",
+      "type": 3,
+      "api": "csp_AppTT",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
+    },
     		{
 			"key": "csp_视觉",
 			"name": "视觉",

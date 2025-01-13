@@ -18,17 +18,6 @@
       },
             "jar": "https://lisa3456.github.io/zx.jar;md5;5b795b71fe8fbb4ec8c40a8c99044fd9"
     },
-              		{
-			"key": "豆瓣PG",
-			"name": "豆瓣PG",
-			"type": 3,
-			"api": "csp_Douban",
-			"searchable": 0,
-			"changeable": 1,
-			"indexs":1,
-			"ext": "file://Download/pg/lib/tokenm.json$$$file://Download/pg/lib/douban.json",
-            "jar": "file://Download/pg/pg.jar;md5;5b795b71fe8fbb4ec8c40a8c99044fd9"
-		},
           {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
       {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
           {
@@ -571,42 +560,6 @@
       "ext":"https://lisa3456.github.io/czkt.json"
     },
     {
-			"key": "网盘配置",
-			"name": "配置",
-			"type": 3,
-			"api": "csp_Config",
-			"searchable": 0,
-			"changeable": 0,
-			"ext":"file://Download/pg/lib/tokenm.json",
-			"style": {
-				"type": "rect",
-				"ratio": 1.5
-			},
-            "jar": "file://Download/pg/pg.jar"
-		},
-          		{
-			"key": "直播转点播",
-			"name": "直播",
-			"type": 3,
-			"searchable": 0,
-			"api": "file://Download/pg/lib/live2vod.js",
-			"ext": "file://Download/pg/lib/feimaolive.json"
-		},
-            {
-      "key": "网盘集合",
-      "name": "网盘",
-      "type": 3,
-      "api": "csp_网盘集合",
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "commonConfig": "https://lisa3456.github.io/zxpeizhi.json",
-        "share": "https://lisa3456.github.io/zxwp.json"
-      },
-            "jar": "https://lisa3456.github.io/zx.jar;md5;5b795b71fe8fbb4ec8c40a8c99044fd9"
-    },
-    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
@@ -624,14 +577,6 @@
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "http://epg.iill.top/logo/{name}.png"
         },
-        			{
-				"name": "最强国内直播",
-				"type": 0,
-				"url": "http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35456/tv.m3u",
-				"ua": "okhttp/3.15",
-				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
-				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
-			},
             {
       "name": "国内直播",
       "type": 0,

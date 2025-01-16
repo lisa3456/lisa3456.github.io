@@ -2,22 +2,6 @@
   "spider": "https://lisa3456.github.io/fan.jar;md5;9136a7f6aec51c5b18e911121774ab5f",  
   "sites": [
       {"key":"豆豆","name":"豆瓣","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"indexs":1},
-            {
-      "key": "豆瓣ZX",
-      "name": "豆瓣ZX",
-      "type": 3,
-      "api": "csp_TgYunDouBanPan",
-      "searchable": 1,
-      "changeable": 0,
-  	"indexs":1,
-      "ext": {
-        "siteUrl": "http://127.0.0.1:9999",
-        "channelUsername": "ucpanpan,ydypzyfx,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-        "commonConfig": "https://lisa3456.github.io/zxpeizhi.json",
-        "filter": "https://lisa3456.github.io/zxdouban.json"
-      },
-            "jar": "https://lisa3456.github.io/zx.jar;md5;5b795b71fe8fbb4ec8c40a8c99044fd9"
-    },
           {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
       {"key":"苹果","name":"苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
           {
@@ -29,39 +13,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
-    },
-        {
-      "key": "热播",
-      "name": "热播",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
-        {
-      "key": "萌米",
-      "name": "萌米",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-    {
-      "key": "欢视",
-      "name": "欢视",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
     },
     		{
 			"key": "csp_视觉",
@@ -111,7 +62,7 @@
       "key": "csp_lz",
       "name": "量子(广)",
       "type": 1,
-      "api": "http://www.lzizy3.com/api.php/provide/vod/from/lzm3u8/",
+      "api": "http://s.lziapi.com/api.php/provide/vod/from/lzm3u8/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -208,30 +159,6 @@
         "战争片",
         "爽文短剧"]
     },     
-    {
-      "key": "csp_hm",
-      "name": "黑木(广)",
-      "type": 1,
-      "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "header": {"User-Agent": "Mozilla/5.0 (Linux; Android 13; V2272A Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"},
-      "categories": [
-        "国产剧",
-        "国产综艺",
-        "日本动漫",
-        "韩剧",
-        "港剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "爱情片",
-        "剧情片",
-        "战争片"]
-    },
     {
         "key":"XBPQ_文采",
         "name":"文采(广)",
@@ -573,18 +500,10 @@
   "lives": [{
             "name": "IPV6直播",
             "type": 0,
-            "url": "https://lisa3456.github.io/v6zb.txt",
+            "url": "https://lisa3456.github.io/bjyd.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "http://epg.iill.top/logo/{name}.png"
-        },
-            {
-      "name": "国内直播",
-      "type": 0,
-      "url": "http://127.0.0.1:35457/tv.m3u",
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
+        }
   ],
   "parses": [
     {
@@ -614,7 +533,8 @@
 			],
 			"regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY"
+                "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY"
 			]
 	   },
        {

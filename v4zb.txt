@@ -96,34 +96,118 @@ CCTV-17农业农村,http://b.xubo.myds.me:9999/rtp/239.93.0.92:5140
 厦门卫视,http://b.xubo.myds.me:9999/rtp/239.93.42.57:5140
 三沙卫视,http://b.xubo.myds.me:9999/rtp/239.93.42.58:5140
 延边卫视,http://b.xubo.myds.me:9999/rtp/239.93.0.249:5140
-CHC影迷电影,http://222.209.208.234:7088/udp/239.93.42.5:5140
-CHC动作电影,http://222.209.208.234:7088/udp/239.93.42.7:5140
-CHC家庭影院,http://222.209.208.234:7088/udp/239.93.42.6:5140
-青春动漫,http://222.209.208.234:7088/rtp/239.93.0.146:5140
-热门综艺,http://222.209.208.234:7088/rtp/239.93.0.151:5140
-华语影院,http://222.209.208.234:7088/rtp/239.93.0.138:5140 
-星光院线,http://222.209.208.234:7088/rtp/239.93.0.139:5140 
-全球大片,http://222.209.208.234:7088/rtp/239.93.0.105:5140 
-热门剧场,http://222.209.208.234:7088/rtp/239.93.0.140:5140 
-谍战剧场,http://222.209.208.234:7088/rtp/239.93.0.95:5140 
-爱怀旧高清,http://222.209.208.234:7088/rtp/239.93.42.21:5140
-爱喜剧高清,http://222.209.208.234:7088/rtp/239.93.42.9:5140
-爱奇谈高清,http://222.209.208.234:7088/rtp/239.93.42.22:5140
-爱科幻高清,http://222.209.208.234:7088/rtp/239.93.42.10:5140
-爱院线高清,http://222.209.208.234:7088/rtp/239.93.42.11:5140
-爱谍战高清,http://222.209.208.234:7088/rtp/239.93.42.14:5140
-爱经典高清,http://222.209.208.234:7088/rtp/239.93.42.13:5140
-爱悬疑高清,http://222.209.208.234:7088/rtp/239.93.42.12:5140
-爱青春高清,http://222.209.208.234:7088/rtp/239.93.42.16:5140
-爱幼教高清,http://222.209.208.234:7088/rtp/239.93.42.17:5140
-爱玩具高清,http://222.209.208.234:7088/rtp/239.93.42.18:5140
-爱动漫高清,http://222.209.208.234:7088/rtp/239.93.42.23:5140
-爱电竞高清,http://222.209.208.234:7088/rtp/239.93.42.19:5140
-爱赛车高清,http://222.209.208.234:7088/rtp/239.93.42.20:5140
-
+CHC影迷电影,http://b.xubo.myds.me:9999/udp/239.93.42.5:5140
+CHC动作电影,http://b.xubo.myds.me:9999/udp/239.93.42.7:5140
+CHC家庭影院,http://b.xubo.myds.me:9999/udp/239.93.42.6:5140
+热门综艺,http://b.xubo.myds.me:9999/rtp/239.93.0.151:5140
+华语影院,http://b.xubo.myds.me:9999/rtp/239.93.0.138:5140 
+星光院线,http://b.xubo.myds.me:9999/rtp/239.93.0.139:5140 
+全球大片,http://b.xubo.myds.me:9999/rtp/239.93.0.105:5140 
+热门剧场,http://b.xubo.myds.me:9999/rtp/239.93.0.140:5140 
+谍战剧场,http://b.xubo.myds.me:9999/rtp/239.93.0.95:5140 
+爱怀旧高清,http://b.xubo.myds.me:9999/rtp/239.93.42.21:5140
+爱喜剧高清,http://b.xubo.myds.me:9999/rtp/239.93.42.9:5140
+爱奇谈高清,http://b.xubo.myds.me:9999/rtp/239.93.42.22:5140
+爱科幻高清,http://b.xubo.myds.me:9999/rtp/239.93.42.10:5140
+爱院线高清,http://b.xubo.myds.me:9999/rtp/239.93.42.11:5140
+爱谍战高清,http://b.xubo.myds.me:9999/rtp/239.93.42.14:5140
+爱经典高清,http://b.xubo.myds.me:9999/rtp/239.93.42.13:5140
+爱悬疑高清,http://b.xubo.myds.me:9999/rtp/239.93.42.12:5140
+爱青春高清,http://b.xubo.myds.me:9999/rtp/239.93.42.16:5140
+爱幼教高清,http://b.xubo.myds.me:9999/rtp/239.93.42.17:5140
+爱玩具高清,http://b.xubo.myds.me:9999/rtp/239.93.42.18:5140
+爱动漫高清,http://b.xubo.myds.me:9999/rtp/239.93.42.23:5140
+爱电竞高清,http://b.xubo.myds.me:9999/rtp/239.93.42.19:5140
+爱赛车高清,http://b.xubo.myds.me:9999/rtp/239.93.42.20:5140
 
 
 四川电信2,#genre#
+CCTV1,http://dsm.ccb912.top:9998/rtp/239.93.0.58:5140
+CCTV2,http://dsm.ccb912.top:9998/rtp/239.93.1.23:6000
+CCTV3,http://dsm.ccb912.top:9998/rtp/239.93.0.109:5140
+CCTV4,http://dsm.ccb912.top:9998/rtp/239.93.1.105:5140
+CCTV5,http://dsm.ccb912.top:9998/rtp/239.93.42.37:5140
+CCTV5+,http://dsm.ccb912.top:9998/rtp/239.93.1.36:8004
+CCTV6,http://dsm.ccb912.top:9998/rtp/239.93.42.38:5140
+CCTV7,http://dsm.ccb912.top:9998/rtp/239.93.1.67:5140
+CCTV8,http://dsm.ccb912.top:9998/rtp/239.93.42.39:5140
+CCTV9,http://dsm.ccb912.top:9998/rtp/239.93.1.24:5140
+CCTV10,http://dsm.ccb912.top:9998/rtp/239.93.1.28:5140
+CCTV11,http://dsm.ccb912.top:9998/rtp/239.93.0.102:5140
+CCTV12,http://dsm.ccb912.top:9998/rtp/239.93.1.30:8124
+CCTV13,http://dsm.ccb912.top:9998/rtp/239.93.0.66:5140
+CCTV14,http://dsm.ccb912.top:9998/rtp/239.93.1.29:6000
+CCTV15,http://dsm.ccb912.top:9998/rtp/239.93.0.103:5140
+CCTV16,http://dsm.ccb912.top:9998/rtp/239.93.42.54:5140
+CCTV17,http://dsm.ccb912.top:9998/rtp/239.93.0.92:5140
+CCTV4K,http://dsm.ccb912.top:9998/rtp/239.93.42.42:5140
+CETV-1,http://dsm.ccb912.top:9998/udp/239.93.1.111:5140
+CETV-2,http://dsm.ccb912.top:9998/udp/239.93.0.113:5140
+CETV-4,http://dsm.ccb912.top:9998/udp/239.93.0.50:5140
+CETV-早期教育,http://dsm.ccb912.top:9998/udp/239.93.0.117:5140
+江苏卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.89:5140
+广西卫视,http://dsm.ccb912.top:9998/rtp/239.93.42.46:5140
+四川卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.20:1235
+湖南卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.88:5140
+浙江卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.124:5140
+东方卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.123:5140
+北京卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.180:5140
+天津卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.167:5140
+辽宁卫视,http://dsm.ccb912.top:9998/rtp/239.93.1.108:5140
+安徽卫视,http://dsm.ccb912.top:9998/rtp/239.93.1.106:5140
+黑龙江卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.183:5140
+广东卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.181:5140
+深圳卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.182:5140
+湖北卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.250:5140
+吉林卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.248:5140
+山东卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.168:5140
+江西卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.134:5140
+河南卫视,http://dsm.ccb912.top:9998/rtp/239.93.42.45:5140
+河北卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.132:5140
+甘肃卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.81:5140
+重庆卫视,http://dsm.ccb912.top:9998/rtp/239.93.1.107:5140
+东南卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.42:5140
+云南卫视,http://dsm.ccb912.top:9998/rtp/239.93.1.174:5140
+贵州卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.131:5140
+海南卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.80:5140
+陕西卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.143:5140
+山西卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.6:5140
+内蒙古卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.8:5140
+青海卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.192:5140
+宁夏卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.247:5140
+西藏卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.175:5140
+新疆卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.194:5140
+兵团卫视,http://dsm.ccb912.top:9998/rtp/239.93.42.43:5140
+厦门卫视,http://dsm.ccb912.top:9998/rtp/239.93.42.57:5140
+三沙卫视,http://dsm.ccb912.top:9998/rtp/239.93.42.58:5140
+延边卫视,http://dsm.ccb912.top:9998/rtp/239.93.0.249:5140
+CHC影迷电影,http://dsm.ccb912.top:9998/udp/239.93.42.5:5140
+CHC动作电影,http://dsm.ccb912.top:9998/udp/239.93.42.7:5140
+CHC家庭影院,http://dsm.ccb912.top:9998/udp/239.93.42.6:5140
+青春动漫,http://dsm.ccb912.top:9998/rtp/239.93.0.146:5140
+热门综艺,http://dsm.ccb912.top:9998/rtp/239.93.0.151:5140
+华语影院,http://dsm.ccb912.top:9998/rtp/239.93.0.138:5140 
+星光院线,http://dsm.ccb912.top:9998/rtp/239.93.0.139:5140 
+全球大片,http://dsm.ccb912.top:9998/rtp/239.93.0.105:5140 
+热门剧场,http://dsm.ccb912.top:9998/rtp/239.93.0.140:5140 
+谍战剧场,http://dsm.ccb912.top:9998/rtp/239.93.0.95:5140 
+爱怀旧高清,http://dsm.ccb912.top:9998/rtp/239.93.42.21:5140
+爱喜剧高清,http://dsm.ccb912.top:9998/rtp/239.93.42.9:5140
+爱奇谈高清,http://dsm.ccb912.top:9998/rtp/239.93.42.22:5140
+爱科幻高清,http://dsm.ccb912.top:9998/rtp/239.93.42.10:5140
+爱院线高清,http://dsm.ccb912.top:9998/rtp/239.93.42.11:5140
+爱谍战高清,http://dsm.ccb912.top:9998/rtp/239.93.42.14:5140
+爱经典高清,http://dsm.ccb912.top:9998/rtp/239.93.42.13:5140
+爱悬疑高清,http://dsm.ccb912.top:9998/rtp/239.93.42.12:5140
+爱青春高清,http://dsm.ccb912.top:9998/rtp/239.93.42.16:5140
+爱幼教高清,http://dsm.ccb912.top:9998/rtp/239.93.42.17:5140
+爱玩具高清,http://dsm.ccb912.top:9998/rtp/239.93.42.18:5140
+爱动漫高清,http://dsm.ccb912.top:9998/rtp/239.93.42.23:5140
+爱电竞高清,http://dsm.ccb912.top:9998/rtp/239.93.42.19:5140
+爱赛车高清,http://dsm.ccb912.top:9998/rtp/239.93.42.20:5140
+
+
+四川电信3,#genre#
 CCTV1,http://222.209.208.234:7088/rtp/239.93.0.58:5140
 CCTV2,http://222.209.208.234:7088/rtp/239.93.1.23:6000
 CCTV3,http://222.209.208.234:7088/rtp/239.93.0.109:5140
@@ -183,31 +267,266 @@ CETV-早期教育,http://222.209.208.234:7088/udp/239.93.0.117:5140
 厦门卫视,http://222.209.208.234:7088/rtp/239.93.42.57:5140
 三沙卫视,http://222.209.208.234:7088/rtp/239.93.42.58:5140
 延边卫视,http://222.209.208.234:7088/rtp/239.93.0.249:5140
-CHC影迷电影,http://b.xubo.myds.me:9999/udp/239.93.42.5:5140
-CHC动作电影,http://b.xubo.myds.me:9999/udp/239.93.42.7:5140
-CHC家庭影院,http://b.xubo.myds.me:9999/udp/239.93.42.6:5140
-热门综艺,http://b.xubo.myds.me:9999/rtp/239.93.0.151:5140
-华语影院,http://b.xubo.myds.me:9999/rtp/239.93.0.138:5140 
-星光院线,http://b.xubo.myds.me:9999/rtp/239.93.0.139:5140 
-全球大片,http://b.xubo.myds.me:9999/rtp/239.93.0.105:5140 
-热门剧场,http://b.xubo.myds.me:9999/rtp/239.93.0.140:5140 
-谍战剧场,http://b.xubo.myds.me:9999/rtp/239.93.0.95:5140 
-爱怀旧高清,http://b.xubo.myds.me:9999/rtp/239.93.42.21:5140
-爱喜剧高清,http://b.xubo.myds.me:9999/rtp/239.93.42.9:5140
-爱奇谈高清,http://b.xubo.myds.me:9999/rtp/239.93.42.22:5140
-爱科幻高清,http://b.xubo.myds.me:9999/rtp/239.93.42.10:5140
-爱院线高清,http://b.xubo.myds.me:9999/rtp/239.93.42.11:5140
-爱谍战高清,http://b.xubo.myds.me:9999/rtp/239.93.42.14:5140
-爱经典高清,http://b.xubo.myds.me:9999/rtp/239.93.42.13:5140
-爱悬疑高清,http://b.xubo.myds.me:9999/rtp/239.93.42.12:5140
-爱青春高清,http://b.xubo.myds.me:9999/rtp/239.93.42.16:5140
-爱幼教高清,http://b.xubo.myds.me:9999/rtp/239.93.42.17:5140
-爱玩具高清,http://b.xubo.myds.me:9999/rtp/239.93.42.18:5140
-爱动漫高清,http://b.xubo.myds.me:9999/rtp/239.93.42.23:5140
-爱电竞高清,http://b.xubo.myds.me:9999/rtp/239.93.42.19:5140
-爱赛车高清,http://b.xubo.myds.me:9999/rtp/239.93.42.20:5140
+CHC影迷电影,http://222.209.208.234:7088/udp/239.93.42.5:5140
+CHC动作电影,http://222.209.208.234:7088/udp/239.93.42.7:5140
+CHC家庭影院,http://222.209.208.234:7088/udp/239.93.42.6:5140
+青春动漫,http://222.209.208.234:7088/rtp/239.93.0.146:5140
+热门综艺,http://222.209.208.234:7088/rtp/239.93.0.151:5140
+华语影院,http://222.209.208.234:7088/rtp/239.93.0.138:5140 
+星光院线,http://222.209.208.234:7088/rtp/239.93.0.139:5140 
+全球大片,http://222.209.208.234:7088/rtp/239.93.0.105:5140 
+热门剧场,http://222.209.208.234:7088/rtp/239.93.0.140:5140 
+谍战剧场,http://222.209.208.234:7088/rtp/239.93.0.95:5140 
+爱怀旧高清,http://222.209.208.234:7088/rtp/239.93.42.21:5140
+爱喜剧高清,http://222.209.208.234:7088/rtp/239.93.42.9:5140
+爱奇谈高清,http://222.209.208.234:7088/rtp/239.93.42.22:5140
+爱科幻高清,http://222.209.208.234:7088/rtp/239.93.42.10:5140
+爱院线高清,http://222.209.208.234:7088/rtp/239.93.42.11:5140
+爱谍战高清,http://222.209.208.234:7088/rtp/239.93.42.14:5140
+爱经典高清,http://222.209.208.234:7088/rtp/239.93.42.13:5140
+爱悬疑高清,http://222.209.208.234:7088/rtp/239.93.42.12:5140
+爱青春高清,http://222.209.208.234:7088/rtp/239.93.42.16:5140
+爱幼教高清,http://222.209.208.234:7088/rtp/239.93.42.17:5140
+爱玩具高清,http://222.209.208.234:7088/rtp/239.93.42.18:5140
+爱动漫高清,http://222.209.208.234:7088/rtp/239.93.42.23:5140
+爱电竞高清,http://222.209.208.234:7088/rtp/239.93.42.19:5140
+爱赛车高清,http://222.209.208.234:7088/rtp/239.93.42.20:5140
 
 
+山东联通,#genre#
+CCTV1,http://annaxi.lw-home.com:11111/udp/239.253.254.77:8000
+CCTV2,http://annaxi.lw-home.com:11111/udp/239.253.254.232:8000
+CCTV3,http://annaxi.lw-home.com:11111/udp/239.253.254.191:8000
+CCTV4,http://annaxi.lw-home.com:11111/udp/239.253.254.187:8000
+CCTV5,http://annaxi.lw-home.com:11111/udp/239.253.254.192:8000
+CCTV5+,http://annaxi.lw-home.com:11111/udp/239.253.254.80:8000
+CCTV6,http://annaxi.lw-home.com:11111/udp/239.253.254.193:8000
+CCTV7,http://annaxi.lw-home.com:11111/udp/239.253.254.233:8000
+CCTV8,http://annaxi.lw-home.com:11111/udp/239.253.254.194:8000
+CCTV9,http://annaxi.lw-home.com:11111/udp/239.253.254.79:8000
+CCTV10,http://annaxi.lw-home.com:11111/udp/239.253.254.234:8000
+CCTV11,http://annaxi.lw-home.com:11111/udp/239.253.254.169:8000
+CCTV12,http://annaxi.lw-home.com:11111/udp/239.253.254.235:8000
+CCTV13,http://annaxi.lw-home.com:11111/udp/239.253.254.175:8000
+CCTV14,http://annaxi.lw-home.com:11111/udp/239.253.254.236:8000
+CCTV15,http://annaxi.lw-home.com:11111/udp/239.253.254.170:8000
+CCTV17,http://annaxi.lw-home.com:11111/udp/239.253.254.168:8000
+CETV1,http://annaxi.lw-home.com:11111/udp/239.253.254.110:8000
+CETV4,http://annaxi.lw-home.com:11111/udp/239.253.254.116:8000
+CGTN,http://annaxi.lw-home.com:11111/udp/239.253.254.189:8000
+CHC动作电影,http://annaxi.lw-home.com:11111/udp/239.253.254.153:8000
+CHC高清电影,http://annaxi.lw-home.com:11111/udp/239.253.254.154:8000
+CHC家庭影院,http://annaxi.lw-home.com:11111/udp/239.253.254.152:8000
+安徽卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.87:8000
+北京卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.85:8000
+茶频道,http://annaxi.lw-home.com:11111/udp/239.253.254.143:8000
+东方财经,http://annaxi.lw-home.com:11111/udp/239.253.254.94:8000
+东方卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.86:8000
+东南卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.105:8000
+动漫秀场,http://annaxi.lw-home.com:11111/udp/239.253.254.115:8000
+都市剧场,http://annaxi.lw-home.com:11111/udp/239.253.254.98:8000
+法治天地,http://annaxi.lw-home.com:11111/udp/239.253.254.96:8000
+甘肃卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.74:8000
+广东卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.90:8000
+广西卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.197:8000
+贵州卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.113:8000
+海南卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.179:8000
+海洋,http://annaxi.lw-home.com:11111/udp/239.253.254.67:8000
+河北卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.112:8000
+河南卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.190:8000
+黑龙江卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.93:8000
+湖北卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.88:8000
+湖南卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.82:8000
+吉林卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.173:8000
+江苏卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.83:8000
+江西卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.47:8000
+金色学堂,http://annaxi.lw-home.com:11111/udp/239.253.254.101:8000
+金鹰纪实,http://annaxi.lw-home.com:11111/udp/239.253.254.103:8000
+金鹰卡通,http://annaxi.lw-home.com:11111/udp/239.253.254.117:8000
+精彩电影,http://annaxi.lw-home.com:11111/udp/239.253.254.142:8000
+卡酷少儿,http://annaxi.lw-home.com:11111/udp/239.253.254.66:8000
+莱西,http://annaxi.lw-home.com:11111/udp/239.253.254.247:8000
+崂山,http://annaxi.lw-home.com:11111/udp/239.253.254.242:8000
+梨园,http://annaxi.lw-home.com:11111/udp/239.253.254.139:8000
+辽宁卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.92:8000
+魅力足球,http://annaxi.lw-home.com:11111/udp/239.253.254.100:8000
+平度,http://annaxi.lw-home.com:11111/udp/239.253.254.248:8000
+青岛李沧,http://annaxi.lw-home.com:11111/udp/239.253.254.253:8000
+青岛生活,http://annaxi.lw-home.com:11111/udp/239.253.254.244:8000
+青岛综合,http://annaxi.lw-home.com:11111/udp/239.253.254.243:8000
+青海卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.195:8000
+山东购物,http://annaxi.lw-home.com:11111/udp/239.253.254.104:8000
+山东教育,http://annaxi.lw-home.com:11111/udp/239.253.254.59:8000
+山东农科,http://annaxi.lw-home.com:11111/udp/239.253.254.24:8000
+山东齐鲁,http://annaxi.lw-home.com:11111/udp/239.253.254.114:8000
+山东少儿,http://annaxi.lw-home.com:11111/udp/239.253.254.25:8000
+山东生活,http://annaxi.lw-home.com:11111/udp/239.253.254.151:8000
+山东体育,http://annaxi.lw-home.com:11111/udp/239.253.254.22:8000
+山东卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.78:8000
+山东文旅,http://annaxi.lw-home.com:11111/udp/239.253.254.160:8000
+山东新闻,http://annaxi.lw-home.com:11111/udp/239.253.254.23:8000
+山东综艺,http://annaxi.lw-home.com:11111/udp/239.253.254.159:8000
+深圳卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.91:8000
+生活时尚,http://annaxi.lw-home.com:11111/udp/239.253.254.99:8000
+四川卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.180:8000
+四海钓鱼,http://annaxi.lw-home.com:11111/udp/239.253.254.144:8000
+天津卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.89:8000
+文物宝库,http://annaxi.lw-home.com:11111/udp/239.253.254.141:8000
+武术世界,http://annaxi.lw-home.com:11111/udp/239.253.254.140:8000
+云南卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.196:8000
+浙江卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.84:8000
+中国交通,http://annaxi.lw-home.com:11111/udp/239.253.254.177:8000
+重庆卫视,http://annaxi.lw-home.com:11111/udp/239.253.254.38:8000
+综合,http://annaxi.lw-home.com:11111/udp/239.253.254.246:8000
+游戏风云,http://annaxi.lw-home.com:11111/udp/239.253.254.95:8000
+
+
+北京联通,#genre#
+CCTV-1 HD,http://wuyanjiang.cn:8012/udp/239.3.1.129:8008
+CCTV-2 HD,http://wuyanjiang.cn:8012/udp/239.3.1.60:8084
+CCTV-3 HD,http://wuyanjiang.cn:8012/udp/239.3.1.172:8001
+CCTV-4 HD,http://wuyanjiang.cn:8012/udp/239.3.1.105:8092
+CCTV-5 HD,http://wuyanjiang.cn:8012/udp/239.3.1.173:8001
+CCTV-5+ HD,http://wuyanjiang.cn:8012/udp/239.3.1.130:8004
+CCTV-6 HD,http://wuyanjiang.cn:8012/udp/239.3.1.174:8001
+CCTV-7 HD,http://wuyanjiang.cn:8012/udp/239.3.1.61:8104
+CCTV-8 HD,http://wuyanjiang.cn:8012/udp/239.3.1.175:8001
+CCTV-9 HD,http://wuyanjiang.cn:8012/udp/239.3.1.62:8112
+CCTV-10 HD,http://wuyanjiang.cn:8012/udp/239.3.1.63:8116
+CCTV-11 HD,http://wuyanjiang.cn:8012/udp/239.3.1.152:8120
+CCTV-12 HD,http://wuyanjiang.cn:8012/udp/239.3.1.64:8124
+CCTV-13 HD,http://wuyanjiang.cn:8012/udp/239.3.1.124:8128
+CCTV-14 HD,http://wuyanjiang.cn:8012/udp/239.3.1.65:8132
+CCTV-15 HD,http://wuyanjiang.cn:8012/udp/239.3.1.153:8136
+CCTV-16 奥林匹克[HDR],http://wuyanjiang.cn:8012/udp/239.3.1.183:8001
+CCTV-16 奥林匹克HD,http://wuyanjiang.cn:8012/udp/239.3.1.184:8001
+CCTV-17 HD,http://wuyanjiang.cn:8012/udp/239.3.1.151:8144
+BRTV北京卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.241:8000
+BRTV新闻HD,http://wuyanjiang.cn:8012/udp/239.3.1.159:8000
+BRTV影视HD,http://wuyanjiang.cn:8012/udp/239.3.1.158:8000
+BRTV文艺HD,http://wuyanjiang.cn:8012/udp/239.3.1.242:8000
+BRTV财经HD,http://wuyanjiang.cn:8012/udp/239.3.1.116:8000
+BRTV生活HD,http://wuyanjiang.cn:8012/udp/239.3.1.117:8000
+BRTV青年HD,http://123.120.6.151:4022/# rtp/239.3.1.118:8000
+BRTV纪实科教HD,http://wuyanjiang.cn:8012/udp/239.3.1.115:8000
+BRTV卡酷少儿HD,http://wuyanjiang.cn:8012/udp/239.3.1.189:8000
+BRTV冬奥纪实HD,http://123.120.6.151:4022/# rtp/239.3.1.243:8000
+BRTV冬奥纪实[HDR],http://123.120.6.151:4022/# rtp/239.3.1.120:8000
+BRTV冬奥纪实[超清],http://123.120.6.151:4022/# rtp/239.3.1.121:8000
+BRTV体育休闲[超清],http://wuyanjiang.cn:8012/udp/239.3.1.243:8000
+BTV国际频道,http://wuyanjiang.cn:8012/udp/239.3.1.235:8000
+爱上4K[超清],http://wuyanjiang.cn:8012/udp/239.3.1.236:2000
+4K超清[超清],http://wuyanjiang.cn:8012/udp/239.3.1.249:8001
+淘电影HD,http://wuyanjiang.cn:8012/udp/239.3.1.250:8001
+每日影院HD,http://123.120.6.151:4022/# rtp/239.3.1.111:8001
+星影,http://wuyanjiang.cn:8012/udp/239.3.1.94:4120
+动作影院,http://wuyanjiang.cn:8012/udp/239.3.1.92:4120
+光影,http://wuyanjiang.cn:8012/udp/239.3.1.84:4120
+喜剧影院,http://wuyanjiang.cn:8012/udp/239.3.1.91:4120
+家庭影院,http://wuyanjiang.cn:8012/udp/239.3.1.93:4120
+精选,http://wuyanjiang.cn:8012/udp/239.3.1.74:4120
+经典电影,http://wuyanjiang.cn:8012/udp/239.3.1.195:9024
+纪实人文HD,http://wuyanjiang.cn:8012/udp/239.3.1.212:8060
+金鹰纪实HD,http://wuyanjiang.cn:8012/udp/239.3.1.58:8156
+风尚生活HD,http://123.120.6.151:4022/# rtp/239.3.1.114:8001
+地理,http://wuyanjiang.cn:8012/udp/239.3.1.71:4120
+淘剧场HD,http://wuyanjiang.cn:8012/udp/239.3.1.95:8001
+幸福剧场HD,http://123.120.6.151:4022/# rtp/239.3.1.112:8001
+淘娱乐HD,http://wuyanjiang.cn:8012/udp/239.3.1.100:8001
+幸福娱乐HD,http://123.120.6.151:4022/# rtp/239.3.1.113:8001
+淘BabyHD,http://wuyanjiang.cn:8012/udp/239.3.1.238:8001
+萌宠TVHD,http://wuyanjiang.cn:8012/udp/239.3.1.102:8001
+湖南卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.132:8012
+东方卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.136:8032
+浙江卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.137:8036
+江苏卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.135:8028
+深圳卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.134:8020
+广东卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.142:8048
+安徽卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.211:8064
+天津卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.141:1234
+重庆卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.122:8160
+山东卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.209:8052
+黑龙江卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.133:8016
+河北卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.148:8072
+辽宁卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.210:8056
+湖北卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.138:8044
+吉林卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.240:8172
+贵州卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.149:8076
+东南卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.156:8148
+江西卫视HD,http://wuyanjiang.cn:8012/udp/239.3.1.123:8164
+海南卫视,http://wuyanjiang.cn:8012/udp/239.3.1.45:8304
+云南卫视,http://wuyanjiang.cn:8012/udp/239.3.1.26:8108
+兵团卫视,http://wuyanjiang.cn:8012/udp/239.3.1.144:4120
+厦门卫视,http://wuyanjiang.cn:8012/udp/239.3.1.143:4120
+四川卫视,http://wuyanjiang.cn:8012/udp/239.3.1.29:8288
+南方卫视,http://wuyanjiang.cn:8012/udp/239.3.1.161:8001
+宁夏卫视,http://wuyanjiang.cn:8012/udp/239.3.1.46:8124
+山西卫视,http://wuyanjiang.cn:8012/udp/239.3.1.42:8172
+广西卫视,http://wuyanjiang.cn:8012/udp/239.3.1.39:8300
+新疆卫视,http://wuyanjiang.cn:8012/udp/239.3.1.48:8160
+河南卫视,http://wuyanjiang.cn:8012/udp/239.3.1.27:8128
+甘肃卫视,http://wuyanjiang.cn:8012/udp/239.3.1.49:8188
+西藏卫视,http://wuyanjiang.cn:8012/udp/239.3.1.47:8164
+三沙卫视,http://wuyanjiang.cn:8012/udp/239.3.1.155:4120
+陕西卫视,http://wuyanjiang.cn:8012/udp/239.3.1.41:8140
+青海卫视,http://wuyanjiang.cn:8012/udp/239.3.1.44:8184
+内蒙古卫视,http://wuyanjiang.cn:8012/udp/239.3.1.43:8176
+中国交通HD,http://wuyanjiang.cn:8012/udp/239.3.1.188:8001
+朝阳融媒HD,http://wuyanjiang.cn:8012/udp/239.3.1.163:8001
+通州融媒HD,http://wuyanjiang.cn:8012/udp/239.3.1.221:8001
+密云电视台HD,http://wuyanjiang.cn:8012/udp/239.3.1.154:8001
+延庆电视台,http://wuyanjiang.cn:8012/udp/239.3.1.187:8001
+房山电视台,http://wuyanjiang.cn:8012/udp/239.3.1.96:8001
+CCTV-4 中文国际 欧洲HD,http://wuyanjiang.cn:8012/udp/239.3.1.213:4220
+CCTV-4 中文国际 美洲HD,http://wuyanjiang.cn:8012/udp/239.3.1.214:4220
+CGTN 新闻HD,http://wuyanjiang.cn:8012/udp/239.3.1.215:4220
+CGTN 记录HD,http://wuyanjiang.cn:8012/udp/239.3.1.216:4220
+CGTN 西班牙语HD,http://wuyanjiang.cn:8012/udp/239.3.1.217:4220
+CGTN 法语HD,http://wuyanjiang.cn:8012/udp/239.3.1.218:4220
+CGTN 阿拉伯语HD,http://wuyanjiang.cn:8012/udp/239.3.1.219:4220
+CGTN 俄语HD,http://wuyanjiang.cn:8012/udp/239.3.1.220:4220
+睛彩竞技HD,http://wuyanjiang.cn:8012/udp/239.3.1.125:8001
+睛彩篮球HD,http://wuyanjiang.cn:8012/udp/239.3.1.126:8001
+睛彩羽毛球HD,http://wuyanjiang.cn:8012/udp/239.3.1.127:8001
+睛彩广场舞HD,http://wuyanjiang.cn:8012/udp/239.3.1.128:8001
+茶频道HD,http://wuyanjiang.cn:8012/udp/239.3.1.165:8001
+体育赛事HD,http://wuyanjiang.cn:8012/udp/239.3.1.157:8176
+淘精彩HD,http://wuyanjiang.cn:8012/udp/239.3.1.178:8001
+快乐垂钓HD,http://wuyanjiang.cn:8012/udp/239.3.1.164:8001
+大健康HD,http://wuyanjiang.cn:8012/udp/239.3.1.251:8001
+CETV1HD,http://wuyanjiang.cn:8012/udp/239.3.1.57:8152
+CETV2,http://wuyanjiang.cn:8012/udp/239.3.1.54:4120
+CETV3,http://wuyanjiang.cn:8012/udp/239.3.1.55:4120
+CETV4,http://wuyanjiang.cn:8012/udp/239.3.1.56:4120
+少儿动画,http://wuyanjiang.cn:8012/udp/239.3.1.199:9000
+热播剧场,http://wuyanjiang.cn:8012/udp/239.3.1.194:9020
+解密,http://wuyanjiang.cn:8012/udp/239.3.1.75:4120
+军事,http://wuyanjiang.cn:8012/udp/239.3.1.76:4120
+军旅剧场,http://wuyanjiang.cn:8012/udp/239.3.1.68:4120
+动画,http://wuyanjiang.cn:8012/udp/239.3.1.80:4120
+古装剧场,http://wuyanjiang.cn:8012/udp/239.3.1.69:4120
+台球,http://wuyanjiang.cn:8012/udp/239.3.1.85:4120
+嘉佳卡通,http://wuyanjiang.cn:8012/udp/239.3.1.147:9268
+国学,http://wuyanjiang.cn:8012/udp/239.3.1.77:4120
+城市剧场,http://wuyanjiang.cn:8012/udp/239.3.1.67:4120
+墨宝,http://wuyanjiang.cn:8012/udp/239.3.1.83:4120
+好学生,http://wuyanjiang.cn:8012/udp/239.3.1.81:4120
+山东教育,http://wuyanjiang.cn:8012/udp/239.3.1.52:4120
+戏曲,http://wuyanjiang.cn:8012/udp/239.3.1.78:4120
+收视指南,http://wuyanjiang.cn:8012/udp/239.3.1.193:8012
+早教,http://wuyanjiang.cn:8012/udp/239.3.1.79:4120
+武侠剧场,http://wuyanjiang.cn:8012/udp/239.3.1.90:4120
+武术,http://wuyanjiang.cn:8012/udp/239.3.1.87:4120
+爱生活,http://wuyanjiang.cn:8012/udp/239.3.1.86:4120
+美人,http://wuyanjiang.cn:8012/udp/239.3.1.73:4120
+美妆,http://wuyanjiang.cn:8012/udp/239.3.1.72:4120
+财富天下,http://wuyanjiang.cn:8012/udp/239.3.1.53:9136
+足球,http://wuyanjiang.cn:8012/udp/239.3.1.89:4120
+金鹰卡通,http://wuyanjiang.cn:8012/udp/239.3.1.51:9252
+鉴赏,http://wuyanjiang.cn:8012/udp/239.3.1.82:4120
+音乐现场,http://wuyanjiang.cn:8012/udp/239.3.1.70:4120
+高网,http://wuyanjiang.cn:8012/udp/239.3.1.88:4120
+魅力时尚,http://wuyanjiang.cn:8012/udp/239.3.1.196:9012
 
 
 咪咕,#genre#

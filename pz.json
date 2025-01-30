@@ -537,7 +537,7 @@
 			"name": "优质",
 			"hosts": [
 				"yzzy",
-                "yyzy"
+                "yyzy",
                 "-cdn",
                 "hdzyk",
                 "high"

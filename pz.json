@@ -15,17 +15,6 @@
       "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
     },
     		{
-			"key": "csp_视觉",
-			"name": "视觉",
-			"type": 3,
-			"searchable": 1,
-			"changeable": 1,
-			"quickSearch": 1,
-			"api": "http://drive.almondcloud.cn/f/q3JKT9/shijue.py",
-			"playerType": 2,
-			"filterable": 1
-		},
-    		{
 			"key": "csp_Wwys",
 			"name": "农民",
 			"type": 3,
@@ -503,6 +492,13 @@
             "url": "https://lisa3456.github.io/bjyd.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "http://epg.iill.top/logo/{name}.png"
+        },
+        {
+            "name": "IPV4直播",
+            "type": 0,
+            "url": "https://lisa3456.github.io/v4zb.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "http://epg.iill.top/logo/{name}.png"
         }
   ],
   "parses": [
@@ -541,6 +537,7 @@
 			"name": "优质",
 			"hosts": [
 				"yzzy",
+                "yyzy"
                 "-cdn",
                 "hdzyk",
                 "high"
@@ -600,6 +597,25 @@
 			]
 		}
     ],
+    "doh": [
+			{
+				"name": "114",
+				"url": "",
+				"ips": [
+					"114.114.114.114"
+				]
+			},
+            {
+				"name": "阿里",
+				"url": "https://dns.alidns.com/dns-query",
+				"ips": [
+					"223.5.5.5",
+                    "223.6.6.6",
+                    "2400:3200::1",
+                    "2400:3200:baba::1"
+				]
+			}
+		],
   "flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","bilibili","pptv","mgtv","tucheng"],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }

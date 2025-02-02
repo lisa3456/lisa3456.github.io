@@ -486,13 +486,7 @@
       "ext": "https://wds.ecsxs.com/231197.txt+4k|fhd|auto"
     }
   ],
-  "lives": [{
-            "name": "咪咕",
-            "type": 0,
-            "url": "https://www.freetv.top/migu.m3u",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "http://epg.iill.top/logo/{name}.png"
-        },
+  "lives": [
         {
             "name": "ITV",
             "type": 0,

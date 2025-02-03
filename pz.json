@@ -598,16 +598,6 @@
 				"ips": [
 					"114.114.114.114"
 				]
-			},
-            {
-				"name": "阿里",
-				"url": "https://dns.alidns.com/dns-query",
-				"ips": [
-					"223.5.5.5",
-                    "223.6.6.6",
-                    "2400:3200::1",
-                    "2400:3200:baba::1"
-				]
 			}
 		],
   "flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","bilibili","pptv","mgtv","tucheng"],

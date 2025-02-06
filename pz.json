@@ -424,7 +424,7 @@
         {
             "name": "ITV",
             "type": 0,
-            "url": "http://feiyang.ak47s.top:35455/tv.m3u",
+            "url": "http://35455.koyeb.app/tv.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "http://epg.iill.top/logo/{name}.png"
         }

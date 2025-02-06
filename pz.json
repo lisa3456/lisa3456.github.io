@@ -387,72 +387,6 @@
       "playerType": 2
     },
     {
-       "key": "360",
-       "name": "360官",
-       "type": 3,
-       "api": "https://lisa3456.github.io/drpy.min.js",
-       "ext": "https://lisa3456.github.io/360.js",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "playerType": 2
-    },  
-    {
-       "key": "gyk",
-       "name": "优酷官",
-       "type": 3,
-       "api": "https://lisa3456.github.io/drpy.min.js",
-       "ext": "https://lisa3456.github.io/gyk.js",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "playerType": 2
-    },        
-    {
-       "key": "gtx",
-       "name": "腾讯官",
-       "type": 3,
-       "api": "https://lisa3456.github.io/drpy.min.js",
-       "ext": "https://lisa3456.github.io/gtx.js",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "playerType": 2
-    },     
-    {
-       "key": "gaqy",
-       "name": "奇艺官",
-       "type": 3,
-       "api": "https://lisa3456.github.io/drpy.min.js",
-       "ext": "https://lisa3456.github.io/gaqy.js",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "playerType": 2
-    },     
-    {
-       "key": "gmg",
-       "name": "芒果官",
-       "type": 3,
-       "api": "https://lisa3456.github.io/drpy.min.js",
-       "ext": "https://lisa3456.github.io/gmg.js",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "playerType": 2
-    },     
-    {
-       "key": "ys",
-       "name": "央视",
-       "type": 3,
-       "api": "https://lisa3456.github.io/drpy_libs/drpy2.min.js",
-       "ext": "https://lisa3456.github.io/ysdq.js",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "playerType": 2
-    },      
-    {
       "key":"Bili",
       "name":"哔哩",
       "type": 3,
@@ -495,15 +429,7 @@
             "logo": "http://epg.iill.top/logo/{name}.png"
         }
   ],
-  "parses": [
-    {
-      "name": "麒麟",
-      "type": 0,
-      "url": "https://www.nunuyya2.com/jiexi/jiekou-1/?url="
-    },
-    {"name":"老虎","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url=","ext":{"flag":[],"header":{"User-Agent":"okhttp/4.9.1"}}},
-    {"name":"老虎二","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=","ext":{"flag":[],"header":{"User-Agent":"okhttp/4.9.1"}}}
-  ],
+  "parses": [],
   "rules": [
        {
 			"name": "量子",

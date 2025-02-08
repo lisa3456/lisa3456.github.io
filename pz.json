@@ -115,30 +115,6 @@
         "战争片"]
     },
     {
-      "key": "csp_ik",
-      "name": "爱坤(广)",
-      "type": 1,
-      "api": "http://www.ikunzy.com/api.php/provide/vod/from/ikm3u8/at/json",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "categories": [
-        "国产剧",
-        "大陆综艺",
-        "日韩动漫",
-        "韩国剧",
-        "香港剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "爽文短剧"]
-    },     
-    {
        "key": "聚合",
        "name": "聚合(广)",
        "type": 3,

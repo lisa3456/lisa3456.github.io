@@ -413,45 +413,7 @@
                 "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
                 "#EXTINF.*?\\s+.*?\\w{12}\\.ts\\s+"
 			]
-	   },
-       {
-			"name": "爱坤",
-			"hosts": [
-				"ik"
-			],
-			"regex": [
-				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:[\\s\\S]*?#EXT-X-DISCONTINUITY"
-			]
-	   },
-       {
-			"name": "三六",
-			"hosts": [
-				"lyhuicheng"
-			],
-			"regex": [
-            	"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "13.201"
-			]
-	   },
-       {
-			"name": "快看",
-			"hosts": [
-				"kuaikan",
-                "leshi"
-			],
-			"regex": [
-				"#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:[\\s\\S]*?#EXT-X-DISCONTINUITY"
-			]
-	   },
-		{
-			"name": "♻️饭团点击",
-			"hosts": [
-				"fantuan"
-			],
-			"script": [
-				"document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
-			]
-		}
+	   }
     ],
     "doh": [
 			{

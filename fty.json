@@ -425,6 +425,14 @@
     ],
     "doh": [
 			{
+				"name": "阿里",
+				"url": "https://dns.alidns.com/dns-query",
+				"ips": [
+					"223.5.5.5",
+                    "2400:3200::1"
+				]
+			},
+        	{
 				"name": "114",
 				"url": "",
 				"ips": [

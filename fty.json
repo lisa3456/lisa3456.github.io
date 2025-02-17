@@ -334,18 +334,6 @@
       "ext":{"type":"纪录片#评书#peizhi"}
     },
     {
-      "key":"Bilicz",
-      "name":"初中",
-      "type": 3,
-      "api": "csp_Bili",
-      "style":{"type":"rect","ratio":1.597},
-      "searchable":1,
-      "quickSearch":0,
-      "changeable":0,
-      "jar": "https://lisa3456.github.io/fan2409.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
-      "ext":"https://lisa3456.github.io/czkt.json"
-    },
-    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,

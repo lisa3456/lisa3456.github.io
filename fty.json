@@ -430,11 +430,11 @@
             {"name":"360","url":"https://doh.360.cn/dns-query"}
 		],
     "hosts": [
-    "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+    "cache.ott.ystenlive.itv.cmvideo.cn=2409:8087:4c02:11:0:3:0:500",
+    "cache.ott.bestlive.itv.cmvideo.cn=2409:8087:4c02:11:0:3:0:500",
+    "cache.ott.wasulive.itv.cmvideo.cn=2409:8087:4c02:11:0:3:0:500",
+    "cache.ott.fifalive.itv.cmvideo.cn=2409:8087:4c02:11:0:3:0:500",
+    "cache.ott.hnbblive.itv.cmvideo.cn=2409:8087:4c02:11:0:3:0:500"
   ],
   "flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","bilibili","pptv","mgtv","tucheng"],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img"

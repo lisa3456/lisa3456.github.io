@@ -290,28 +290,6 @@
         }
     }, 
     {
-      "key": "csp_tk",
-      "name": "天空(广)",
-      "type": 1,
-      "api": "http://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "csp_js",
-      "name": "极速(广)",
-      "type": 1,
-      "api": "http://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "csp_wj",
       "name": "无尽(广)",
       "type": 1,

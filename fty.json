@@ -103,8 +103,8 @@
     {
       "key": "csp_yz",
       "name": "优质(广)",
-      "type": 0,
-      "api": "http://api.yzzy-api.com/inc/api.php?ac=list",
+      "type": 1,
+      "api": "http://api.yzzy-api.com/inc/apijson.php?ac=list",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,

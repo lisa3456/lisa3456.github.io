@@ -13,7 +13,16 @@
 			"api": "csp_Wwys",
 			"ext": "https://www.wwgz.cn/",
             "jar": "https://lisa3456.github.io/xmky.jar;md5;0a762b54cf53124bc90868821a884d43"
-		},
+		}, 
+        {
+      "key": "黑木",
+      "name": "黑木",
+      "type": 1,
+      "api": "https://heimuer.ggff.net/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+      },
       {
       "key": "csp_ff",
       "name": "非凡(广)",
@@ -94,8 +103,8 @@
     {
       "key": "csp_yz",
       "name": "优质(广)",
-      "type": 1,
-      "api": "http://api.yzzy-api.com/inc/apijson.php",
+      "type": 0,
+      "api": "http://api.yzzy-api.com/inc/api.php?ac=list",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,

@@ -328,7 +328,12 @@
             "type": 0,
             "url": "https://lisa3456.github.io/ITV.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "http://epg.iill.top/logo/{name}.png"
+            "logo": "http://epg.iill.top/logo/{name}.png", 
+            "catchup": { 
+            "days": "7",
+            "type": "append", 
+            "replace": "livemode=1,livemode=4", 
+            "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"} 
         },
         {
       "name": "牛播",

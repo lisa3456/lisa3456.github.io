@@ -335,7 +335,7 @@
         {
             "name": "ITV",
             "type": 0,
-            "url": "https://lisa3456.github.io/ITV.txt",
+            "url": "https://lisa3456.github.io/ITVf.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "http://epg.iill.top/logo/{name}.png", 
             "catchup": { 
@@ -410,11 +410,11 @@
             {"name":"360","url":"https://doh.360.cn/dns-query"}
 		],
     "hosts": [
-    "cache.ott.ystenlive.itv.cmvideo.cn=2409:8087:4c02:11:0:3:0:500",
-    "cache.ott.bestlive.itv.cmvideo.cn=2409:8087:4c02:11:0:3:0:500",
-    "cache.ott.wasulive.itv.cmvideo.cn=2409:8087:4c02:11:0:3:0:500",
-    "cache.ott.fifalive.itv.cmvideo.cn=2409:8087:4c02:11:0:3:0:500",
-    "cache.ott.hnbblive.itv.cmvideo.cn=2409:8087:4c02:11:0:3:0:500"
+    "cache.ott.ystenlive.itv.cmvideo.cn=2409:8087:1a32:440::16",
+    "cache.ott.bestlive.itv.cmvideo.cn=2409:8087:1a32:440::16",
+    "cache.ott.wasulive.itv.cmvideo.cn=2409:8087:1a32:440::16",
+    "cache.ott.fifalive.itv.cmvideo.cn=2409:8087:1a32:440::16",
+    "cache.ott.hnbblive.itv.cmvideo.cn=2409:8087:1a32:440::16"
   ],
   "flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","bilibili","pptv","mgtv","tucheng"],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img"

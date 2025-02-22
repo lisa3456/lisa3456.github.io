@@ -1,5 +1,5 @@
 {
-  "spider": "https://lisa3456.github.io/fan.jar;md5;fcd3be29030c912a28d7a205a88f749d",  
+  "spider": "https://lisa3456.github.io/fan.jar;md5;2f204873d78bd47a56a4e42fba0d3ac3",  
   "sites": [
       {"key":"豆豆","name":"豆瓣","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"indexs":1},
           {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -13,7 +13,16 @@
 			"api": "csp_Wwys",
 			"ext": "https://www.wwgz.cn/",
             "jar": "https://lisa3456.github.io/xmky.jar;md5;0a762b54cf53124bc90868821a884d43"
-		},
+		}, 
+        {
+      "key": "黑木",
+      "name": "黑木",
+      "type": 1,
+      "api": "https://heimuer.ggff.net/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+      },
       {
       "key": "csp_ff",
       "name": "非凡(广)",
@@ -95,7 +104,7 @@
       "key": "csp_yz",
       "name": "优质(广)",
       "type": 1,
-      "api": "http://api.yzzy-api.com/inc/apijson.php",
+      "api": "http://api.yzzy-api.com/inc/apijson.php?ac=list",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
@@ -290,28 +299,6 @@
         }
     }, 
     {
-      "key": "csp_tk",
-      "name": "天空(广)",
-      "type": 1,
-      "api": "http://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "csp_js",
-      "name": "极速(广)",
-      "type": 1,
-      "api": "http://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/json",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "csp_wj",
       "name": "无尽(广)",
       "type": 1,
@@ -334,18 +321,6 @@
       "ext":{"type":"纪录片#评书#peizhi"}
     },
     {
-      "key":"Bilicz",
-      "name":"初中",
-      "type": 3,
-      "api": "csp_Bili",
-      "style":{"type":"rect","ratio":1.597},
-      "searchable":1,
-      "quickSearch":0,
-      "changeable":0,
-      "jar": "https://lisa3456.github.io/fan2409.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
-      "ext":"https://lisa3456.github.io/czkt.json"
-    },
-    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
@@ -360,10 +335,28 @@
         {
             "name": "ITV",
             "type": 0,
-            "url": "http://35455.koyeb.app/tv.m3u",
+            "url": "https://lisa3456.github.io/ITVf.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "http://epg.iill.top/logo/{name}.png"
-        }
+            "logo": "http://epg.iill.top/logo/{name}.png", 
+            "catchup": { 
+            "days": "7",
+            "type": "append", 
+            "replace": "livemode=1,livemode=4", 
+            "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"} 
+        },
+        {
+      "name": "ITVmc",
+      "type": 0,
+      "url": "http://xr.lmahon.click:50001/Sub?type=m3u",
+      "playerType": 1,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.v1.mk/logo/{name}.png", 
+      "catchup": { 
+            "days": "7",
+            "type": "append", 
+            "replace": "livemode=1,livemode=4", 
+            "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"} 
+    }
   ],
   "parses": [],
   "rules": [
@@ -416,22 +409,18 @@
 	   }
     ],
     "doh": [
-			{
-				"name": "阿里",
-				"url": "https://dns.alidns.com/dns-query",
-				"ips": [
-					"223.5.5.5",
-                    "2400:3200::1"
-				]
-			},
-        	{
-				"name": "114",
-				"url": "",
-				"ips": [
-					"114.114.114.114"
-				]
-			}
+        	{"name": "114","url": "","ips": ["114.114.114.114"]},
+			{"name": "阿里","url": "https://dns.alidns.com/dns-query","ips": ["223.5.5.5","2400:3200::1"]},
+            {"name":"腾讯","url":"https://doh.pub/dns-query"},
+            {"name":"360","url":"https://doh.360.cn/dns-query"}
 		],
+    "hosts": [
+    "cache.ott.ystenlive.itv.cmvideo.cn=2409:8087:1a32:440::16",
+    "cache.ott.bestlive.itv.cmvideo.cn=2409:8087:1a32:440::16",
+    "cache.ott.wasulive.itv.cmvideo.cn=2409:8087:1a32:440::16",
+    "cache.ott.fifalive.itv.cmvideo.cn=2409:8087:1a32:440::16",
+    "cache.ott.hnbblive.itv.cmvideo.cn=2409:8087:1a32:440::16"
+  ],
   "flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","bilibili","pptv","mgtv","tucheng"],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }

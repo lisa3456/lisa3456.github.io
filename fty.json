@@ -1,5 +1,5 @@
 {
-  "spider": "https://lisa3456.github.io/fan.jar;md5;2f204873d78bd47a56a4e42fba0d3ac3",  
+  "spider": "https://slink.ltd/https://raw.githubusercontent.com/lisa3456/lisa3456.github.io/refs/heads/master/fan.jar;md5;2f204873d78bd47a56a4e42fba0d3ac3",  
   "sites": [
       {"key":"豆豆","name":"豆瓣","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"indexs":1},
           {"key":"文采","name":"文采","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -12,7 +12,7 @@
 			"changeable": 1,
 			"api": "csp_Wwys",
 			"ext": "https://www.wwgz.cn/",
-            "jar": "https://lisa3456.github.io/xmky.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://slink.ltd/https://raw.githubusercontent.com/lisa3456/lisa3456.github.io/refs/heads/master/xmky.jar;md5;0a762b54cf53124bc90868821a884d43"
 		}, 
         {
       "key": "黑木",
@@ -127,8 +127,8 @@
        "key": "聚合",
        "name": "聚合(广)",
        "type": 3,
-       "api": "https://lisa3456.github.io/drpy.min.js",
-       "ext": "https://lisa3456.github.io/ikjqr.js",
+       "api": "https://slink.ltd/https://raw.githubusercontent.com/lisa3456/lisa3456.github.io/refs/heads/master/drpy.min.js",
+       "ext": "https://slink.ltd/https://raw.githubusercontent.com/lisa3456/lisa3456.github.io/refs/heads/master/ikjqr.js",
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
@@ -138,7 +138,7 @@
         "key":"XBPQ_zd",
         "name":"最大(广)",
         "type":3,
-        "jar": "https://lisa3456.github.io/xbpq.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+        "jar": "https://slink.ltd/https://raw.githubusercontent.com/lisa3456/lisa3456.github.io/refs/heads/master/xbpq.jar;md5;bb155c3f0133bbce4756ad52003f5968",
         "api":"csp_XBPQ",
         "ext": { "分类": "国产剧&综艺",
 		"分类值": "13&25",
@@ -179,7 +179,7 @@
         "key":"XBPQ_sn",
         "name":"索尼(广)",
         "type":3,
-        "jar": "https://lisa3456.github.io/xbpq.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+        "jar": "https://slink.ltd/https://raw.githubusercontent.com/lisa3456/lisa3456.github.io/refs/heads/master/xbpq.jar;md5;bb155c3f0133bbce4756ad52003f5968",
         "api":"csp_XBPQ",
         "ext": { "分类": "国产剧&综艺",
 		"分类值": "13&25",
@@ -220,7 +220,7 @@
         "key":"XBPQ_kc",
         "name":"快车(广)",
         "type":3,
-        "jar": "https://lisa3456.github.io/xbpq.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+        "jar": "https://slink.ltd/https://raw.githubusercontent.com/lisa3456/lisa3456.github.io/refs/heads/master/xbpq.jar;md5;bb155c3f0133bbce4756ad52003f5968",
         "api":"csp_XBPQ",
         "ext": { "分类": "国产剧&综艺",
 		"分类值": "13&25",
@@ -261,7 +261,7 @@
         "key":"XBPQ_sd",
         "name":"闪电(广)",
         "type":3,
-        "jar": "https://lisa3456.github.io/xbpq.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+        "jar": "https://slink.ltd/https://raw.githubusercontent.com/lisa3456/lisa3456.github.io/refs/heads/master/xbpq.jar;md5;bb155c3f0133bbce4756ad52003f5968",
         "api":"csp_XBPQ",
         "ext": { "分类": "国产剧&综艺",
 		"分类值": "13&25",
@@ -335,7 +335,7 @@
         {
             "name": "ITV",
             "type": 0,
-            "url": "https://lisa3456.github.io/ITVf.txt",
+            "url": "https://slink.ltd/https://raw.githubusercontent.com/lisa3456/lisa3456.github.io/refs/heads/master/ITVf.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "http://epg.iill.top/logo/{name}.png", 
             "catchup": { 

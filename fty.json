@@ -324,7 +324,7 @@
         {
             "name": "ITV",
             "type": 0,
-            "url": "https://lisa3456.github.io/ITVf.txt",
+            "url": "https://lisa3456.github.io/ITV.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "http://epg.iill.top/logo/{name}.png", 
             "catchup": { 
@@ -404,11 +404,11 @@
             {"name":"360","url":"https://doh.360.cn/dns-query"}
 		],
     "hosts": [
-    "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+    "cache.ott.ystenlive.itv.cmvideo.cn=liveln.ctx.tv189.com.ctdns.cn",
+    "cache.ott.bestlive.itv.cmvideo.cn=liveln.ctx.tv189.com.ctdns.cn",
+    "cache.ott.wasulive.itv.cmvideo.cn=liveln.ctx.tv189.com.ctdns.cn",
+    "cache.ott.fifalive.itv.cmvideo.cn=liveln.ctx.tv189.com.ctdns.cn",
+    "cache.ott.hnbblive.itv.cmvideo.cn=liveln.ctx.tv189.com.ctdns.cn"
   ],
   "flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","bilibili","pptv","mgtv","tucheng"],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img"

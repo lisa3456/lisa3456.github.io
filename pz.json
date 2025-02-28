@@ -124,17 +124,6 @@
         "战争片"]
     },
     {
-       "key": "聚合",
-       "name": "聚合(广)",
-       "type": 3,
-       "api": "https://lisa3456.github.io/drpy.min.js",
-       "ext": "https://lisa3456.github.io/ikjqr.js",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "playerType": 2
-    },    
-    {
         "key":"XBPQ_zd",
         "name":"最大(广)",
         "type":3,
@@ -335,7 +324,7 @@
         {
             "name": "ITV",
             "type": 0,
-            "url": "https://lisa3456.github.io/ITVf.txt",
+            "url": "https://lisa3456.github.io/ITV.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "http://epg.iill.top/logo/{name}.png", 
             "catchup": { 
@@ -415,11 +404,11 @@
             {"name":"360","url":"https://doh.360.cn/dns-query"}
 		],
     "hosts": [
-    "cache.ott.ystenlive.itv.cmvideo.cn=2409:8087:1a32:440::16",
-    "cache.ott.bestlive.itv.cmvideo.cn=2409:8087:1a32:440::16",
-    "cache.ott.wasulive.itv.cmvideo.cn=2409:8087:1a32:440::16",
-    "cache.ott.fifalive.itv.cmvideo.cn=2409:8087:1a32:440::16",
-    "cache.ott.hnbblive.itv.cmvideo.cn=2409:8087:1a32:440::16"
+    "cache.ott.ystenlive.itv.cmvideo.cn=liveln.ctx.tv189.com.ctdns.cn",
+    "cache.ott.bestlive.itv.cmvideo.cn=liveln.ctx.tv189.com.ctdns.cn",
+    "cache.ott.wasulive.itv.cmvideo.cn=liveln.ctx.tv189.com.ctdns.cn",
+    "cache.ott.fifalive.itv.cmvideo.cn=liveln.ctx.tv189.com.ctdns.cn",
+    "cache.ott.hnbblive.itv.cmvideo.cn=liveln.ctx.tv189.com.ctdns.cn"
   ],
   "flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","bilibili","pptv","mgtv","tucheng"],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img"

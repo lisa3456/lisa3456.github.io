@@ -332,20 +332,7 @@
             "type": "append", 
             "replace": "livemode=1,livemode=4", 
             "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"} 
-        },
-        {
-      "name": "ITVmc",
-      "type": 0,
-      "url": "http://xr.lmahon.click:50001/Sub?type=m3u",
-      "playerType": 1,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.v1.mk/logo/{name}.png", 
-      "catchup": { 
-            "days": "7",
-            "type": "append", 
-            "replace": "livemode=1,livemode=4", 
-            "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"} 
-    }
+        }
   ],
   "parses": [],
   "rules": [

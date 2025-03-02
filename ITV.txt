@@ -366,7 +366,8 @@ NewTV精品大剧,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&C
 NewTV精品大剧,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=yu&mode=1
 NewTV精品大剧,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=yu&mode=1
 NewTV精品综合,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000008&livemode=1&stbId=yu&mode=1
-NewTV精品综合,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=yu&mode=1
+NewTV精品综合,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=yu&mode=1
+NewTV精品综合,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=yu&mode=1
 NewTV明星大片,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=yu&mode=1
 NewTV军旅剧场,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=yu&mode=1
 NewTV军旅剧场,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=yu&mode=1
@@ -479,8 +480,6 @@ CGTN纪录,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contenti
 东方购物,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000091&livemode=1&stbId=yu&mode=1
 风尚购物,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000005000003651&livemode=1&stbId=yu&mode=1
 花屏,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=yu&mode=1
-精品综合,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000008&livemode=1&stbId=yu&mode=1
-精品综合,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=yu&mode=1
 咪咕视频,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=yu&mode=1
 咪咕视频,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=yu&mode=1
 咪咕视频,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=yu&mode=1

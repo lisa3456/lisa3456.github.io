@@ -324,6 +324,18 @@
         {
             "name": "ITV",
             "type": 0,
+            "url": "https://lisa3456.github.io/ITV.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "http://epg.iill.top/logo/{name}.png", 
+            "catchup": { 
+            "days": "7",
+            "type": "append", 
+            "replace": "livemode=1,livemode=4", 
+            "source": "&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"} 
+        },
+        {
+            "name": "ITVf",
+            "type": 0,
             "url": "https://lisa3456.github.io/ITVf.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "http://epg.iill.top/logo/{name}.png", 
@@ -391,11 +403,11 @@
             {"name":"360","url":"https://doh.360.cn/dns-query"}
 		],
     "hosts": [
-    "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+    "cache.ott.ystenlive.itv.cmvideo.cn=39.136.214.5",
+    "cache.ott.bestlive.itv.cmvideo.cn=39.136.214.5",
+    "cache.ott.wasulive.itv.cmvideo.cn=39.136.214.5",
+    "cache.ott.fifalive.itv.cmvideo.cn=39.136.214.5",
+    "cache.ott.hnbblive.itv.cmvideo.cn=39.136.214.5"
   ],
   "flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","bilibili","pptv","mgtv","tucheng"],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img"

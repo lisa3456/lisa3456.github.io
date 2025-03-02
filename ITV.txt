@@ -327,10 +327,8 @@ iHOT爱玩具,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Conte
 iHOT爱玩具,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=yu&mode=1
 iHOT爱幼教,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=yu&mode=1
 iHOT爱幼教,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=yu&mode=1
-Hot精品剧场,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000002/&livemode=1&stbId=yu&mode=1
-Hot精品剧场,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=8230197131234717902/&livemode=1&stbId=yu&mode=1
-
-
+Hot精品剧场,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000002&livemode=1&stbId=yu&mode=1
+Hot精品剧场,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=wasusyt&Contentid=8230197131234717902&livemode=1&stbId=yu&mode=1
 NewTV频道,#genre#
 纯享4K,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=yu&mode=1
 NewTV黑莓电影,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=yu&mode=1

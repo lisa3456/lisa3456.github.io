@@ -694,6 +694,12 @@ NewTV武搏世界,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLiv
 梁平综合,https://yypull.cbg.cn/applive/lplive01/chunklist.m3u8
 酉阳综合,http://yypull.cbg.cn/applive/youytv01/playlist.m3u8
 
+晋城新闻,http://live.jinnews.com.cn/xwzh/sd/live.m3u8?zshanxd
+晋城公共,http://live.jinnews.com.cn/ggpd/sd/live.m3u8?zshanxd
+晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8?zshanxd
+晋中新闻,http://jzlive.jztvnews.com:90/live/jzzh.m3u8?zshanxd
+
+
 数字,#genre#
 NewTV爱情喜剧,http://alist.vpsfun.de:5000/2000000003000000010/hnbblive/index.m3u8?ace
 NewTV超级电视剧,http://alist.vpsfun.de:5000/1000000006000268003/ystenlive/index.m3u8?ace

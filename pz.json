@@ -315,7 +315,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://wds.ecsxs.com/231197.txt+4k|fhd|auto"
+      "ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}
     }
   ],
   "lives": [
@@ -401,11 +401,11 @@
             {"name":"360","url":"https://doh.360.cn/dns-query"}
 		],
     "hosts": [
-    "cache.ott.ystenlive.itv.cmvideo.cn=39.135.132.221",
-    "cache.ott.bestlive.itv.cmvideo.cn=39.135.132.221",
-    "cache.ott.wasulive.itv.cmvideo.cn=39.135.132.221",
-    "cache.ott.fifalive.itv.cmvideo.cn=39.135.132.221",
-    "cache.ott.hnbblive.itv.cmvideo.cn=39.135.132.221"
+    "cache.ott.ystenlive.itv.cmvideo.cn=39.135.97.81",
+    "cache.ott.bestlive.itv.cmvideo.cn=39.135.97.81",
+    "cache.ott.wasulive.itv.cmvideo.cn=39.135.97.81",
+    "cache.ott.fifalive.itv.cmvideo.cn=39.135.97.81",
+    "cache.ott.hnbblive.itv.cmvideo.cn=39.135.97.81"
   ],
   "flags": [ "youku","qq","iqiyi","qiyi","letv","sohu","bilibili","pptv","mgtv","tucheng"],
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img"

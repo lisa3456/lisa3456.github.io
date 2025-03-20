@@ -211,6 +211,27 @@ iHOT爱玩具,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Conte
 iHOT爱幼教,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=yu&mode=1
 Hot精品剧场,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000002&livemode=1&stbId=yu&mode=1
 
+
+央视,#genre#
+CCTV1,https://www.shqsy.com/tv/zb/mg.php?id=CCTV1
+CCTV2,https://www.shqsy.com/tv/zb/mg.php?id=CCTV2
+CCTV3,https://www.shqsy.com/tv/zb/mg.php?id=CCTV3
+CCTV4,https://www.shqsy.com/tv/zb/mg.php?id=CCTV4
+CCTV5,https://www.shqsy.com/tv/zb/mg.php?id=CCTV5
+CCTV5+,https://www.shqsy.com/tv/zb/mg.php?id=CCTV5p
+CCTV6,https://www.shqsy.com/tv/zb/mg.php?id=CCTV6
+CCTV7,https://www.shqsy.com/tv/zb/mg.php?id=CCTV7
+CCTV8,https://www.shqsy.com/tv/zb/mg.php?id=CCTV8
+CCTV9,https://www.shqsy.com/tv/zb/mg.php?id=CCTV9
+CCTV10,https://www.shqsy.com/tv/zb/mg.php?id=CCTV10
+CCTV11,https://www.shqsy.com/tv/zb/mg.php?id=CCTV11
+CCTV12,https://www.shqsy.com/tv/zb/mg.php?id=CCTV12
+CCTV13,https://www.shqsy.com/tv/zb/mg.php?id=CCTV13
+CCTV14,https://www.shqsy.com/tv/zb/mg.php?id=CCTV14
+CCTV15,https://www.shqsy.com/tv/zb/mg.php?id=CCTV15
+CCTV17,https://www.shqsy.com/tv/zb/mg.php?id=CCTV17
+
+
 地方,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
@@ -535,3 +556,16 @@ Hot精品剧场,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Con
 晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8?zshanxd
 晋中新闻,http://jzlive.jztvnews.com:90/live/jzzh.m3u8?zshanxd
 
+内蒙古综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
+内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
+内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
+内蒙古农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
+内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
+内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
+呼和浩特新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
+包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
+鄂尔多斯新闻综合,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
+巴彦淖尔新闻综合,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
+赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
+乌兰察布新闻综合,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800

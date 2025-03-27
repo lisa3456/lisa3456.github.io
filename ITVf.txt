@@ -218,7 +218,6 @@ CCTV2,http://goo.bkpcp.top/mg/cctv2
 CCTV3,http://goo.bkpcp.top/mg/cctv3
 CCTV4,http://goo.bkpcp.top/mg/cctv4
 CCTV5,http://goo.bkpcp.top/mg/cctv5
-CCTV5+,http://goo.bkpcp.top/mg/cctv5p
 CCTV6,http://goo.bkpcp.top/mg/cctv6
 CCTV7,http://goo.bkpcp.top/mg/cctv7
 CCTV8,http://goo.bkpcp.top/mg/cctv8

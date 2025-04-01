@@ -120,6 +120,75 @@ CCTV13,http://goo.bkpcp.top/mg/cctv13
 CCTV14,http://goo.bkpcp.top/mg/cctv14
 CCTV15,http://goo.bkpcp.top/mg/cctv15
 CCTV17,http://goo.bkpcp.top/mg/cctv17
+东方卫视,http://cdn6.bkpcp.top/148/mg.php?id=dfws 
+重庆卫视,http://cdn6.bkpcp.top/148/mg.php?id=cqws 
+吉林卫视,http://cdn6.bkpcp.top/148/mg.php?id=jlws 
+辽宁卫视,http://cdn6.bkpcp.top/148/mg.php?id=lnws 
+内蒙古卫视,http://cdn6.bkpcp.top/148/mg.php?id=nmws
+宁夏卫视,http://cdn6.bkpcp.top/148/mg.php?id=nxws
+甘肃卫视,http://cdn6.bkpcp.top/148/mg.php?id=gsws 
+青海卫视,http://cdn6.bkpcp.top/148/mg.php?id=qhws 
+陕西卫视,http://cdn6.bkpcp.top/148/mg.php?id=sxws 
+山东卫视,http://cdn6.bkpcp.top/148/mg.php?id=sdws 
+河南卫视,http://cdn6.bkpcp.top/148/mg.php?id=hnws 
+湖北卫视,http://cdn6.bkpcp.top/148/mg.php?id=hubws 
+湖南卫视,http://cdn6.bkpcp.top/148/mg.php?id=hunws
+江西卫视,http://cdn6.bkpcp.top/148/mg.php?id=jxws 
+江苏卫视,http://cdn6.bkpcp.top/148/mg.php?id=jsws 
+东南卫视x ,http://cdn6.bkpcp.top/148/mg.php?id=dnws 
+海峡卫视,http://cdn6.bkpcp.top/148/mg.php?id=hxws 
+广东卫视x ,http://cdn6.bkpcp.top/148/mg.php?id=gdws
+大湾区卫视 ,http://cdn6.bkpcp.top/148/mg.php?id=dwqws
+广西卫视,http://cdn6.bkpcp.top/148/mg.php?id=gxws 
+云南卫视,http://cdn6.bkpcp.top/148/mg.php?id=ynws 
+贵州卫视,http://cdn6.bkpcp.top/148/mg.php?id=gzws 
+新疆卫视,http://cdn6.bkpcp.top/148/mg.php?id=xjws 
+西藏卫视,http://cdn6.bkpcp.top/148/mg.php?id=xzws 
+海南卫视,http://cdn6.bkpcp.top/148/mg.php?id=hinws 
+CHC动作电影 ,http://cdn6.bkpcp.top/148/mg.php?id=chcdzdy 
+CHC家庭影院 ,http://cdn6.bkpcp.top/148/mg.php?id=chcjtdy 
+东方影视,http://cdn6.bkpcp.top/148/mg.php?id=dfys 
+上海新闻综合,http://cdn6.bkpcp.top/148/mg.php?id=shxwzh 
+上海第一财,http://cdn6.bkpcp.top/148/mg.php?id=dycj 
+上视纪实人文,http://cdn6.bkpcp.top/148/mg.php?id=shjsrw
+法治天地,http://cdn6.bkpcp.top/148/mg.php?id=fztd 
+劲爆体育,http://cdn6.bkpcp.top/148/mg.php?id=jbty 
+魅力足球,http://cdn6.bkpcp.top/148/mg.php?id=mlzq 
+欢笑剧场,http://cdn6.bkpcp.top/148/mg.php?id=hxjc  
+游戏风云,http://cdn6.bkpcp.top/148/mg.php?id=yxfy 
+临洮电视台,http://cdn6.bkpcp.top/148/mg.php?id=lttv
+江苏城市,http://cdn6.bkpcp.top/148/mg.php?id=jscs 
+江苏综艺,http://cdn6.bkpcp.top/148/mg.php?id=jszy
+江苏影视,http://cdn6.bkpcp.top/148/mg.php?id=jsys
+江苏公共新闻,http://cdn6.bkpcp.top/148/mg.php?id=jsggxw 
+江苏国际,http://cdn6.bkpcp.top/148/mg.php?id=jsgj 
+江苏教育,http://cdn6.bkpcp.top/148/mg.php?id=jsjy 
+江苏体育休闲,http://cdn6.bkpcp.top/148/mg.php?id=jstyxx
+南京新闻综合,http://cdn6.bkpcp.top/148/mg.php?id=njxwzh
+南京教科,http://cdn6.bkpcp.top/148/mg.php?id=njkj 
+南京十八,http://cdn6.bkpcp.top/148/mg.php?id=njsb 
+淮安新闻综合,http://cdn6.bkpcp.top/148/mg.php?id=haxwzh
+连云港新闻综合 ,http://cdn6.bkpcp.top/148/mg.php?id=lygxwzh 
+苏州新闻综合,http://cdn6.bkpcp.top/148/mg.php?id=szxwzh 
+泰州新闻综合,http://cdn6.bkpcp.top/148/mg.php?id=tzxwzh 
+宿迁新闻综合,http://cdn6.bkpcp.top/148/mg.php?id=sqxwzh
+徐州新闻综合,http://cdn6.bkpcp.top/148/mg.php?id=xzxwzh 
+广东影视,http://cdn6.bkpcp.top/148/mg.php?id=gdys 
+高清大片 ,http://cdn6.bkpcp.top/148/mg.php?id=gqdp 
+和平精英赛事 ,http://cdn6.bkpcp.top/148/mg.php?id=hpjxss 
+红色轮播台,http://cdn6.bkpcp.top/148/mg.php?id=hslbt 
+军事迷必看大片 ,http://cdn6.bkpcp.top/148/mg.php?id=jsdp
+咪咕24小时体育台 ,http://cdn6.bkpcp.top/148/mg.php?id=mg24hty 
+玫瑰轮播台,http://cdn6.bkpcp.top/148/mg.php?id=mglbt 
+NBA经典 ,http://cdn6.bkpcp.top/148/mg.php?id=nbajd 
+欧洲足球风云,http://cdn6.bkpcp.top/148/mg.php?id=ozzqfy 
+热剧联播,http://cdn6.bkpcp.top/148/mg.php?id=rjlb 
+赛事最经典,http://cdn6.bkpcp.top/148/mg.php?id=sszjd 
+体坛名栏汇,http://cdn6.bkpcp.top/148/mg.php?id=ttmlh 
+五大联赛经典,http://cdn6.bkpcp.top/148/mg.php?id=wdlsjd  
+新片放映厅,http://cdn6.bkpcp.top/148/mg.php?id=xpfyt 
+英雄联盟赛事,http://cdn6.bkpcp.top/148/mg.php?id=yxlmss 
+最强综艺趴,http://cdn6.bkpcp.top/148/mg.php?id=zqzyp 
 
 
 地方,#genre#

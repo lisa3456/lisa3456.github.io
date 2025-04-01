@@ -367,7 +367,11 @@
 			"regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
                 "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY"
+                "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:.*?\\.\\d{1}66667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:.*?\\.\\d{1}33333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
 			]
 	   },
        {
@@ -380,15 +384,19 @@
                 "high"
 			],
 			"regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.720001,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?[^0]\\d{4,5}\\.ts\\s+",
-                "#EXTINF.*?\\s+.*?\\w{18}\\.ts\\s+"
+                 "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n.*?\\n#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:.*?\\.\\d{1}66667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "19.966666"
 			]
 	   },
        {
 			"name": "暴风",
 			"hosts": [
-				"cdnbf","bbff"
+				"cdnbf","bbff","bvvvvvvv7f"
 			],
 			"regex": [
                 "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",

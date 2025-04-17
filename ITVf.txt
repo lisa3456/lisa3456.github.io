@@ -385,6 +385,22 @@ CCTV17,http://goo.bkpcp.top/mg/cctv17
 晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8?zshanxd
 晋中新闻,http://jzlive.jztvnews.com:90/live/jzzh.m3u8?zshanxd
 
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+青海综合,http://lmt.scqstv.com/live1/live1.m3u8
+经济生活,http://stream.qhbtv.com/qhsh/playlist.m3u8
+都市频道,http://stream.qhbtv.com/qhds/playlist.m3u8
+西宁综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
+西宁生活,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+大通电视,http://dtrmlive.qhdtrm.cn/testpush/playlist.m3u8
+湟中电视,http://livecdn.dmqhyadmin.com/hls/xjhuangzhong.m3u8
+贵南电视,http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
+兴海电视,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
+化隆电视,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
+民和电视,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8	
+门源电视,http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
+囊谦综合,http://pili-live-hls-qhnqapp2020.sobeylive.com/qhnqapp2020/qhnqtv01.m3u8
+
 
 数字,#genre#
 NewTV超级电视剧,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008139&livemode=1&stbId=yu&mode=1

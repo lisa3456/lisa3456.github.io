@@ -385,11 +385,7 @@ CCTV17,http://goo.bkpcp.top/mg/cctv17
 晋中公共,http://jzlive.jztvnews.com:90/live/jzgg.m3u8?zshanxd
 晋中新闻,http://jzlive.jztvnews.com:90/live/jzzh.m3u8?zshanxd
 
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 青海综合,http://lmt.scqstv.com/live1/live1.m3u8
-经济生活,http://stream.qhbtv.com/qhsh/playlist.m3u8
-都市频道,http://stream.qhbtv.com/qhds/playlist.m3u8
 西宁综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 西宁生活,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 大通电视,http://dtrmlive.qhdtrm.cn/testpush/playlist.m3u8

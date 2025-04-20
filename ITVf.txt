@@ -7,7 +7,6 @@ CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
@@ -60,11 +59,6 @@ CCTV17,http://goo.bkpcp.top/mg/cctv17
 绍兴公共频道,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
-南京新闻综合,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8
-南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8
-南京十八生活,http://live.nbs.cn/channels/njtv/sbsh/nbs24.m3u8
-南京文旅纪录,http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 张家港新闻综合,http://3gvod.zjgonline.com.cn:1935/live/_definst_/xinwenzonghe_app/chunklist.m3u8
 张家港民生,http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
 苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8

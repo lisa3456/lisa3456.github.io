@@ -12,23 +12,6 @@
       "indexs": 1
     },
     {
-      "key": "导航",
-      "name": "导航",
-      "type": 1,
-      "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "indexs": 1, 
-      "categories": [
-        "国产剧",
-        "大陆综艺",
-        "动作片",
-        "喜剧片"
-      ]
-    },
-    {
       "key": "csp_lz",
       "name": "量子",
       "type": 1,

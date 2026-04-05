@@ -12,18 +12,20 @@
       "indexs": 1
     },
     {
-      "key": "csp_bf",
-      "name": "暴风",
+    {
+      "key": "导航",
+      "name": "导航",
       "type": 1,
-      "api": "http://by.bfzyapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2, 
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "indexs": 1, 
       "categories": [
         "国产剧",
-        "大陆综艺"
+        "大陆综艺",
+        "动作片",
+        "喜剧片"
       ]
     },
     {
@@ -42,6 +44,17 @@
       "name": "非凡",
       "type": 1,
       "api": "http://new.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "csp_bf",
+      "name": "暴风",
+      "type": 1,
+      "api": "http://by.bfzyapi.com/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,

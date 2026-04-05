@@ -113,7 +113,7 @@
       "key": "央库云",
       "name": "央视",
       "type": 3,
-      "api": "./py/央库云.py",
+      "api": "./ys.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -135,7 +135,7 @@
     {
       "name": "直播",
       "type": 0,
-      "url": "./zb.txt",
+      "url": "./hotel.txt",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
     }
   ],

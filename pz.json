@@ -166,7 +166,8 @@
         "ffzy"
       ],
       "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*(?:#EXTINF:.*?\\n*.*?\\n*){4,8}#EXT-X-DISCONTINUITY"
+        "#EXT-X-DISCONTINUITY\\r*\\n*(?:#EXTINF:.*?\\r*\\n*.*?\\r*\\n*){2,3}#EXT-X-DISCONTINUITY\\r*\\n*(?:#EXTINF:.*?\\r*\\n*.*?\\r*\\n*){2,3}#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*(?:#EXTINF:\\d+.\\d{4,},\\r*\\n*.*?\\r*\\n*){4,8}#EXT-X-DISCONTINUITY"
       ]
     },
     {

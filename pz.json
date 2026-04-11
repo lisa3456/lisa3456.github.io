@@ -146,7 +146,6 @@
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
     }
   ],
-  "parses": [],
   "rules": [
     {
       "name": "量子",
@@ -232,19 +231,6 @@
       "name": "360",
       "url": "https://doh.360.cn/dns-query"
     }
-  ],
-  "hosts": [],
-  "flags": [
-    "youku",
-    "qq",
-    "iqiyi",
-    "qiyi",
-    "letv",
-    "sohu",
-    "bilibili",
-    "pptv",
-    "mgtv",
-    "tucheng"
   ],
   "wallpaper": "https://lisa3456.github.io/bz.jpg"
 }

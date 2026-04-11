@@ -67,6 +67,17 @@
       "playerType": 2
     },
     {
+      "key": "csp_ak",
+      "name": "爱坤",
+      "type": 1,
+      "api": "http://ikunzy.cc/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
       "key": "csp_wj",
       "name": "无尽",
       "type": 1,
@@ -188,7 +199,8 @@
       "name": "360",
       "hosts": [
         "360zy0",
-        "maowushi0"
+        "maowushi0",
+        "ikuncdn0"
       ],
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=[\\s\\S]*?#EXT-X-DISCONTINUITY"

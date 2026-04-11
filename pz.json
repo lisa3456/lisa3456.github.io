@@ -12,50 +12,6 @@
       "indexs": 1
     },
     {
-      "key": "csp_lz",
-      "name": "量子",
-      "type": 1,
-      "api": "http://s.lziapi.com/api.php/provide/vod/from/lzm3u8/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "csp_ff",
-      "name": "非凡",
-      "type": 1,
-      "api": "http://new.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "csp_bf",
-      "name": "暴风",
-      "type": 1,
-      "api": "http://by.bfzyapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "csp_yz",
-      "name": "优质",
-      "type": 1,
-      "api": "http://api.yzzy-api.com/inc/apijson.php?ac=list",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "csp_36",
       "name": "三六",
       "type": 1,
@@ -144,67 +100,6 @@
       "type": 0,
       "url": "./hotel.txt",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
-    }
-  ],
-  "rules": [
-    {
-      "name": "量子",
-      "hosts": [
-        "lz",
-        "lfthirtytwo"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:5.720001,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-        "#EXTINF.*?\\s+.*?[^0]\\d{4,5}\\.ts\\s+",
-        "#EXTINF.*?\\s+.*?\\w{18}\\.ts\\s+"
-      ]
-    },
-    {
-      "name": "非凡",
-      "hosts": [
-        "ffzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*(?:#EXTINF:.*?\\r*\\n*.*?\\r*\\n*){2,3}#EXT-X-DISCONTINUITY\\r*\\n*(?:#EXTINF:.*?\\r*\\n*.*?\\r*\\n*){2,3}#EXT-X-DISCONTINUITY",
-        "#EXT-X-DISCONTINUITY\\r*\\n*(?:#EXTINF:\\d+.\\d{4,},\\r*\\n*.*?\\r*\\n*){4,8}#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "优质",
-      "hosts": [
-        "yzzy",
-        "yyzy",
-        "-cdn",
-        "hdzyk",
-        "high"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*(?:#EXTINF:.*?\\n*.*?\\n*){4,7}#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "暴风",
-      "hosts": [
-        "cdnbf",
-        "bbff",
-        "bvvvvvvv",
-        "fengbao"
-      ],
-      "regex": [
-        "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
-        "#EXTINF.*?\\s+.*?\\w{12}\\.ts\\s+"
-      ]
-    },
-    {
-      "name": "360",
-      "hosts": [
-        "360zy0",
-        "maowushi0",
-        "ikuncdn0"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXT-X-KEY:METHOD=[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
     }
   ],
   "doh": [

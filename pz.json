@@ -84,17 +84,6 @@
       "playerType": 2
     },
     {
-      "key": "网易云",
-      "name": "听歌",
-      "type": 3,
-      "api": "./wyy.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,

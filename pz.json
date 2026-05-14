@@ -95,17 +95,6 @@
       }
     },
     {
-      "key": "央库云",
-      "name": "央视",
-      "type": 3,
-      "api": "./ys.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
